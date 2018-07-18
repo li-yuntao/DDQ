@@ -1,7 +1,7 @@
 from .usersim import UserSimulator
 import argparse, json, random, copy, sys
 import numpy as np
-from user_model import SimulatorModel
+from deep_dialog.usersims.user_model import SimulatorModel
 from collections import namedtuple, deque
 from deep_dialog import dialog_config
 
@@ -287,7 +287,7 @@ class ModelBasedSimulator(UserSimulator):
         for (i, action) in enumerate(self.feasible_actions_users):
             if act_slot_response == action:
                 return i
-        print act_slot_response
+        print(act_slot_response)
         raise Exception("action index not found")
         return None
 

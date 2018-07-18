@@ -6,7 +6,7 @@ Created on May 25, 2016
 
 import copy, random
 from deep_dialog import dialog_config
-from agent import Agent
+from deep_dialog.agents.agent import Agent
 
 
 class InformAgent(Agent):
