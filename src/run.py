@@ -53,20 +53,20 @@ if __name__ == "__main__":
                         default='./deep_dialog/data/dia_act_nl_pairs.v6.json',
                         help='path to the pre-defined dia_act&NL pairs')
 
-    parser.add_argument('--max_turn', dest='max_turn', default=20, type=int,
-                        help='maximum length of each dialog (default=20, 0=no maximum length)')
-    parser.add_argument('--episodes', dest='episodes', default=1, type=int,
-                        help='Total number of episodes to run (default=1)')
-    parser.add_argument('--slot_err_prob', dest='slot_err_prob', default=0.05, type=float,
+    parser.add_argument('--max_turn', dest='max_turn', default=40, type=int,
+                        help='maximum length of each dialog (default=40, 0=no maximum length)')
+    parser.add_argument('--episodes', dest='episodes', default=500, type=int,
+                        help='Total number of episodes to run (default=500)')
+    parser.add_argument('--slot_err_prob', dest='slot_err_prob', default=0.00, type=float,
                         help='the slot err probability')
     parser.add_argument('--slot_err_mode', dest='slot_err_mode', default=0, type=int,
                         help='slot_err_mode: 0 for slot_val only; 1 for three errs')
-    parser.add_argument('--intent_err_prob', dest='intent_err_prob', default=0.05, type=float,
+    parser.add_argument('--intent_err_prob', dest='intent_err_prob', default=0.00, type=float,
                         help='the intent err probability')
 
-    parser.add_argument('--agt', dest='agt', default=0, type=int,
-                        help='Select an agent: 0 for a command line input, 1-6 for rule based agents')
-    parser.add_argument('--usr', dest='usr', default=0, type=int,
+    parser.add_argument('--agt', dest='agt', default=9, type=int,
+                        help='Select an agent: 9 for a command line input, 1-6 for rule based agents')
+    parser.add_argument('--usr', dest='usr', default=1, type=int,
                         help='Select a user simulator. 0 is a Frozen user simulator.')
 
     parser.add_argument('--epsilon', dest='epsilon', type=float, default=0,
@@ -82,7 +82,7 @@ if __name__ == "__main__":
 
     parser.add_argument('--act_level', dest='act_level', type=int, default=0,
                         help='0 for dia_act level; 1 for NL level')
-    parser.add_argument('--run_mode', dest='run_mode', type=int, default=0,
+    parser.add_argument('--run_mode', dest='run_mode', type=int, default=3,
                         help='run_mode: 0 for default NL; 1 for dia_act; 2 for both')
     parser.add_argument('--auto_suggest', dest='auto_suggest', type=int, default=0,
                         help='0 for no auto_suggest; 1 for auto_suggest')
@@ -92,12 +92,12 @@ if __name__ == "__main__":
     # RL agent parameters
     parser.add_argument('--experience_replay_pool_size', dest='experience_replay_pool_size', type=int, default=5000,
                         help='the size for experience replay')
-    parser.add_argument('--dqn_hidden_size', dest='dqn_hidden_size', type=int, default=60,
+    parser.add_argument('--dqn_hidden_size', dest='dqn_hidden_size', type=int, default=80,
                         help='the hidden size for DQN')
     parser.add_argument('--batch_size', dest='batch_size', type=int, default=16, help='batch size')
     parser.add_argument('--gamma', dest='gamma', type=float, default=0.9, help='gamma for DQN')
     parser.add_argument('--predict_mode', dest='predict_mode', type=bool, default=False, help='predict model for DQN')
-    parser.add_argument('--simulation_epoch_size', dest='simulation_epoch_size', type=int, default=50,
+    parser.add_argument('--simulation_epoch_size', dest='simulation_epoch_size', type=int, default=100,
                         help='the size of validation set')
     parser.add_argument('--warm_start', dest='warm_start', type=int, default=1,
                         help='0: no warm start; 1: warm start for training')
@@ -109,7 +109,7 @@ if __name__ == "__main__":
     parser.add_argument('--trained_model_path', dest='trained_model_path', type=str, default=None,
                         help='the path for trained model')
     parser.add_argument('-o', '--write_model_dir', dest='write_model_dir', type=str,
-                        default='./deep_dialog/checkpoints/', help='write model to disk')
+                        default='./deep_dialog/checkpoints/DDQAgent', help='write model to disk')
     parser.add_argument('--save_check_point', dest='save_check_point', type=int, default=10,
                         help='number of epochs for saving model')
 
@@ -159,7 +159,7 @@ for u_goal_id, u_goal in enumerate(all_goal_set):
 # end split goal set
 
 movie_kb_path = params['movie_kb_path']
-movie_kb = pickle.load(open(movie_kb_path, 'rb'))
+movie_kb = pickle.load(open(movie_kb_path, 'rb'), encoding='bytes')
 
 act_set = text_to_dict(params['act_set'])
 slot_set = text_to_dict(params['slot_set'])
@@ -167,7 +167,7 @@ slot_set = text_to_dict(params['slot_set'])
 ################################################################################
 # a movie dictionary for user simulator - slot:possible values
 ################################################################################
-movie_dictionary = pickle.load(open(dict_path, 'rb'))
+movie_dictionary = pickle.load(open(dict_path, 'rb'), encoding='bytes')
 
 dialog_config.run_mode = params['run_mode']
 dialog_config.auto_suggest = params['auto_suggest']

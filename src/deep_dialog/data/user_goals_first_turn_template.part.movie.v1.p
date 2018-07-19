@@ -530,15 +530,15 @@ S'date'
 p241
 S'tomorrow'
 p242
-sS'moviename'
+sS'theater'
 p243
-S'risen'
+S'regency commerce 14'
 p244
 sg11
 S'3'
-sS'theater'
+sS'moviename'
 p245
-S'regency commerce 14'
+S'risen'
 p246
 ssa(dp247
 g3
@@ -949,15 +949,15 @@ S'date'
 p414
 S'tomorrow'
 p415
-sS'moviename'
+sS'theater'
 p416
-S'gods of egypt'
+S'regal theater'
 p417
 sg11
 S'4'
-sS'theater'
+sS'moviename'
 p418
-S'regal theater'
+S'gods of egypt'
 p419
 sS'city'
 p420
@@ -1048,15 +1048,15 @@ S'date'
 p453
 S'tomorrow'
 p454
-sS'moviename'
+sS'theater'
 p455
-S'risen'
+S'regency commerce 14'
 p456
 sg11
 S'2'
-sS'theater'
+sS'moviename'
 p457
-S'regency commerce 14'
+S'risen'
 p458
 ssa(dp459
 g3
@@ -1615,17 +1615,17 @@ sS'theater'
 p666
 S'pacific place 11 theater'
 p667
-sS'date'
+sS'theater_chain'
 p668
-S'tomorrow'
+S'amc'
 p669
 sS'starttime'
 p670
 S'9:30 pm'
 p671
-sS'theater_chain'
+sS'date'
 p672
-S'amc'
+S'tomorrow'
 p673
 sS'moviename'
 p674
@@ -2482,15 +2482,15 @@ ssg5
 g6
 sg7
 (dp1026
-S'moviename'
+S'theater'
 p1027
-S'star wars'
+S'shelby township'
 p1028
 sg11
 S'2'
-sS'theater'
+sS'moviename'
 p1029
-S'shelby township'
+S'star wars'
 p1030
 ssa(dp1031
 g3
@@ -2856,15 +2856,15 @@ ssg5
 g6
 sg7
 (dp1188
-S'moviename'
+S'theater'
 p1189
-S'10 cloverfield lane'
+S'beaver creek stadium 12'
 p1190
 sg11
 S'3'
-sS'theater'
+sS'moviename'
 p1191
-S'beaver creek stadium 12'
+S'10 cloverfield lane'
 p1192
 ssa(dp1193
 g3
@@ -3220,17 +3220,17 @@ ssg5
 g6
 sg7
 (dp1342
-S'moviename'
+S'theater'
 p1343
-S'the other side of the door'
+S'southpoint casino'
 p1344
 sS'numberofpeople'
 p1345
 S'two'
 p1346
-sS'theater'
+sS'moviename'
 p1347
-S'southpoint casino'
+S'the other side of the door'
 p1348
 sS'city'
 p1349

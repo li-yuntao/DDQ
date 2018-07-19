@@ -1,5 +1,5 @@
 (dp1
-I0
+L0L
 (dp2
 S'city'
 p3
@@ -37,7 +37,7 @@ sS'moviename'
 p19
 S'zootopia'
 p20
-ssI1
+ssL1L
 (dp21
 g3
 S'manville'
@@ -58,7 +58,7 @@ sg17
 g18
 sg19
 g20
-ssI2
+ssL2L
 (dp23
 g3
 S'bridgewater'
@@ -79,7 +79,7 @@ sg17
 g18
 sg19
 g20
-ssI3
+ssL3L
 (dp25
 g3
 g4
@@ -100,7 +100,7 @@ sg17
 g18
 sg19
 g20
-ssI4
+ssL4L
 (dp27
 g3
 g22
@@ -120,7 +120,7 @@ sg17
 g18
 sg19
 g20
-ssI5
+ssL5L
 (dp28
 S'city'
 p29
@@ -154,7 +154,7 @@ sS'moviename'
 p43
 S'kung fu panda 3'
 p44
-ssI6
+ssL6L
 (dp45
 g29
 S'bellevue'
@@ -173,7 +173,7 @@ sg41
 g42
 sg43
 g44
-ssI7
+ssL7L
 (dp47
 g29
 g30
@@ -192,7 +192,7 @@ sg41
 g42
 sg43
 g44
-ssI8
+ssL8L
 (dp49
 g29
 g46
@@ -210,7 +210,7 @@ sg41
 g42
 sg43
 g44
-ssI9
+ssL9L
 (dp50
 g29
 g30
@@ -229,7 +229,7 @@ sg41
 g42
 sg43
 g44
-ssI10
+ssL10L
 (dp52
 S'city'
 p53
@@ -271,7 +271,7 @@ sS'moviename'
 p71
 S'zootopia'
 p72
-ssI11
+ssL11L
 (dp73
 g53
 S'bellevue'
@@ -294,7 +294,7 @@ sg69
 g70
 sg71
 g72
-ssI12
+ssL12L
 (dp75
 g53
 g54
@@ -317,7 +317,7 @@ sg69
 g70
 sg71
 g72
-ssI13
+ssL13L
 (dp77
 g53
 g74
@@ -339,7 +339,7 @@ sg69
 g70
 sg71
 g72
-ssI14
+ssL14L
 (dp78
 g53
 g54
@@ -362,7 +362,7 @@ sg69
 g70
 sg71
 g72
-ssI15
+ssL15L
 (dp80
 S'city'
 p81
@@ -388,7 +388,7 @@ sS'moviename'
 p91
 S'zootopia'
 p92
-ssI16
+ssL16L
 (dp93
 g81
 g82
@@ -403,7 +403,7 @@ sg89
 g90
 sg91
 g92
-ssI17
+ssL17L
 (dp95
 g81
 g82
@@ -418,7 +418,7 @@ sg89
 g90
 sg91
 g92
-ssI18
+ssL18L
 (dp97
 g81
 g82
@@ -432,7 +432,7 @@ sg89
 g90
 sg91
 g92
-ssI19
+ssL19L
 (dp98
 g81
 g82
@@ -447,7 +447,7 @@ sg89
 g90
 sg91
 g92
-ssI20
+ssL20L
 (dp100
 S'date'
 p101
@@ -469,7 +469,7 @@ sS'starttime'
 p109
 S'night'
 p110
-ssI21
+ssL21L
 (dp111
 g101
 g102
@@ -482,7 +482,7 @@ S'Redwood City 20'
 p112
 sg109
 g110
-ssI22
+ssL22L
 (dp113
 g101
 g102
@@ -495,7 +495,7 @@ g108
 sg109
 S'11:05am'
 p114
-ssI23
+ssL23L
 (dp115
 g101
 g102
@@ -507,7 +507,7 @@ sg107
 g112
 sg109
 g114
-ssI24
+ssL24L
 (dp116
 g101
 g102
@@ -520,7 +520,7 @@ g108
 sg109
 S'1:45pm'
 p117
-ssI25
+ssL25L
 (dp118
 S'city'
 p119
@@ -546,7 +546,7 @@ sS'moviename'
 p129
 S'london has fallen'
 p130
-ssI26
+ssL26L
 (dp131
 g119
 g120
@@ -561,7 +561,7 @@ sg127
 g128
 sg129
 g130
-ssI27
+ssL27L
 (dp133
 g119
 g120
@@ -576,7 +576,7 @@ g128
 sg129
 S'whiskey tango foxtrot'
 p134
-ssI28
+ssL28L
 (dp135
 g119
 g120
@@ -590,7 +590,7 @@ sg127
 g128
 sg129
 g134
-ssI29
+ssL29L
 (dp136
 g119
 g120
@@ -605,7 +605,7 @@ g128
 sg129
 S'zootopia'
 p137
-ssI30
+ssL30L
 (dp138
 S'date'
 p139
@@ -627,7 +627,7 @@ sS'starttime'
 p147
 S'9:00 pm'
 p148
-ssI31
+ssL31L
 (dp149
 S'city'
 p150
@@ -653,7 +653,7 @@ sS'moviename'
 p160
 S'deadpool'
 p161
-ssI32
+ssL32L
 (dp162
 g150
 g151
@@ -668,7 +668,7 @@ sg158
 g159
 sg160
 g161
-ssI33
+ssL33L
 (dp164
 S'date'
 p165
@@ -690,7 +690,7 @@ sS'starttime'
 p173
 S'9:10 pm'
 p174
-ssI34
+ssL34L
 (dp175
 S'date'
 p176
@@ -712,7 +712,7 @@ sS'starttime'
 p184
 S'8:45 pm'
 p185
-ssI35
+ssL35L
 (dp186
 g176
 g177
@@ -725,7 +725,7 @@ g183
 sg184
 S'8:45'
 p187
-ssI36
+ssL36L
 (dp188
 S'city'
 p189
@@ -751,7 +751,7 @@ sS'moviename'
 p199
 S'star wars'
 p200
-ssI37
+ssL37L
 (dp201
 g189
 g190
@@ -766,7 +766,7 @@ sg197
 g198
 sg199
 g200
-ssI38
+ssL38L
 (dp203
 S'city'
 p204
@@ -800,7 +800,7 @@ sS'moviename'
 p218
 S'zootopia'
 p219
-ssI39
+ssL39L
 (dp220
 g204
 g205
@@ -819,7 +819,7 @@ sg216
 g217
 sg218
 g219
-ssI40
+ssL40L
 (dp222
 g204
 g205
@@ -838,7 +838,7 @@ sg216
 g217
 sg218
 g219
-ssI41
+ssL41L
 (dp224
 g204
 g205
@@ -856,7 +856,7 @@ sg216
 g217
 sg218
 g219
-ssI42
+ssL42L
 (dp225
 g204
 g205
@@ -875,7 +875,7 @@ g217
 sg218
 S' kung fu panda 3'
 p226
-ssI43
+ssL43L
 (dp227
 S'date'
 p228
@@ -897,7 +897,7 @@ sS'starttime'
 p236
 S'9:30 pm'
 p237
-ssI44
+ssL44L
 (dp238
 S'theater'
 p239
@@ -927,7 +927,7 @@ sS'moviename'
 p251
 S'zootopia'
 p252
-ssI45
+ssL45L
 (dp253
 g239
 g240
@@ -944,7 +944,7 @@ sg249
 g250
 sg251
 g252
-ssI46
+ssL46L
 (dp255
 g239
 g240
@@ -961,7 +961,7 @@ sg249
 g250
 sg251
 g252
-ssI47
+ssL47L
 (dp257
 g239
 g240
@@ -977,7 +977,7 @@ sg249
 g250
 sg251
 g252
-ssI48
+ssL48L
 (dp258
 g239
 g240
@@ -994,7 +994,7 @@ sg249
 g250
 sg251
 g252
-ssI49
+ssL49L
 (dp260
 S'date'
 p261
@@ -1016,7 +1016,7 @@ sS'starttime'
 p269
 S'9:30 pm'
 p270
-ssI50
+ssL50L
 (dp271
 S'city'
 p272
@@ -1050,7 +1050,7 @@ sS'moviename'
 p286
 S'deadpool'
 p287
-ssI51
+ssL51L
 (dp288
 g272
 S'Royal Oak'
@@ -1069,7 +1069,7 @@ sg284
 g285
 sg286
 g287
-ssI52
+ssL52L
 (dp290
 g272
 S'madison heights'
@@ -1088,7 +1088,7 @@ sg284
 g285
 sg286
 g287
-ssI53
+ssL53L
 (dp292
 g272
 g273
@@ -1107,7 +1107,7 @@ sg284
 g285
 sg286
 g287
-ssI54
+ssL54L
 (dp294
 g272
 g289
@@ -1125,7 +1125,7 @@ sg284
 g285
 sg286
 g287
-ssI55
+ssL55L
 (dp295
 S'city'
 p296
@@ -1143,7 +1143,7 @@ sS'starttime'
 p302
 S'7pm'
 p303
-ssI56
+ssL56L
 (dp304
 S'city'
 p305
@@ -1173,7 +1173,7 @@ sS'moviename'
 p317
 S'zootopia#kung fu panda 3'
 p318
-ssI57
+ssL57L
 (dp319
 g305
 g306
@@ -1190,7 +1190,7 @@ sg315
 g316
 sg317
 g318
-ssI58
+ssL58L
 (dp321
 g305
 g306
@@ -1207,7 +1207,7 @@ sg315
 g316
 sg317
 g318
-ssI59
+ssL59L
 (dp323
 g305
 g306
@@ -1224,7 +1224,7 @@ S'tomorrow'
 p324
 sg317
 g318
-ssI60
+ssL60L
 (dp325
 g305
 g306
@@ -1240,7 +1240,7 @@ sg315
 g324
 sg317
 g318
-ssI61
+ssL61L
 (dp326
 S'city'
 p327
@@ -1270,7 +1270,7 @@ sS'moviename'
 p339
 S'zootopia'
 p340
-ssI62
+ssL62L
 (dp341
 g327
 g328
@@ -1287,7 +1287,7 @@ sg337
 g338
 sg339
 g340
-ssI63
+ssL63L
 (dp343
 g327
 g328
@@ -1304,7 +1304,7 @@ sg337
 g338
 sg339
 g340
-ssI64
+ssL64L
 (dp345
 g327
 g328
@@ -1321,7 +1321,7 @@ sg337
 g338
 sg339
 g340
-ssI65
+ssL65L
 (dp347
 g327
 g328
@@ -1337,7 +1337,7 @@ sg337
 g338
 sg339
 g340
-ssI66
+ssL66L
 (dp348
 S'date'
 p349
@@ -1359,7 +1359,7 @@ sS'starttime'
 p357
 S'9:30 pm'
 p358
-ssI67
+ssL67L
 (dp359
 S'genre'
 p360
@@ -1381,7 +1381,7 @@ sS'actor'
 p368
 S'ryan reynolds'
 p369
-ssI68
+ssL68L
 (dp370
 g360
 S'violence'
@@ -1394,7 +1394,7 @@ sg366
 g367
 sg368
 g369
-ssI69
+ssL69L
 (dp372
 g360
 g361
@@ -1407,7 +1407,7 @@ sg366
 g367
 sg368
 g369
-ssI70
+ssL70L
 (dp374
 g360
 g371
@@ -1419,7 +1419,7 @@ sg366
 g367
 sg368
 g369
-ssI71
+ssL71L
 (dp375
 g360
 g361
@@ -1432,7 +1432,7 @@ S'London has fallen'
 p376
 sg368
 g369
-ssI72
+ssL72L
 (dp377
 S'city'
 p378
@@ -1458,7 +1458,7 @@ sS'moviename'
 p388
 S'london has fallen'
 p389
-ssI73
+ssL73L
 (dp390
 g378
 g379
@@ -1473,7 +1473,7 @@ sg386
 g387
 sg388
 g389
-ssI74
+ssL74L
 (dp392
 g378
 g379
@@ -1488,7 +1488,7 @@ sg386
 g387
 sg388
 g389
-ssI75
+ssL75L
 (dp394
 g378
 g379
@@ -1503,7 +1503,7 @@ sg386
 g387
 sg388
 g389
-ssI76
+ssL76L
 (dp396
 g378
 g379
@@ -1518,7 +1518,7 @@ sg386
 g387
 sg388
 g389
-ssI77
+ssL77L
 (dp398
 S'distanceconstraints'
 p399
@@ -1528,7 +1528,7 @@ sS'other'
 p401
 S'pub serves good burgers'
 p402
-ssI78
+ssL78L
 (dp403
 S'city'
 p404
@@ -1566,7 +1566,7 @@ sS'moviename'
 p420
 S'10 cloverfield lane'
 p421
-ssI79
+ssL79L
 (dp422
 g404
 S'bellevue'
@@ -1587,7 +1587,7 @@ sg418
 g419
 sg420
 g421
-ssI80
+ssL80L
 (dp424
 g404
 g405
@@ -1608,7 +1608,7 @@ sg418
 g419
 sg420
 g421
-ssI81
+ssL81L
 (dp426
 g404
 g423
@@ -1628,7 +1628,7 @@ sg418
 g419
 sg420
 g421
-ssI82
+ssL82L
 (dp427
 g404
 g405
@@ -1649,7 +1649,7 @@ sg418
 g419
 sg420
 g421
-ssI83
+ssL83L
 (dp429
 S'city'
 p430
@@ -1679,7 +1679,7 @@ sS'moviename'
 p442
 S'lolo'
 p443
-ssI84
+ssL84L
 (dp444
 g430
 g431
@@ -1696,7 +1696,7 @@ sg440
 g441
 sg442
 g443
-ssI85
+ssL85L
 (dp446
 g430
 g431
@@ -1713,7 +1713,7 @@ g441
 sg442
 S'deadpool'
 p447
-ssI86
+ssL86L
 (dp448
 g430
 g431
@@ -1729,7 +1729,7 @@ sg440
 g441
 sg442
 g447
-ssI87
+ssL87L
 (dp449
 S'city'
 p450
@@ -1771,7 +1771,7 @@ sS'moviename'
 p468
 S'deadpool'
 p469
-ssI88
+ssL88L
 (dp470
 g450
 g451
@@ -1794,7 +1794,7 @@ sg466
 g467
 sg468
 g469
-ssI89
+ssL89L
 (dp472
 g450
 g451
@@ -1817,7 +1817,7 @@ sg466
 g467
 sg468
 g469
-ssI90
+ssL90L
 (dp474
 g450
 g451
@@ -1839,7 +1839,7 @@ sg466
 g467
 sg468
 g469
-ssI91
+ssL91L
 (dp475
 S'city'
 p476
@@ -1881,7 +1881,7 @@ sS'moviename'
 p494
 S'how to be single'
 p495
-ssI92
+ssL92L
 (dp496
 g476
 g477
@@ -1904,7 +1904,7 @@ sg492
 g493
 sg494
 g495
-ssI93
+ssL93L
 (dp498
 g476
 g477
@@ -1927,7 +1927,7 @@ sg492
 g493
 sg494
 g495
-ssI94
+ssL94L
 (dp500
 g476
 g477
@@ -1949,7 +1949,7 @@ sg492
 g493
 sg494
 g495
-ssI95
+ssL95L
 (dp501
 g476
 g477
@@ -1972,7 +1972,7 @@ sg492
 g493
 sg494
 g495
-ssI96
+ssL96L
 (dp503
 S'city'
 p504
@@ -2006,7 +2006,7 @@ sS'moviename'
 p518
 S'the witch#the other side of the door#the boy'
 p519
-ssI97
+ssL97L
 (dp520
 g504
 g505
@@ -2025,7 +2025,7 @@ sg516
 g517
 sg518
 g519
-ssI98
+ssL98L
 (dp522
 g504
 g505
@@ -2044,7 +2044,7 @@ sg516
 g517
 sg518
 g519
-ssI99
+ssL99L
 (dp524
 g504
 g505
@@ -2063,7 +2063,7 @@ sg516
 g517
 sg518
 g519
-ssI100
+ssL100L
 (dp526
 g504
 g505
@@ -2082,7 +2082,7 @@ g517
 sg518
 S'the other side of the door'
 p527
-ssI101
+ssL101L
 (dp528
 S'date'
 p529
@@ -2104,7 +2104,7 @@ sS'starttime'
 p537
 S'7:10 pm'
 p538
-ssI102
+ssL102L
 (dp539
 g529
 g530
@@ -2117,7 +2117,7 @@ sg535
 g536
 sg537
 g538
-ssI103
+ssL103L
 (dp541
 S'date'
 p542
@@ -2139,7 +2139,7 @@ sS'starttime'
 p550
 S'9:10 pm'
 p551
-ssI104
+ssL104L
 (dp552
 S'moviename'
 p553
@@ -2153,7 +2153,7 @@ sS'starttime'
 p557
 S'betwenn 8-10 pm'
 p558
-ssI105
+ssL105L
 (dp559
 S'city'
 p560
@@ -2183,7 +2183,7 @@ sS'moviename'
 p572
 S'deadpool'
 p573
-ssI106
+ssL106L
 (dp574
 g560
 g561
@@ -2200,7 +2200,7 @@ sg570
 g571
 sg572
 g573
-ssI107
+ssL107L
 (dp576
 g560
 g561
@@ -2217,7 +2217,7 @@ sg570
 g571
 sg572
 g573
-ssI108
+ssL108L
 (dp578
 S'date'
 p579
@@ -2239,7 +2239,7 @@ sS'starttime'
 p587
 S'from noon to 4pm'
 p588
-ssI109
+ssL109L
 (dp589
 g579
 g580
@@ -2252,7 +2252,7 @@ S'regal la live stadium'
 p590
 sg587
 g588
-ssI110
+ssL110L
 (dp591
 g579
 g580
@@ -2265,7 +2265,7 @@ g586
 sg587
 S'8:30pm'
 p592
-ssI111
+ssL111L
 (dp593
 g579
 g580
@@ -2277,7 +2277,7 @@ sg585
 g590
 sg587
 g592
-ssI112
+ssL112L
 (dp594
 g579
 g580
@@ -2290,7 +2290,7 @@ g586
 sg587
 S'11:00pm'
 p595
-ssI113
+ssL113L
 (dp596
 S'date'
 p597
@@ -2312,7 +2312,7 @@ sS'starttime'
 p605
 S'8:45 pm'
 p606
-ssI114
+ssL114L
 (dp607
 S'distanceconstraints'
 p608
@@ -2326,7 +2326,7 @@ sS'theater'
 p612
 S'Big Picture'
 p613
-ssI115
+ssL115L
 (dp614
 g608
 g609
@@ -2335,7 +2335,7 @@ S'beer'
 p615
 sg612
 g613
-ssI116
+ssL116L
 (dp616
 g608
 g609
@@ -2344,7 +2344,7 @@ g611
 sg612
 S'Cinerama'
 p617
-ssI117
+ssL117L
 (dp618
 g608
 g609
@@ -2352,7 +2352,7 @@ sg610
 g615
 sg612
 g617
-ssI118
+ssL118L
 (dp619
 g608
 g609
@@ -2361,7 +2361,7 @@ g611
 sg612
 S'Central Cinema'
 p620
-ssI119
+ssL119L
 (dp621
 S'date'
 p622
@@ -2383,7 +2383,7 @@ sS'starttime'
 p630
 S'8:45 pm'
 p631
-ssI120
+ssL120L
 (dp632
 S'city'
 p633
@@ -2409,7 +2409,7 @@ sS'moviename'
 p643
 S'gods of egypt'
 p644
-ssI121
+ssL121L
 (dp645
 g633
 g634
@@ -2424,7 +2424,7 @@ sg641
 g642
 sg643
 g644
-ssI122
+ssL122L
 (dp647
 g633
 g634
@@ -2439,7 +2439,7 @@ g642
 sg643
 S'star wars'
 p648
-ssI123
+ssL123L
 (dp649
 g633
 g634
@@ -2453,7 +2453,7 @@ sg641
 g642
 sg643
 g648
-ssI124
+ssL124L
 (dp650
 S'date'
 p651
@@ -2475,7 +2475,7 @@ sS'starttime'
 p659
 S'9:10 pm'
 p660
-ssI125
+ssL125L
 (dp661
 S'city'
 p662
@@ -2504,7 +2504,7 @@ sS'moviename'
 p673
 S' Young Messiah'
 p674
-ssI126
+ssL126L
 (dp675
 g662
 g663
@@ -2521,7 +2521,7 @@ sg671
 g672
 sg673
 g674
-ssI127
+ssL127L
 (dp677
 g662
 g663
@@ -2538,7 +2538,7 @@ sg671
 g672
 sg673
 g674
-ssI128
+ssL128L
 (dp679
 g662
 g663
@@ -2555,7 +2555,7 @@ g672
 sg673
 S'The Young Messiah'
 p680
-ssI129
+ssL129L
 (dp681
 g662
 g663
@@ -2571,7 +2571,7 @@ sg671
 g672
 sg673
 g680
-ssI130
+ssL130L
 (dp682
 S'date'
 p683
@@ -2593,7 +2593,7 @@ sS'zip'
 p691
 S'94952'
 p692
-ssI131
+ssL131L
 (dp693
 g683
 g684
@@ -2606,7 +2606,7 @@ sg689
 g690
 sg691
 g692
-ssI132
+ssL132L
 (dp695
 g683
 g684
@@ -2619,7 +2619,7 @@ S'4:20pm'
 p696
 sg691
 g692
-ssI133
+ssL133L
 (dp697
 g683
 g684
@@ -2631,7 +2631,7 @@ sg689
 g696
 sg691
 g692
-ssI134
+ssL134L
 (dp698
 g683
 g684
@@ -2644,7 +2644,7 @@ S'6:55pm'
 p699
 sg691
 g692
-ssI135
+ssL135L
 (dp700
 S'date'
 p701
@@ -2662,7 +2662,7 @@ sS'starttime'
 p707
 S'11:50am'
 p708
-ssI136
+ssL136L
 (dp709
 g701
 g702
@@ -2673,7 +2673,7 @@ g706
 sg707
 S'2:30pm'
 p710
-ssI137
+ssL137L
 (dp711
 g701
 g702
@@ -2684,7 +2684,7 @@ g706
 sg707
 S'5:10'
 p712
-ssI138
+ssL138L
 (dp713
 g701
 g702
@@ -2695,7 +2695,7 @@ g706
 sg707
 S'7:50'
 p714
-ssI139
+ssL139L
 (dp715
 g701
 g702
@@ -2706,7 +2706,7 @@ g706
 sg707
 S'10:25'
 p716
-ssI140
+ssL140L
 (dp717
 S'date'
 p718
@@ -2728,7 +2728,7 @@ sS'starttime'
 p726
 S'9:25 pm'
 p727
-ssI141
+ssL141L
 (dp728
 S'date'
 p729
@@ -2750,7 +2750,7 @@ sS'starttime'
 p737
 S'9:00 pm'
 p738
-ssI142
+ssL142L
 (dp739
 S'city'
 p740
@@ -2776,7 +2776,7 @@ sS'moviename'
 p750
 S'zootopia'
 p751
-ssI143
+ssL143L
 (dp752
 g740
 g741
@@ -2791,7 +2791,7 @@ sg748
 g749
 sg750
 g751
-ssI144
+ssL144L
 (dp754
 g740
 g741
@@ -2806,7 +2806,7 @@ sg748
 g749
 sg750
 g751
-ssI145
+ssL145L
 (dp756
 g740
 g741
@@ -2821,7 +2821,7 @@ sg748
 g749
 sg750
 g751
-ssI146
+ssL146L
 (dp758
 g740
 g741
@@ -2835,7 +2835,7 @@ sg748
 g749
 sg750
 g751
-ssI147
+ssL147L
 (dp759
 S'date'
 p760
@@ -2857,7 +2857,7 @@ sS'starttime'
 p768
 S'9:30 pm'
 p769
-ssI148
+ssL148L
 (dp770
 S'city'
 p771
@@ -2887,7 +2887,7 @@ sS'moviename'
 p783
 S'zootopia'
 p784
-ssI149
+ssL149L
 (dp785
 g771
 g772
@@ -2904,7 +2904,7 @@ sg781
 g782
 sg783
 g784
-ssI150
+ssL150L
 (dp787
 g771
 g772
@@ -2921,7 +2921,7 @@ sg781
 g782
 sg783
 g784
-ssI151
+ssL151L
 (dp789
 g771
 g772
@@ -2937,7 +2937,7 @@ sg781
 g782
 sg783
 g784
-ssI152
+ssL152L
 (dp790
 g771
 g772
@@ -2954,7 +2954,7 @@ sg781
 g782
 sg783
 g784
-ssI153
+ssL153L
 (dp792
 S'city'
 p793
@@ -2996,7 +2996,7 @@ sS'moviename'
 p811
 S'zootopia'
 p812
-ssI154
+ssL154L
 (dp813
 g793
 S'bellevue'
@@ -3019,7 +3019,7 @@ sg809
 g810
 sg811
 g812
-ssI155
+ssL155L
 (dp815
 g793
 g794
@@ -3042,7 +3042,7 @@ sg809
 g810
 sg811
 g812
-ssI156
+ssL156L
 (dp817
 g793
 g814
@@ -3064,7 +3064,7 @@ sg809
 g810
 sg811
 g812
-ssI157
+ssL157L
 (dp818
 g793
 g794
@@ -3087,7 +3087,7 @@ sg809
 g810
 sg811
 g812
-ssI158
+ssL158L
 (dp820
 S'city'
 p821
@@ -3129,7 +3129,7 @@ sS'moviename'
 p839
 S'zootopia'
 p840
-ssI159
+ssL159L
 (dp841
 g821
 S'hoover'
@@ -3152,7 +3152,7 @@ sg837
 g838
 sg839
 g840
-ssI160
+ssL160L
 (dp843
 g821
 g822
@@ -3175,7 +3175,7 @@ sg837
 g838
 sg839
 g840
-ssI161
+ssL161L
 (dp845
 g821
 g842
@@ -3197,7 +3197,7 @@ sg837
 g838
 sg839
 g840
-ssI162
+ssL162L
 (dp846
 g821
 g822
@@ -3220,7 +3220,7 @@ sg837
 g838
 sg839
 g840
-ssI163
+ssL163L
 (dp848
 S'genre'
 p849
@@ -3238,7 +3238,7 @@ sS'theater'
 p855
 S'regal meridian sundance cinemas'
 p856
-ssI164
+ssL164L
 (dp857
 g849
 g850
@@ -3249,7 +3249,7 @@ S'the big short'
 p858
 sg855
 g856
-ssI165
+ssL165L
 (dp859
 g849
 g850
@@ -3260,7 +3260,7 @@ g854
 sg855
 S'regal thornton place'
 p860
-ssI166
+ssL166L
 (dp861
 g849
 g850
@@ -3270,18 +3270,18 @@ sg853
 g858
 sg855
 g860
-ssI167
+ssL167L
 (dp862
 S'moviename'
 p863
 S'Avengers'
 p864
-ssI168
+ssL168L
 (dp865
 g863
 S'Finding Dory'
 p866
-ssI169
+ssL169L
 (dp867
 S'city'
 p868
@@ -3315,7 +3315,7 @@ sS'moviename'
 p882
 S'zoology'
 p883
-ssI170
+ssL170L
 (dp884
 g868
 g869
@@ -3334,7 +3334,7 @@ sg880
 g881
 sg882
 g883
-ssI171
+ssL171L
 (dp886
 g868
 g869
@@ -3353,7 +3353,7 @@ sg880
 g881
 sg882
 g883
-ssI172
+ssL172L
 (dp888
 g868
 g869
@@ -3371,7 +3371,7 @@ sg880
 g881
 sg882
 g883
-ssI173
+ssL173L
 (dp889
 g868
 g869
@@ -3390,7 +3390,7 @@ sg880
 g881
 sg882
 g883
-ssI174
+ssL174L
 (dp891
 S'date'
 p892
@@ -3412,7 +3412,7 @@ sS'starttime'
 p900
 S'10pm'
 p901
-ssI175
+ssL175L
 (dp902
 g892
 S'tomorrow'
@@ -3425,7 +3425,7 @@ sg898
 g899
 sg900
 g901
-ssI176
+ssL176L
 (dp904
 g892
 g893
@@ -3438,7 +3438,7 @@ g899
 sg900
 S'10:00 pm'
 p905
-ssI177
+ssL177L
 (dp906
 g892
 g903
@@ -3450,7 +3450,7 @@ sg898
 g899
 sg900
 g905
-ssI178
+ssL178L
 (dp907
 S'date'
 p908
@@ -3464,7 +3464,7 @@ sS'moviename'
 p912
 S'batman'
 p913
-ssI179
+ssL179L
 (dp914
 g908
 S'openingnight'
@@ -3473,7 +3473,7 @@ sg910
 g911
 sg912
 g913
-ssI180
+ssL180L
 (dp916
 g908
 S' a different day'
@@ -3482,7 +3482,7 @@ sg910
 g911
 sg912
 g913
-ssI181
+ssL181L
 (dp918
 g908
 g909
@@ -3491,7 +3491,7 @@ g911
 sg912
 S'batman vs superman'
 p919
-ssI182
+ssL182L
 (dp920
 g908
 g915
@@ -3499,7 +3499,7 @@ sg910
 g911
 sg912
 g919
-ssI183
+ssL183L
 (dp921
 S'date'
 p922
@@ -3521,7 +3521,7 @@ sS'starttime'
 p930
 S'4:50 pm'
 p931
-ssI184
+ssL184L
 (dp932
 S'city'
 p933
@@ -3551,7 +3551,7 @@ sS'moviename'
 p945
 S'deadpool'
 p946
-ssI185
+ssL185L
 (dp947
 g933
 g934
@@ -3568,7 +3568,7 @@ sg943
 g944
 sg945
 g946
-ssI186
+ssL186L
 (dp949
 S'date'
 p950
@@ -3590,7 +3590,7 @@ sS'starttime'
 p958
 S'7:15 pm'
 p959
-ssI187
+ssL187L
 (dp960
 S'city'
 p961
@@ -3620,7 +3620,7 @@ sS'moviename'
 p973
 S'zootopia'
 p974
-ssI188
+ssL188L
 (dp975
 g961
 g962
@@ -3637,7 +3637,7 @@ sg971
 g972
 sg973
 g974
-ssI189
+ssL189L
 (dp977
 g961
 g962
@@ -3654,7 +3654,7 @@ sg971
 g972
 sg973
 g974
-ssI190
+ssL190L
 (dp979
 g961
 g962
@@ -3670,7 +3670,7 @@ sg971
 g972
 sg973
 g974
-ssI191
+ssL191L
 (dp980
 S'city'
 p981
@@ -3704,7 +3704,7 @@ sS'moviename'
 p995
 S'zootopia'
 p996
-ssI192
+ssL192L
 (dp997
 g981
 g982
@@ -3723,7 +3723,7 @@ sg993
 g994
 sg995
 g996
-ssI193
+ssL193L
 (dp999
 g981
 g982
@@ -3742,7 +3742,7 @@ sg993
 g994
 sg995
 g996
-ssI194
+ssL194L
 (dp1001
 g981
 g982
@@ -3761,7 +3761,7 @@ sg993
 g994
 sg995
 g996
-ssI195
+ssL195L
 (dp1003
 g981
 g982
@@ -3779,7 +3779,7 @@ sg993
 g994
 sg995
 g996
-ssI196
+ssL196L
 (dp1004
 S'city'
 p1005
@@ -3817,7 +3817,7 @@ sS'moviename'
 p1021
 S'zootopia'
 p1022
-ssI197
+ssL197L
 (dp1023
 g1005
 g1006
@@ -3838,7 +3838,7 @@ sg1019
 g1020
 sg1021
 g1022
-ssI198
+ssL198L
 (dp1025
 g1005
 g1006
@@ -3859,7 +3859,7 @@ S'comedy'
 p1026
 sg1021
 g1022
-ssI199
+ssL199L
 (dp1027
 g1005
 g1006
@@ -3879,7 +3879,7 @@ sg1019
 g1026
 sg1021
 g1022
-ssI200
+ssL200L
 (dp1028
 S'city'
 p1029
@@ -3905,7 +3905,7 @@ sS'moviename'
 p1039
 S'revenant'
 p1040
-ssI201
+ssL201L
 (dp1041
 g1029
 g1030
@@ -3920,7 +3920,7 @@ sg1037
 g1038
 sg1039
 g1040
-ssI202
+ssL202L
 (dp1043
 S'theater_chain'
 p1044
@@ -3942,7 +3942,7 @@ sS'starttime'
 p1052
 S'7:00 pm'
 p1053
-ssI203
+ssL203L
 (dp1054
 g1044
 g1045
@@ -3955,7 +3955,7 @@ sg1050
 g1051
 sg1052
 g1053
-ssI204
+ssL204L
 (dp1056
 S'city'
 p1057
@@ -3992,7 +3992,7 @@ sS'moviename'
 p1072
 S'zootopia'
 p1073
-ssI205
+ssL205L
 (dp1074
 g1057
 g1058
@@ -4013,7 +4013,7 @@ sg1070
 g1071
 sg1072
 g1073
-ssI206
+ssL206L
 (dp1076
 g1057
 g1058
@@ -4034,7 +4034,7 @@ sg1070
 g1071
 sg1072
 g1073
-ssI207
+ssL207L
 (dp1078
 g1057
 g1058
@@ -4055,7 +4055,7 @@ sg1070
 g1071
 sg1072
 g1073
-ssI208
+ssL208L
 (dp1080
 g1057
 g1058
@@ -4076,7 +4076,7 @@ sg1070
 g1071
 sg1072
 g1073
-ssI209
+ssL209L
 (dp1082
 S'city'
 p1083
@@ -4110,7 +4110,7 @@ sS'moviename'
 p1097
 S'london has fallen'
 p1098
-ssI210
+ssL210L
 (dp1099
 g1083
 g1084
@@ -4129,7 +4129,7 @@ sg1095
 g1096
 sg1097
 g1098
-ssI211
+ssL211L
 (dp1101
 g1083
 g1084
@@ -4148,7 +4148,7 @@ sg1095
 g1096
 sg1097
 g1098
-ssI212
+ssL212L
 (dp1103
 g1083
 g1084
@@ -4166,7 +4166,7 @@ sg1095
 g1096
 sg1097
 g1098
-ssI213
+ssL213L
 (dp1104
 S'date'
 p1105
@@ -4188,7 +4188,7 @@ sS'starttime'
 p1113
 S'9:25 pm'
 p1114
-ssI214
+ssL214L
 (dp1115
 S'city'
 p1116
@@ -4218,7 +4218,7 @@ sS'moviename'
 p1128
 S'star wars the force awakens'
 p1129
-ssI215
+ssL215L
 (dp1130
 g1116
 S'southeast portland'
@@ -4235,7 +4235,7 @@ sg1126
 g1127
 sg1128
 g1129
-ssI216
+ssL216L
 (dp1132
 g1116
 S'portland'
@@ -4252,7 +4252,7 @@ sg1126
 g1127
 sg1128
 g1129
-ssI217
+ssL217L
 (dp1134
 g1116
 g1117
@@ -4269,7 +4269,7 @@ sg1126
 g1127
 sg1128
 g1129
-ssI218
+ssL218L
 (dp1136
 g1116
 g1131
@@ -4285,7 +4285,7 @@ sg1126
 g1127
 sg1128
 g1129
-ssI219
+ssL219L
 (dp1137
 S'city'
 p1138
@@ -4319,7 +4319,7 @@ sS'moviename'
 p1152
 S'zootopia'
 p1153
-ssI220
+ssL220L
 (dp1154
 g1138
 S'bellevue'
@@ -4338,7 +4338,7 @@ sg1150
 g1151
 sg1152
 g1153
-ssI221
+ssL221L
 (dp1156
 g1138
 g1139
@@ -4357,7 +4357,7 @@ sg1150
 g1151
 sg1152
 g1153
-ssI222
+ssL222L
 (dp1158
 g1138
 g1155
@@ -4375,7 +4375,7 @@ sg1150
 g1151
 sg1152
 g1153
-ssI223
+ssL223L
 (dp1159
 g1138
 g1139
@@ -4394,7 +4394,7 @@ sg1150
 g1151
 sg1152
 g1153
-ssI224
+ssL224L
 (dp1161
 S'date'
 p1162
@@ -4416,7 +4416,7 @@ sS'starttime'
 p1170
 S'10pm'
 p1171
-ssI225
+ssL225L
 (dp1172
 g1162
 S'tomorrow'
@@ -4429,7 +4429,7 @@ sg1168
 g1169
 sg1170
 g1171
-ssI226
+ssL226L
 (dp1174
 g1162
 g1163
@@ -4442,7 +4442,7 @@ g1169
 sg1170
 S'10:00 pm'
 p1175
-ssI227
+ssL227L
 (dp1176
 g1162
 g1173
@@ -4454,7 +4454,7 @@ sg1168
 g1169
 sg1170
 g1175
-ssI228
+ssL228L
 (dp1177
 S'distanceconstraints'
 p1178
@@ -4464,7 +4464,7 @@ sS'other'
 p1180
 S'pub'
 p1181
-ssI229
+ssL229L
 (dp1182
 S'city'
 p1183
@@ -4490,7 +4490,7 @@ sS'moviename'
 p1193
 S'deadpool'
 p1194
-ssI230
+ssL230L
 (dp1195
 g1183
 g1184
@@ -4505,7 +4505,7 @@ sg1191
 g1192
 sg1193
 g1194
-ssI231
+ssL231L
 (dp1197
 S'city'
 p1198
@@ -4551,7 +4551,7 @@ sS'moviename'
 p1218
 S'zootopia'
 p1219
-ssI232
+ssL232L
 (dp1220
 g1198
 S'bellevue'
@@ -4576,7 +4576,7 @@ sg1216
 g1217
 sg1218
 g1219
-ssI233
+ssL233L
 (dp1222
 g1198
 g1199
@@ -4601,7 +4601,7 @@ sg1216
 g1217
 sg1218
 g1219
-ssI234
+ssL234L
 (dp1224
 g1198
 g1221
@@ -4625,7 +4625,7 @@ sg1216
 g1217
 sg1218
 g1219
-ssI235
+ssL235L
 (dp1225
 g1198
 g1199
@@ -4650,7 +4650,7 @@ sg1216
 g1217
 sg1218
 g1219
-ssI236
+ssL236L
 (dp1227
 S'city'
 p1228
@@ -4680,7 +4680,7 @@ sS'moviename'
 p1240
 S'whiskey tango foxtrot'
 p1241
-ssI237
+ssL237L
 (dp1242
 g1228
 g1229
@@ -4697,7 +4697,7 @@ sg1238
 g1239
 sg1240
 g1241
-ssI238
+ssL238L
 (dp1244
 g1228
 g1229
@@ -4714,7 +4714,7 @@ sg1238
 g1239
 sg1240
 g1241
-ssI239
+ssL239L
 (dp1246
 g1228
 g1229
@@ -4731,7 +4731,7 @@ sg1238
 g1239
 sg1240
 g1241
-ssI240
+ssL240L
 (dp1248
 g1228
 g1229
@@ -4748,7 +4748,7 @@ sg1238
 g1239
 sg1240
 g1241
-ssI241
+ssL241L
 (dp1250
 S'city'
 p1251
@@ -4782,7 +4782,7 @@ sS'moviename'
 p1265
 S'london has fallen'
 p1266
-ssI242
+ssL242L
 (dp1267
 g1251
 g1252
@@ -4801,7 +4801,7 @@ sg1263
 g1264
 sg1265
 g1266
-ssI243
+ssL243L
 (dp1269
 g1251
 g1252
@@ -4820,7 +4820,7 @@ sg1263
 g1264
 sg1265
 g1266
-ssI244
+ssL244L
 (dp1271
 g1251
 g1252
@@ -4838,7 +4838,7 @@ sg1263
 g1264
 sg1265
 g1266
-ssI245
+ssL245L
 (dp1272
 g1251
 g1252
@@ -4857,7 +4857,7 @@ sg1263
 g1264
 sg1265
 g1266
-ssI246
+ssL246L
 (dp1274
 S'genre'
 p1275
@@ -4875,7 +4875,7 @@ sS'moviename'
 p1281
 S'the other side of the door'
 p1282
-ssI247
+ssL247L
 (dp1283
 g1275
 g1276
@@ -4886,7 +4886,7 @@ g1280
 sg1281
 S'the witch'
 p1284
-ssI248
+ssL248L
 (dp1285
 S'city'
 p1286
@@ -4916,7 +4916,7 @@ sS'moviename'
 p1298
 S'TheWitch'
 p1299
-ssI249
+ssL249L
 (dp1300
 g1286
 g1287
@@ -4933,7 +4933,7 @@ sg1296
 g1297
 sg1298
 g1299
-ssI250
+ssL250L
 (dp1302
 g1286
 g1287
@@ -4950,7 +4950,7 @@ g1297
 sg1298
 S'The Other Side of The Door'
 p1303
-ssI251
+ssL251L
 (dp1304
 g1286
 g1287
@@ -4966,7 +4966,7 @@ sg1296
 g1297
 sg1298
 g1303
-ssI252
+ssL252L
 (dp1305
 g1286
 g1287
@@ -4983,7 +4983,7 @@ g1297
 sg1298
 S'the other side of the door'
 p1306
-ssI253
+ssL253L
 (dp1307
 S'city'
 p1308
@@ -5009,7 +5009,7 @@ sS'moviename'
 p1318
 S'gods of egypt'
 p1319
-ssI254
+ssL254L
 (dp1320
 g1308
 g1309
@@ -5024,7 +5024,7 @@ sg1316
 g1317
 sg1318
 g1319
-ssI255
+ssL255L
 (dp1322
 g1308
 g1309
@@ -5039,7 +5039,7 @@ sg1316
 g1317
 sg1318
 g1319
-ssI256
+ssL256L
 (dp1324
 g1308
 g1309
@@ -5054,7 +5054,7 @@ sg1316
 g1317
 sg1318
 g1319
-ssI257
+ssL257L
 (dp1326
 g1308
 g1309
@@ -5069,7 +5069,7 @@ sg1316
 g1317
 sg1318
 g1319
-ssI258
+ssL258L
 (dp1328
 S'city'
 p1329
@@ -5087,17 +5087,17 @@ sS'theater_chain'
 p1335
 S'amc loews waterfront 22'
 p1336
-sS'date'
-p1337
-S'now'
-p1338
 sS'state'
-p1339
+p1337
 S'pa'
-p1340
+p1338
 sS'starttime'
-p1341
+p1339
 S'latest showing'
+p1340
+sS'date'
+p1341
+S'now'
 p1342
 sS'genre'
 p1343
@@ -5107,7 +5107,7 @@ sS'moviename'
 p1345
 S'deadpool'
 p1346
-ssI259
+ssL259L
 (dp1347
 g1329
 S'pittsburgh'
@@ -5128,7 +5128,7 @@ sg1343
 g1344
 sg1345
 g1346
-ssI260
+ssL260L
 (dp1349
 g1329
 g1330
@@ -5149,7 +5149,7 @@ sg1343
 g1344
 sg1345
 g1346
-ssI261
+ssL261L
 (dp1351
 g1329
 g1348
@@ -5169,7 +5169,7 @@ sg1343
 g1344
 sg1345
 g1346
-ssI262
+ssL262L
 (dp1352
 g1329
 g1330
@@ -5190,7 +5190,7 @@ sg1343
 g1344
 sg1345
 g1346
-ssI263
+ssL263L
 (dp1354
 S'city'
 p1355
@@ -5232,7 +5232,7 @@ sS'moviename'
 p1373
 S'the witch'
 p1374
-ssI264
+ssL264L
 (dp1375
 g1355
 S'south barrington'
@@ -5255,7 +5255,7 @@ sg1371
 g1372
 sg1373
 g1374
-ssI265
+ssL265L
 (dp1377
 g1355
 g1356
@@ -5278,7 +5278,7 @@ sg1371
 g1372
 sg1373
 g1374
-ssI266
+ssL266L
 (dp1379
 g1355
 g1376
@@ -5300,7 +5300,7 @@ sg1371
 g1372
 sg1373
 g1374
-ssI267
+ssL267L
 (dp1380
 g1355
 g1356
@@ -5323,7 +5323,7 @@ sg1371
 g1372
 sg1373
 g1374
-ssI268
+ssL268L
 (dp1382
 S'city'
 p1383
@@ -5357,7 +5357,7 @@ sS'moviename'
 p1397
 S'10 cloverfield lane'
 p1398
-ssI269
+ssL269L
 (dp1399
 g1383
 g1384
@@ -5376,7 +5376,7 @@ sg1395
 g1396
 sg1397
 g1398
-ssI270
+ssL270L
 (dp1401
 g1383
 g1384
@@ -5395,7 +5395,7 @@ sg1395
 g1396
 sg1397
 g1398
-ssI271
+ssL271L
 (dp1403
 g1383
 g1384
@@ -5414,7 +5414,7 @@ sg1395
 g1396
 sg1397
 g1398
-ssI272
+ssL272L
 (dp1405
 g1383
 g1384
@@ -5433,7 +5433,7 @@ sg1395
 g1396
 sg1397
 g1398
-ssI273
+ssL273L
 (dp1407
 S'city'
 p1408
@@ -5475,7 +5475,7 @@ sS'moviename'
 p1426
 S'zootopia'
 p1427
-ssI274
+ssL274L
 (dp1428
 g1408
 g1409
@@ -5498,7 +5498,7 @@ sg1424
 g1425
 sg1426
 g1427
-ssI275
+ssL275L
 (dp1430
 g1408
 g1409
@@ -5521,7 +5521,7 @@ sg1424
 g1425
 sg1426
 g1427
-ssI276
+ssL276L
 (dp1432
 g1408
 g1409
@@ -5544,7 +5544,7 @@ sg1424
 g1425
 sg1426
 g1427
-ssI277
+ssL277L
 (dp1434
 g1408
 g1409
@@ -5566,7 +5566,7 @@ sg1424
 g1425
 sg1426
 g1427
-ssI278
+ssL278L
 (dp1435
 S'city'
 p1436
@@ -5604,7 +5604,7 @@ sS'moviename'
 p1452
 S'zootopia'
 p1453
-ssI279
+ssL279L
 (dp1454
 g1436
 S'over seattle'
@@ -5625,7 +5625,7 @@ sg1450
 g1451
 sg1452
 g1453
-ssI280
+ssL280L
 (dp1456
 g1436
 S'bellevue'
@@ -5646,7 +5646,7 @@ sg1450
 g1451
 sg1452
 g1453
-ssI281
+ssL281L
 (dp1458
 g1436
 g1437
@@ -5667,7 +5667,7 @@ sg1450
 g1451
 sg1452
 g1453
-ssI282
+ssL282L
 (dp1460
 g1436
 g1455
@@ -5687,7 +5687,7 @@ sg1450
 g1451
 sg1452
 g1453
-ssI283
+ssL283L
 (dp1461
 S'date'
 p1462
@@ -5709,7 +5709,7 @@ sS'starttime'
 p1470
 S'5pm'
 p1471
-ssI284
+ssL284L
 (dp1472
 g1462
 g1463
@@ -5722,7 +5722,7 @@ sg1468
 g1469
 sg1470
 g1471
-ssI285
+ssL285L
 (dp1474
 g1462
 g1463
@@ -5735,7 +5735,7 @@ g1469
 sg1470
 S'7:55pm'
 p1475
-ssI286
+ssL286L
 (dp1476
 g1462
 g1463
@@ -5747,7 +5747,7 @@ sg1468
 g1469
 sg1470
 g1475
-ssI287
+ssL287L
 (dp1477
 g1462
 g1463
@@ -5760,7 +5760,7 @@ g1469
 sg1470
 S'10:15pm'
 p1478
-ssI288
+ssL288L
 (dp1479
 S'date'
 p1480
@@ -5782,7 +5782,7 @@ sS'moviename'
 p1488
 S'deadpool'
 p1489
-ssI289
+ssL289L
 (dp1490
 g1480
 g1481
@@ -5795,7 +5795,7 @@ S'I cannot understand your reply'
 p1491
 sg1488
 g1489
-ssI290
+ssL290L
 (dp1492
 S'date'
 p1493
@@ -5817,7 +5817,7 @@ sS'starttime'
 p1501
 S'9:25 pm'
 p1502
-ssI291
+ssL291L
 (dp1503
 S'date'
 p1504
@@ -5835,7 +5835,7 @@ sS'starttime'
 p1510
 S'11:50am'
 p1511
-ssI292
+ssL292L
 (dp1512
 g1504
 g1505
@@ -5846,7 +5846,7 @@ g1509
 sg1510
 S'2:30pm'
 p1513
-ssI293
+ssL293L
 (dp1514
 g1504
 g1505
@@ -5857,7 +5857,7 @@ g1509
 sg1510
 S'7:50'
 p1515
-ssI294
+ssL294L
 (dp1516
 g1504
 g1505
@@ -5868,7 +5868,7 @@ g1509
 sg1510
 S'10:25'
 p1517
-ssI295
+ssL295L
 (dp1518
 g1504
 g1505
@@ -5879,23 +5879,23 @@ g1509
 sg1510
 S'2:30'
 p1519
-ssI296
+ssL296L
 (dp1520
 S'other'
 p1521
 S'purchase tickets'
 p1522
-ssI297
+ssL297L
 (dp1523
 g1521
 S'look up date'
 p1524
-ssI298
+ssL298L
 (dp1525
 g1521
 S'increased functionality'
 p1526
-ssI299
+ssL299L
 (dp1527
 S'city'
 p1528
@@ -5921,7 +5921,7 @@ sS'moviename'
 p1538
 S'star wars'
 p1539
-ssI300
+ssL300L
 (dp1540
 g1528
 g1529
@@ -5936,7 +5936,7 @@ sg1536
 g1537
 sg1538
 g1539
-ssI301
+ssL301L
 (dp1542
 g1528
 g1529
@@ -5951,7 +5951,7 @@ sg1536
 g1537
 sg1538
 g1539
-ssI302
+ssL302L
 (dp1544
 g1528
 g1529
@@ -5966,7 +5966,7 @@ sg1536
 g1537
 sg1538
 g1539
-ssI303
+ssL303L
 (dp1546
 g1528
 g1529
@@ -5980,7 +5980,7 @@ sg1536
 g1537
 sg1538
 g1539
-ssI304
+ssL304L
 (dp1547
 S'city'
 p1548
@@ -6014,7 +6014,7 @@ sS'moviename'
 p1562
 S'zootopia'
 p1563
-ssI305
+ssL305L
 (dp1564
 g1548
 g1549
@@ -6033,7 +6033,7 @@ sg1560
 g1561
 sg1562
 g1563
-ssI306
+ssL306L
 (dp1566
 g1548
 g1549
@@ -6052,7 +6052,7 @@ sg1560
 g1561
 sg1562
 g1563
-ssI307
+ssL307L
 (dp1568
 g1548
 g1549
@@ -6070,7 +6070,7 @@ sg1560
 g1561
 sg1562
 g1563
-ssI308
+ssL308L
 (dp1569
 g1548
 g1549
@@ -6089,7 +6089,7 @@ sg1560
 g1561
 sg1562
 g1563
-ssI309
+ssL309L
 (dp1571
 S'city'
 p1572
@@ -6123,7 +6123,7 @@ sS'moviename'
 p1586
 S'zootopia'
 p1587
-ssI310
+ssL310L
 (dp1588
 g1572
 S'bellevue'
@@ -6142,7 +6142,7 @@ sg1584
 g1585
 sg1586
 g1587
-ssI311
+ssL311L
 (dp1590
 g1572
 g1573
@@ -6161,7 +6161,7 @@ sg1584
 g1585
 sg1586
 g1587
-ssI312
+ssL312L
 (dp1592
 g1572
 g1589
@@ -6179,7 +6179,7 @@ sg1584
 g1585
 sg1586
 g1587
-ssI313
+ssL313L
 (dp1593
 g1572
 g1573
@@ -6198,7 +6198,7 @@ sg1584
 g1585
 sg1586
 g1587
-ssI314
+ssL314L
 (dp1595
 S'city'
 p1596
@@ -6224,7 +6224,7 @@ sS'moviename'
 p1606
 S'zootopia'
 p1607
-ssI315
+ssL315L
 (dp1608
 g1596
 g1597
@@ -6239,7 +6239,7 @@ sg1604
 g1605
 sg1606
 g1607
-ssI316
+ssL316L
 (dp1610
 g1596
 g1597
@@ -6254,7 +6254,7 @@ sg1604
 g1605
 sg1606
 g1607
-ssI317
+ssL317L
 (dp1612
 g1596
 g1597
@@ -6268,7 +6268,7 @@ sg1604
 g1605
 sg1606
 g1607
-ssI318
+ssL318L
 (dp1613
 g1596
 g1597
@@ -6283,7 +6283,7 @@ g1605
 sg1606
 S'Zootopia'
 p1614
-ssI319
+ssL319L
 (dp1615
 S'city'
 p1616
@@ -6317,7 +6317,7 @@ sS'moviename'
 p1630
 S'star wars'
 p1631
-ssI320
+ssL320L
 (dp1632
 g1616
 S'Portland'
@@ -6336,7 +6336,7 @@ sg1628
 g1629
 sg1630
 g1631
-ssI321
+ssL321L
 (dp1634
 g1616
 g1617
@@ -6355,7 +6355,7 @@ sg1628
 g1629
 sg1630
 g1631
-ssI322
+ssL322L
 (dp1636
 g1616
 g1633
@@ -6373,7 +6373,7 @@ sg1628
 g1629
 sg1630
 g1631
-ssI323
+ssL323L
 (dp1637
 g1616
 g1617
@@ -6392,7 +6392,7 @@ sg1628
 g1629
 sg1630
 g1631
-ssI324
+ssL324L
 (dp1639
 S'date'
 p1640
@@ -6414,7 +6414,7 @@ sS'starttime'
 p1648
 S'9:10 pm'
 p1649
-ssI325
+ssL325L
 (dp1650
 S'city'
 p1651
@@ -6440,7 +6440,7 @@ sS'moviename'
 p1661
 S'zootopia'
 p1662
-ssI326
+ssL326L
 (dp1663
 g1651
 g1652
@@ -6455,7 +6455,7 @@ sg1659
 g1660
 sg1661
 g1662
-ssI327
+ssL327L
 (dp1665
 g1651
 g1652
@@ -6470,7 +6470,7 @@ sg1659
 g1660
 sg1661
 g1662
-ssI328
+ssL328L
 (dp1667
 g1651
 g1652
@@ -6484,7 +6484,7 @@ sg1659
 g1660
 sg1661
 g1662
-ssI329
+ssL329L
 (dp1668
 S'date'
 p1669
@@ -6506,7 +6506,7 @@ sS'starttime'
 p1677
 S'8:45 pm'
 p1678
-ssI330
+ssL330L
 (dp1679
 S'city'
 p1680
@@ -6540,7 +6540,7 @@ sS'moviename'
 p1694
 S'kung fu panda 3'
 p1695
-ssI331
+ssL331L
 (dp1696
 g1680
 g1681
@@ -6559,7 +6559,7 @@ sg1692
 g1693
 sg1694
 g1695
-ssI332
+ssL332L
 (dp1698
 g1680
 g1681
@@ -6578,7 +6578,7 @@ sg1692
 g1693
 sg1694
 g1695
-ssI333
+ssL333L
 (dp1700
 g1680
 g1681
@@ -6597,7 +6597,7 @@ sg1692
 g1693
 sg1694
 g1695
-ssI334
+ssL334L
 (dp1702
 g1680
 g1681
@@ -6615,7 +6615,7 @@ sg1692
 g1693
 sg1694
 g1695
-ssI335
+ssL335L
 (dp1703
 S'city'
 p1704
@@ -6649,7 +6649,7 @@ sS'moviename'
 p1718
 S'zootopia'
 p1719
-ssI336
+ssL336L
 (dp1720
 g1704
 g1705
@@ -6668,7 +6668,7 @@ sg1716
 g1717
 sg1718
 g1719
-ssI337
+ssL337L
 (dp1722
 g1704
 g1705
@@ -6687,7 +6687,7 @@ sg1716
 g1717
 sg1718
 g1719
-ssI338
+ssL338L
 (dp1724
 g1704
 g1705
@@ -6706,7 +6706,7 @@ sg1716
 g1717
 sg1718
 g1719
-ssI339
+ssL339L
 (dp1726
 g1704
 g1705
@@ -6725,7 +6725,7 @@ sg1716
 g1717
 sg1718
 g1719
-ssI340
+ssL340L
 (dp1728
 S'city'
 p1729
@@ -6751,7 +6751,7 @@ sS'moviename'
 p1739
 S'hail caesar'
 p1740
-ssI341
+ssL341L
 (dp1741
 S'city'
 p1742
@@ -6785,7 +6785,7 @@ sS'moviename'
 p1756
 S'deadpool'
 p1757
-ssI342
+ssL342L
 (dp1758
 g1742
 g1743
@@ -6804,7 +6804,7 @@ sg1754
 g1755
 sg1756
 g1757
-ssI343
+ssL343L
 (dp1760
 g1742
 g1743
@@ -6823,7 +6823,7 @@ sg1754
 g1755
 sg1756
 g1757
-ssI344
+ssL344L
 (dp1762
 g1742
 g1743
@@ -6841,7 +6841,7 @@ sg1754
 g1755
 sg1756
 g1757
-ssI345
+ssL345L
 (dp1763
 g1742
 g1743
@@ -6860,7 +6860,7 @@ sg1754
 g1755
 sg1756
 g1757
-ssI346
+ssL346L
 (dp1765
 S'city'
 p1766
@@ -6890,7 +6890,7 @@ sS'moviename'
 p1778
 S'london has fallen'
 p1779
-ssI347
+ssL347L
 (dp1780
 g1766
 g1767
@@ -6907,7 +6907,7 @@ sg1776
 g1777
 sg1778
 g1779
-ssI348
+ssL348L
 (dp1782
 g1766
 g1767
@@ -6924,7 +6924,7 @@ S'3/13'
 p1783
 sg1778
 g1779
-ssI349
+ssL349L
 (dp1784
 g1766
 g1767
@@ -6940,7 +6940,7 @@ sg1776
 g1783
 sg1778
 g1779
-ssI350
+ssL350L
 (dp1785
 S'theater'
 p1786
@@ -6966,7 +6966,7 @@ sS'moviename'
 p1796
 S'the witch'
 p1797
-ssI351
+ssL351L
 (dp1798
 g1786
 S'amc theaters puente hills'
@@ -6981,7 +6981,7 @@ sg1794
 g1795
 sg1796
 g1797
-ssI352
+ssL352L
 (dp1800
 g1786
 g1787
@@ -6996,7 +6996,7 @@ sg1794
 g1795
 sg1796
 g1797
-ssI353
+ssL353L
 (dp1802
 g1786
 g1799
@@ -7010,7 +7010,7 @@ sg1794
 g1795
 sg1796
 g1797
-ssI354
+ssL354L
 (dp1803
 g1786
 g1787
@@ -7025,7 +7025,7 @@ sg1794
 g1795
 sg1796
 g1797
-ssI355
+ssL355L
 (dp1805
 S'city'
 p1806
@@ -7063,7 +7063,7 @@ sS'moviename'
 p1822
 S'zoolander 2'
 p1823
-ssI356
+ssL356L
 (dp1824
 g1806
 S'Shiloh'
@@ -7084,7 +7084,7 @@ sg1820
 g1821
 sg1822
 g1823
-ssI357
+ssL357L
 (dp1826
 g1806
 S'Belleville'
@@ -7105,7 +7105,7 @@ sg1820
 g1821
 sg1822
 g1823
-ssI358
+ssL358L
 (dp1828
 g1806
 S"o'fallon"
@@ -7126,7 +7126,7 @@ sg1820
 g1821
 sg1822
 g1823
-ssI359
+ssL359L
 (dp1830
 g1806
 S'fairview heights'
@@ -7147,7 +7147,7 @@ sg1820
 g1821
 sg1822
 g1823
-ssI360
+ssL360L
 (dp1832
 S'date'
 p1833
@@ -7169,7 +7169,7 @@ sS'starttime'
 p1841
 S'9:10 pm'
 p1842
-ssI361
+ssL361L
 (dp1843
 S'date'
 p1844
@@ -7183,7 +7183,7 @@ sS'moviename'
 p1848
 S'zootopia'
 p1849
-ssI362
+ssL362L
 (dp1850
 S'city'
 p1851
@@ -7217,7 +7217,7 @@ sS'moviename'
 p1865
 S'deadpool'
 p1866
-ssI363
+ssL363L
 (dp1867
 g1851
 S'bellevue'
@@ -7236,7 +7236,7 @@ sg1863
 g1864
 sg1865
 g1866
-ssI364
+ssL364L
 (dp1869
 g1851
 g1852
@@ -7255,7 +7255,7 @@ sg1863
 g1864
 sg1865
 g1866
-ssI365
+ssL365L
 (dp1871
 g1851
 g1868
@@ -7273,7 +7273,7 @@ sg1863
 g1864
 sg1865
 g1866
-ssI366
+ssL366L
 (dp1872
 g1851
 g1852
@@ -7292,7 +7292,7 @@ sg1863
 g1864
 sg1865
 g1866
-ssI367
+ssL367L
 (dp1874
 S'other'
 p1875
@@ -7302,7 +7302,7 @@ sS'moviename'
 p1877
 S'first'
 p1878
-ssI368
+ssL368L
 (dp1879
 S'city'
 p1880
@@ -7340,7 +7340,7 @@ sS'moviename'
 p1896
 S'zootopia'
 p1897
-ssI369
+ssL369L
 (dp1898
 g1880
 g1881
@@ -7361,7 +7361,7 @@ sg1894
 g1895
 sg1896
 g1897
-ssI370
+ssL370L
 (dp1900
 g1880
 g1881
@@ -7382,7 +7382,7 @@ sg1894
 g1895
 sg1896
 g1897
-ssI371
+ssL371L
 (dp1902
 g1880
 g1881
@@ -7402,7 +7402,7 @@ sg1894
 g1895
 sg1896
 g1897
-ssI372
+ssL372L
 (dp1903
 g1880
 g1881
@@ -7423,7 +7423,7 @@ sg1894
 g1895
 sg1896
 g1897
-ssI373
+ssL373L
 (dp1905
 S'city'
 p1906
@@ -7449,7 +7449,7 @@ sS'moviename'
 p1916
 S'zootopia'
 p1917
-ssI374
+ssL374L
 (dp1918
 g1906
 g1907
@@ -7464,7 +7464,7 @@ sg1914
 g1915
 sg1916
 g1917
-ssI375
+ssL375L
 (dp1920
 g1906
 g1907
@@ -7479,7 +7479,7 @@ sg1914
 g1915
 sg1916
 g1917
-ssI376
+ssL376L
 (dp1922
 g1906
 g1907
@@ -7493,7 +7493,7 @@ sg1914
 g1915
 sg1916
 g1917
-ssI377
+ssL377L
 (dp1923
 g1906
 g1907
@@ -7508,7 +7508,7 @@ sg1914
 g1915
 sg1916
 g1917
-ssI378
+ssL378L
 (dp1925
 S'city'
 p1926
@@ -7542,7 +7542,7 @@ sS'moviename'
 p1940
 S'zootopia'
 p1941
-ssI379
+ssL379L
 (dp1942
 g1926
 S'bellevue'
@@ -7561,7 +7561,7 @@ sg1938
 g1939
 sg1940
 g1941
-ssI380
+ssL380L
 (dp1944
 g1926
 g1927
@@ -7580,7 +7580,7 @@ sg1938
 g1939
 sg1940
 g1941
-ssI381
+ssL381L
 (dp1946
 g1926
 g1943
@@ -7598,7 +7598,7 @@ sg1938
 g1939
 sg1940
 g1941
-ssI382
+ssL382L
 (dp1947
 g1926
 g1927
@@ -7617,7 +7617,7 @@ sg1938
 g1939
 sg1940
 g1941
-ssI383
+ssL383L
 (dp1949
 S'city'
 p1950
@@ -7639,7 +7639,7 @@ sS'starttime'
 p1958
 S'soonest'
 p1959
-ssI384
+ssL384L
 (dp1960
 g1950
 g1951
@@ -7652,7 +7652,7 @@ S'regal clifton park stadium'
 p1961
 sg1958
 g1959
-ssI385
+ssL385L
 (dp1962
 g1950
 g1951
@@ -7665,7 +7665,7 @@ g1957
 sg1958
 S'12:40pm'
 p1963
-ssI386
+ssL386L
 (dp1964
 g1950
 g1951
@@ -7677,7 +7677,7 @@ sg1956
 g1961
 sg1958
 g1963
-ssI387
+ssL387L
 (dp1965
 S'city'
 p1966
@@ -7707,7 +7707,7 @@ sS'moviename'
 p1978
 S'star wars'
 p1979
-ssI388
+ssL388L
 (dp1980
 g1966
 g1967
@@ -7724,7 +7724,7 @@ sg1976
 g1977
 sg1978
 g1979
-ssI389
+ssL389L
 (dp1982
 g1966
 g1967
@@ -7741,7 +7741,7 @@ sg1976
 g1977
 sg1978
 g1979
-ssI390
+ssL390L
 (dp1984
 g1966
 g1967
@@ -7758,7 +7758,7 @@ sg1976
 g1977
 sg1978
 g1979
-ssI391
+ssL391L
 (dp1986
 g1966
 g1967
@@ -7775,7 +7775,7 @@ sg1976
 g1977
 sg1978
 g1979
-ssI392
+ssL392L
 (dp1988
 S'genre'
 p1989
@@ -7793,7 +7793,7 @@ sS'actor'
 p1995
 S'ryan reynolds'
 p1996
-ssI393
+ssL393L
 (dp1997
 g1989
 g1990
@@ -7804,7 +7804,7 @@ S'london has fallen'
 p1998
 sg1995
 g1996
-ssI394
+ssL394L
 (dp1999
 g1989
 g1990
@@ -7815,7 +7815,7 @@ S'the revenant'
 p2000
 sg1995
 g1996
-ssI395
+ssL395L
 (dp2001
 S'city'
 p2002
@@ -7844,7 +7844,7 @@ p2013
 sS'moviename'
 p2014
 S''
-ssI396
+ssL396L
 (dp2015
 g2002
 S'la'
@@ -7861,7 +7861,7 @@ sg2012
 g2013
 sg2014
 S''
-ssI397
+ssL397L
 (dp2017
 g2002
 g2003
@@ -7878,7 +7878,7 @@ sg2012
 g2013
 sg2014
 S''
-ssI398
+ssL398L
 (dp2019
 g2002
 g2016
@@ -7894,7 +7894,7 @@ sg2012
 g2013
 sg2014
 S''
-ssI399
+ssL399L
 (dp2020
 g2002
 g2003
@@ -7911,7 +7911,7 @@ sg2012
 g2013
 sg2014
 S''
-ssI400
+ssL400L
 (dp2022
 S'city'
 p2023
@@ -7941,7 +7941,7 @@ sS'moviename'
 p2035
 S'london has fallen'
 p2036
-ssI401
+ssL401L
 (dp2037
 g2023
 S'los angeles'
@@ -7958,7 +7958,7 @@ sg2033
 g2034
 sg2035
 g2036
-ssI402
+ssL402L
 (dp2039
 g2023
 g2024
@@ -7975,7 +7975,7 @@ sg2033
 g2034
 sg2035
 g2036
-ssI403
+ssL403L
 (dp2041
 g2023
 g2038
@@ -7991,7 +7991,7 @@ sg2033
 g2034
 sg2035
 g2036
-ssI404
+ssL404L
 (dp2042
 g2023
 g2024
@@ -8008,7 +8008,7 @@ sg2033
 g2034
 sg2035
 g2036
-ssI405
+ssL405L
 (dp2044
 S'distanceconstraints'
 p2045
@@ -8030,7 +8030,7 @@ sS'city'
 p2053
 S'evanston'
 p2054
-ssI406
+ssL406L
 (dp2055
 S'city'
 p2056
@@ -8060,7 +8060,7 @@ sS'moviename'
 p2068
 S'zootopia'
 p2069
-ssI407
+ssL407L
 (dp2070
 g2056
 g2057
@@ -8077,7 +8077,7 @@ sg2066
 g2067
 sg2068
 g2069
-ssI408
+ssL408L
 (dp2072
 g2056
 g2057
@@ -8094,7 +8094,7 @@ sg2066
 g2067
 sg2068
 g2069
-ssI409
+ssL409L
 (dp2074
 g2056
 g2057
@@ -8111,7 +8111,7 @@ sg2066
 g2067
 sg2068
 g2069
-ssI410
+ssL410L
 (dp2076
 g2056
 g2057
@@ -8127,13 +8127,13 @@ sg2066
 g2067
 sg2068
 g2069
-ssI411
+ssL411L
 (dp2077
 S'date'
 p2078
 S'today'
 p2079
-ssI412
+ssL412L
 (dp2080
 S'city'
 p2081
@@ -8175,7 +8175,7 @@ sS'moviename'
 p2099
 S'10 cloverfield lane'
 p2100
-ssI413
+ssL413L
 (dp2101
 g2081
 S'madison heights'
@@ -8198,7 +8198,7 @@ sg2097
 g2098
 sg2099
 g2100
-ssI414
+ssL414L
 (dp2103
 g2081
 S'Southfield'
@@ -8221,7 +8221,7 @@ sg2097
 g2098
 sg2099
 g2100
-ssI415
+ssL415L
 (dp2105
 g2081
 g2082
@@ -8244,7 +8244,7 @@ sg2097
 g2098
 sg2099
 g2100
-ssI416
+ssL416L
 (dp2107
 g2081
 g2102
@@ -8266,7 +8266,7 @@ sg2097
 g2098
 sg2099
 g2100
-ssI417
+ssL417L
 (dp2108
 S'city'
 p2109
@@ -8296,7 +8296,7 @@ sS'moviename'
 p2121
 S'london has fallen'
 p2122
-ssI418
+ssL418L
 (dp2123
 g2109
 g2110
@@ -8313,7 +8313,7 @@ sg2119
 g2120
 sg2121
 g2122
-ssI419
+ssL419L
 (dp2125
 g2109
 g2110
@@ -8330,7 +8330,7 @@ sg2119
 g2120
 sg2121
 g2122
-ssI420
+ssL420L
 (dp2127
 g2109
 g2110
@@ -8347,7 +8347,7 @@ sg2119
 g2120
 sg2121
 g2122
-ssI421
+ssL421L
 (dp2129
 g2109
 g2110
@@ -8363,7 +8363,7 @@ sg2119
 g2120
 sg2121
 g2122
-ssI422
+ssL422L
 (dp2130
 S'city'
 p2131
@@ -8397,7 +8397,7 @@ sS'moviename'
 p2145
 S'kung fu panda 3'
 p2146
-ssI423
+ssL423L
 (dp2147
 g2131
 g2132
@@ -8416,7 +8416,7 @@ sg2143
 g2144
 sg2145
 g2146
-ssI424
+ssL424L
 (dp2149
 g2131
 g2132
@@ -8435,7 +8435,7 @@ sg2143
 g2144
 sg2145
 g2146
-ssI425
+ssL425L
 (dp2151
 g2131
 g2132
@@ -8454,7 +8454,7 @@ sg2143
 g2144
 sg2145
 g2146
-ssI426
+ssL426L
 (dp2153
 g2131
 g2132
@@ -8472,13 +8472,13 @@ sg2143
 g2144
 sg2145
 g2146
-ssI427
+ssL427L
 (dp2154
 S'moviename'
 p2155
 S'london has fallen'
 p2156
-ssI428
+ssL428L
 (dp2157
 S'city'
 p2158
@@ -8516,7 +8516,7 @@ sS'moviename'
 p2174
 S'10 cloverfield lane'
 p2175
-ssI429
+ssL429L
 (dp2176
 g2158
 S'bellevue'
@@ -8537,7 +8537,7 @@ sg2172
 g2173
 sg2174
 g2175
-ssI430
+ssL430L
 (dp2178
 g2158
 g2159
@@ -8558,7 +8558,7 @@ sg2172
 g2173
 sg2174
 g2175
-ssI431
+ssL431L
 (dp2180
 g2158
 g2177
@@ -8578,7 +8578,7 @@ sg2172
 g2173
 sg2174
 g2175
-ssI432
+ssL432L
 (dp2181
 g2158
 g2159
@@ -8599,7 +8599,7 @@ sg2172
 g2173
 sg2174
 g2175
-ssI433
+ssL433L
 (dp2183
 S'city'
 p2184
@@ -8636,7 +8636,7 @@ sS'moviename'
 p2199
 S'deadpool'
 p2200
-ssI434
+ssL434L
 (dp2201
 g2184
 g2185
@@ -8656,7 +8656,7 @@ sg2197
 g2198
 sg2199
 g2200
-ssI435
+ssL435L
 (dp2202
 g2184
 g2185
@@ -8677,7 +8677,7 @@ sg2197
 g2198
 sg2199
 g2200
-ssI436
+ssL436L
 (dp2204
 g2184
 g2185
@@ -8697,7 +8697,7 @@ sg2197
 g2198
 sg2199
 g2200
-ssI437
+ssL437L
 (dp2205
 g2184
 g2185
@@ -8718,7 +8718,7 @@ sg2197
 g2198
 sg2199
 g2200
-ssI438
+ssL438L
 (dp2207
 S'genre'
 p2208
@@ -8736,7 +8736,7 @@ sS'theater'
 p2214
 S'regal meridian sundance cinemas'
 p2215
-ssI439
+ssL439L
 (dp2216
 g2208
 g2209
@@ -8747,7 +8747,7 @@ S'big short'
 p2217
 sg2214
 g2215
-ssI440
+ssL440L
 (dp2218
 g2208
 g2209
@@ -8758,7 +8758,7 @@ S'the big short'
 p2219
 sg2214
 g2215
-ssI441
+ssL441L
 (dp2220
 g2208
 g2209
@@ -8769,7 +8769,7 @@ g2213
 sg2214
 S'regal thornton place'
 p2221
-ssI442
+ssL442L
 (dp2222
 g2208
 g2209
@@ -8779,7 +8779,7 @@ sg2212
 g2217
 sg2214
 g2221
-ssI443
+ssL443L
 (dp2223
 S'city'
 p2224
@@ -8801,7 +8801,7 @@ sS'starttime'
 p2232
 S'tonight'
 p2233
-ssI444
+ssL444L
 (dp2234
 g2224
 g2225
@@ -8814,7 +8814,7 @@ S'amc loews stony brook'
 p2235
 sg2232
 g2233
-ssI445
+ssL445L
 (dp2236
 g2224
 g2225
@@ -8827,7 +8827,7 @@ g2231
 sg2232
 S'7:30 pm'
 p2237
-ssI446
+ssL446L
 (dp2238
 g2224
 g2225
@@ -8839,7 +8839,7 @@ sg2230
 g2235
 sg2232
 g2237
-ssI447
+ssL447L
 (dp2239
 g2224
 g2225
@@ -8852,7 +8852,7 @@ g2231
 sg2232
 S'8:15 pm'
 p2240
-ssI448
+ssL448L
 (dp2241
 S'city'
 p2242
@@ -8878,7 +8878,7 @@ sS'moviename'
 p2252
 S'whiskey tango foxtrot'
 p2253
-ssI449
+ssL449L
 (dp2254
 g2242
 g2243
@@ -8893,7 +8893,7 @@ sg2250
 g2251
 sg2252
 g2253
-ssI450
+ssL450L
 (dp2256
 S'other'
 p2257
@@ -8903,14 +8903,14 @@ sS'moviename'
 p2259
 S'deadpool'
 p2260
-ssI451
+ssL451L
 (dp2261
 g2257
 S'worth watching'
 p2262
 sg2259
 g2260
-ssI452
+ssL452L
 (dp2263
 S'city'
 p2264
@@ -8940,7 +8940,7 @@ sS'moviename'
 p2276
 S'zootopia'
 p2277
-ssI453
+ssL453L
 (dp2278
 g2264
 g2265
@@ -8957,7 +8957,7 @@ sg2274
 g2275
 sg2276
 g2277
-ssI454
+ssL454L
 (dp2280
 g2264
 g2265
@@ -8974,7 +8974,7 @@ sg2274
 g2275
 sg2276
 g2277
-ssI455
+ssL455L
 (dp2282
 g2264
 g2265
@@ -8991,7 +8991,7 @@ g2275
 sg2276
 S'kung fu panda 3'
 p2283
-ssI456
+ssL456L
 (dp2284
 g2264
 g2265
@@ -9007,7 +9007,7 @@ sg2274
 g2275
 sg2276
 g2283
-ssI457
+ssL457L
 (dp2285
 S'city'
 p2286
@@ -9041,7 +9041,7 @@ sS'moviename'
 p2300
 S'zootopia'
 p2301
-ssI458
+ssL458L
 (dp2302
 g2286
 S'94109'
@@ -9060,7 +9060,7 @@ sg2298
 g2299
 sg2300
 g2301
-ssI459
+ssL459L
 (dp2304
 g2286
 g2287
@@ -9079,7 +9079,7 @@ sg2298
 g2299
 sg2300
 g2301
-ssI460
+ssL460L
 (dp2306
 g2286
 g2303
@@ -9097,7 +9097,7 @@ sg2298
 g2299
 sg2300
 g2301
-ssI461
+ssL461L
 (dp2307
 g2286
 g2287
@@ -9116,7 +9116,7 @@ sg2298
 g2299
 sg2300
 g2301
-ssI462
+ssL462L
 (dp2309
 S'date'
 p2310
@@ -9138,7 +9138,7 @@ sS'starttime'
 p2318
 S'4:25 pm'
 p2319
-ssI463
+ssL463L
 (dp2320
 S'date'
 p2321
@@ -9159,7 +9159,7 @@ p2328
 sS'starttime'
 p2329
 S'7'
-ssI464
+ssL464L
 (dp2330
 g2321
 S'tomorrow'
@@ -9172,7 +9172,7 @@ sg2327
 g2328
 sg2329
 S'7'
-ssI465
+ssL465L
 (dp2332
 g2321
 g2322
@@ -9185,7 +9185,7 @@ S'Ark Lodge Cinemas'
 p2333
 sg2329
 S'7'
-ssI466
+ssL466L
 (dp2334
 g2321
 g2331
@@ -9197,7 +9197,7 @@ sg2327
 g2333
 sg2329
 S'7'
-ssI467
+ssL467L
 (dp2335
 g2321
 g2322
@@ -9210,7 +9210,7 @@ S'Regal Crossroads'
 p2336
 sg2329
 S'7'
-ssI468
+ssL468L
 (dp2337
 S'city'
 p2338
@@ -9240,7 +9240,7 @@ sS'moviename'
 p2350
 S'room'
 p2351
-ssI469
+ssL469L
 (dp2352
 S'city'
 p2353
@@ -9282,7 +9282,7 @@ sS'moviename'
 p2371
 S'how to be single'
 p2372
-ssI470
+ssL470L
 (dp2373
 g2353
 S'louis'
@@ -9305,7 +9305,7 @@ sg2369
 g2370
 sg2371
 g2372
-ssI471
+ssL471L
 (dp2375
 g2353
 S'sappington'
@@ -9328,7 +9328,7 @@ sg2369
 g2370
 sg2371
 g2372
-ssI472
+ssL472L
 (dp2377
 g2353
 g2354
@@ -9351,7 +9351,7 @@ sg2369
 g2370
 sg2371
 g2372
-ssI473
+ssL473L
 (dp2379
 g2353
 g2374
@@ -9373,7 +9373,7 @@ sg2369
 g2370
 sg2371
 g2372
-ssI474
+ssL474L
 (dp2380
 S'city'
 p2381
@@ -9399,7 +9399,7 @@ sS'moviename'
 p2391
 S'deadpool'
 p2392
-ssI475
+ssL475L
 (dp2393
 g2381
 S'bellevue'
@@ -9414,7 +9414,7 @@ sg2389
 g2390
 sg2391
 g2392
-ssI476
+ssL476L
 (dp2395
 g2381
 g2382
@@ -9429,7 +9429,7 @@ sg2389
 g2390
 sg2391
 g2392
-ssI477
+ssL477L
 (dp2397
 g2381
 g2394
@@ -9443,7 +9443,7 @@ sg2389
 g2390
 sg2391
 g2392
-ssI478
+ssL478L
 (dp2398
 g2381
 g2382
@@ -9458,7 +9458,7 @@ sg2389
 g2390
 sg2391
 g2392
-ssI479
+ssL479L
 (dp2400
 S'city'
 p2401
@@ -9484,7 +9484,7 @@ sS'moviename'
 p2411
 S'london has fallen'
 p2412
-ssI480
+ssL480L
 (dp2413
 g2401
 g2402
@@ -9499,7 +9499,7 @@ sg2409
 g2410
 sg2411
 g2412
-ssI481
+ssL481L
 (dp2415
 g2401
 g2402
@@ -9514,7 +9514,7 @@ sg2409
 g2410
 sg2411
 g2412
-ssI482
+ssL482L
 (dp2417
 g2401
 g2402
@@ -9529,7 +9529,7 @@ sg2409
 g2410
 sg2411
 g2412
-ssI483
+ssL483L
 (dp2419
 g2401
 g2402
@@ -9543,7 +9543,7 @@ sg2409
 g2410
 sg2411
 g2412
-ssI484
+ssL484L
 (dp2420
 S'date'
 p2421
@@ -9565,7 +9565,7 @@ sS'moviename'
 p2429
 S'London Has Fallen#Whiskey Tango Foxtrot#Zootopia#Eddie The Eagle#Gods of Egypt#Triple 9#The Witch#Where to Invade Next#Zoolander 2#Hail Caesar#Kung Fu Panda 3#Star Wars#The Big Short#The Danish Girl#more'
 p2430
-ssI485
+ssL485L
 (dp2431
 g2421
 g2422
@@ -9578,7 +9578,7 @@ sg2427
 g2428
 sg2429
 g2430
-ssI486
+ssL486L
 (dp2433
 g2421
 g2422
@@ -9591,7 +9591,7 @@ sg2427
 g2428
 sg2429
 g2430
-ssI487
+ssL487L
 (dp2435
 g2421
 g2422
@@ -9604,7 +9604,7 @@ sg2427
 g2428
 sg2429
 g2430
-ssI488
+ssL488L
 (dp2437
 g2421
 g2422
@@ -9617,7 +9617,7 @@ g2428
 sg2429
 S'zoolander 2'
 p2438
-ssI489
+ssL489L
 (dp2439
 S'city'
 p2440
@@ -9654,7 +9654,7 @@ sS'moviename'
 p2455
 S'zootopia'
 p2456
-ssI490
+ssL490L
 (dp2457
 g2440
 g2441
@@ -9675,7 +9675,7 @@ sg2453
 g2454
 sg2455
 g2456
-ssI491
+ssL491L
 (dp2459
 g2440
 g2441
@@ -9696,7 +9696,7 @@ sg2453
 g2454
 sg2455
 g2456
-ssI492
+ssL492L
 (dp2461
 g2440
 g2441
@@ -9716,7 +9716,7 @@ sg2453
 g2454
 sg2455
 g2456
-ssI493
+ssL493L
 (dp2462
 g2440
 g2441
@@ -9737,7 +9737,7 @@ sg2453
 g2454
 sg2455
 g2456
-ssI494
+ssL494L
 (dp2464
 S'city'
 p2465
@@ -9747,7 +9747,7 @@ sS'other'
 p2467
 S'Italian restaurant'
 p2468
-ssI495
+ssL495L
 (dp2469
 S'city'
 p2470
@@ -9773,7 +9773,7 @@ sS'moviename'
 p2480
 S'spotlight'
 p2481
-ssI496
+ssL496L
 (dp2482
 g2470
 g2471
@@ -9788,7 +9788,7 @@ sg2478
 g2479
 sg2480
 g2481
-ssI497
+ssL497L
 (dp2484
 S'city'
 p2485
@@ -9818,7 +9818,7 @@ sS'moviename'
 p2497
 S'deadpool'
 p2498
-ssI498
+ssL498L
 (dp2499
 g2485
 S'Los Angeles'
@@ -9835,7 +9835,7 @@ sg2495
 g2496
 sg2497
 g2498
-ssI499
+ssL499L
 (dp2501
 g2485
 g2486
@@ -9852,7 +9852,7 @@ sg2495
 g2496
 sg2497
 g2498
-ssI500
+ssL500L
 (dp2503
 g2485
 g2500
@@ -9868,7 +9868,7 @@ sg2495
 g2496
 sg2497
 g2498
-ssI501
+ssL501L
 (dp2504
 g2485
 g2486
@@ -9885,7 +9885,7 @@ S'today'
 p2505
 sg2497
 g2498
-ssI502
+ssL502L
 (dp2506
 S'city'
 p2507
@@ -9911,7 +9911,7 @@ sS'moviename'
 p2517
 S'batman moviename'
 p2518
-ssI503
+ssL503L
 (dp2519
 g2507
 g2508
@@ -9926,7 +9926,7 @@ sg2515
 g2516
 sg2517
 g2518
-ssI504
+ssL504L
 (dp2521
 g2507
 g2508
@@ -9941,7 +9941,7 @@ sg2515
 g2516
 sg2517
 g2518
-ssI505
+ssL505L
 (dp2523
 g2507
 g2508
@@ -9956,7 +9956,7 @@ sg2515
 g2516
 sg2517
 g2518
-ssI506
+ssL506L
 (dp2525
 g2507
 g2508
@@ -9971,7 +9971,7 @@ sg2515
 g2516
 sg2517
 g2518
-ssI507
+ssL507L
 (dp2527
 S'city'
 p2528
@@ -10013,7 +10013,7 @@ sS'moviename'
 p2546
 S'zootopia'
 p2547
-ssI508
+ssL508L
 (dp2548
 g2528
 g2529
@@ -10036,7 +10036,7 @@ sg2544
 g2545
 sg2546
 g2547
-ssI509
+ssL509L
 (dp2550
 g2528
 g2529
@@ -10059,7 +10059,7 @@ sg2544
 g2545
 sg2546
 g2547
-ssI510
+ssL510L
 (dp2552
 g2528
 g2529
@@ -10082,7 +10082,7 @@ sg2544
 g2545
 sg2546
 g2547
-ssI511
+ssL511L
 (dp2554
 g2528
 g2529
@@ -10105,7 +10105,7 @@ sg2544
 g2545
 sg2546
 g2547
-ssI512
+ssL512L
 (dp2556
 S'city'
 p2557
@@ -10151,7 +10151,7 @@ sS'moviename'
 p2577
 S'deadpool'
 p2578
-ssI513
+ssL513L
 (dp2579
 g2557
 g2558
@@ -10176,7 +10176,7 @@ sg2575
 g2576
 sg2577
 g2578
-ssI514
+ssL514L
 (dp2581
 g2557
 g2558
@@ -10201,7 +10201,7 @@ sg2575
 g2576
 sg2577
 g2578
-ssI515
+ssL515L
 (dp2583
 g2557
 g2558
@@ -10225,7 +10225,7 @@ sg2575
 g2576
 sg2577
 g2578
-ssI516
+ssL516L
 (dp2584
 g2557
 g2558
@@ -10250,7 +10250,7 @@ sg2575
 g2576
 sg2577
 g2578
-ssI517
+ssL517L
 (dp2586
 S'distanceconstraints'
 p2587
@@ -10264,7 +10264,7 @@ sS'date'
 p2591
 S'coming saturday'
 p2592
-ssI518
+ssL518L
 (dp2593
 S'city'
 p2594
@@ -10294,7 +10294,7 @@ sS'moviename'
 p2606
 S'kung fu panda 3'
 p2607
-ssI519
+ssL519L
 (dp2608
 g2594
 g2595
@@ -10311,7 +10311,7 @@ sg2604
 g2605
 sg2606
 g2607
-ssI520
+ssL520L
 (dp2610
 g2594
 g2595
@@ -10328,7 +10328,7 @@ sg2604
 g2605
 sg2606
 g2607
-ssI521
+ssL521L
 (dp2612
 S'date'
 p2613
@@ -10350,7 +10350,7 @@ sS'starttime'
 p2621
 S'7pm'
 p2622
-ssI522
+ssL522L
 (dp2623
 g2613
 g2614
@@ -10363,7 +10363,7 @@ g2620
 sg2621
 S'7:05'
 p2624
-ssI523
+ssL523L
 (dp2625
 S'date'
 p2626
@@ -10381,7 +10381,7 @@ sS'starttime'
 p2632
 S'around noon'
 p2633
-ssI524
+ssL524L
 (dp2634
 g2626
 g2627
@@ -10392,7 +10392,7 @@ g2631
 sg2632
 S'1:00pm'
 p2635
-ssI525
+ssL525L
 (dp2636
 S'city'
 p2637
@@ -10418,7 +10418,7 @@ sS'moviename'
 p2647
 S'zootopia'
 p2648
-ssI526
+ssL526L
 (dp2649
 g2637
 g2638
@@ -10433,7 +10433,7 @@ sg2645
 g2646
 sg2647
 g2648
-ssI527
+ssL527L
 (dp2651
 g2637
 g2638
@@ -10448,7 +10448,7 @@ sg2645
 g2646
 sg2647
 g2648
-ssI528
+ssL528L
 (dp2653
 g2637
 g2638
@@ -10462,7 +10462,7 @@ sg2645
 g2646
 sg2647
 g2648
-ssI529
+ssL529L
 (dp2654
 S'theater_chain'
 p2655
@@ -10484,7 +10484,7 @@ sS'starttime'
 p2663
 S'4:25 pm'
 p2664
-ssI530
+ssL530L
 (dp2665
 S'city'
 p2666
@@ -10514,7 +10514,7 @@ sS'moviename'
 p2678
 S'deadpool'
 p2679
-ssI531
+ssL531L
 (dp2680
 S'date'
 p2681
@@ -10536,7 +10536,7 @@ sS'starttime'
 p2689
 S'9:30 pm'
 p2690
-ssI532
+ssL532L
 (dp2691
 S'city'
 p2692
@@ -10558,7 +10558,7 @@ sS'starttime'
 p2700
 S'soonest upcoming showing'
 p2701
-ssI533
+ssL533L
 (dp2702
 g2692
 g2693
@@ -10571,7 +10571,7 @@ g2699
 sg2700
 S'9:00pm'
 p2703
-ssI534
+ssL534L
 (dp2704
 S'city'
 p2705
@@ -10589,21 +10589,21 @@ sS'theater_chain'
 p2711
 S'amc loews oak tree 6'
 p2712
-sS'date'
-p2713
-S'tomorrow'
-p2714
 sS'state'
-p2715
+p2713
 S'wa'
-p2716
+p2714
 sS'other'
-p2717
+p2715
 S'large number of movies'
-p2718
+p2716
 sS'starttime'
-p2719
+p2717
 S'7pm'
+p2718
+sS'date'
+p2719
+S'tomorrow'
 p2720
 sS'genre'
 p2721
@@ -10613,7 +10613,7 @@ sS'moviename'
 p2723
 S'risen race spotlight'
 p2724
-ssI535
+ssL535L
 (dp2725
 g2705
 g2706
@@ -10636,7 +10636,7 @@ sg2721
 g2722
 sg2723
 g2724
-ssI536
+ssL536L
 (dp2727
 g2705
 g2706
@@ -10659,7 +10659,7 @@ sg2721
 g2722
 sg2723
 g2724
-ssI537
+ssL537L
 (dp2729
 g2705
 g2706
@@ -10681,7 +10681,7 @@ sg2721
 g2722
 sg2723
 g2724
-ssI538
+ssL538L
 (dp2730
 g2705
 g2706
@@ -10704,7 +10704,7 @@ S'drama'
 p2731
 sg2723
 g2724
-ssI539
+ssL539L
 (dp2732
 S'city'
 p2733
@@ -10730,7 +10730,7 @@ sS'moviename'
 p2743
 S'london had fallen'
 p2744
-ssI540
+ssL540L
 (dp2745
 g2733
 g2734
@@ -10745,7 +10745,7 @@ sg2741
 g2742
 sg2743
 g2744
-ssI541
+ssL541L
 (dp2747
 S'city'
 p2748
@@ -10783,7 +10783,7 @@ sS'moviename'
 p2764
 S'zootopia'
 p2765
-ssI542
+ssL542L
 (dp2766
 g2748
 S'bellevue'
@@ -10804,7 +10804,7 @@ sg2762
 g2763
 sg2764
 g2765
-ssI543
+ssL543L
 (dp2768
 g2748
 g2749
@@ -10825,7 +10825,7 @@ sg2762
 g2763
 sg2764
 g2765
-ssI544
+ssL544L
 (dp2770
 g2748
 g2767
@@ -10845,7 +10845,7 @@ sg2762
 g2763
 sg2764
 g2765
-ssI545
+ssL545L
 (dp2771
 g2748
 g2749
@@ -10866,7 +10866,7 @@ sg2762
 g2763
 sg2764
 g2765
-ssI546
+ssL546L
 (dp2773
 S'date'
 p2774
@@ -10888,7 +10888,7 @@ sS'starttime'
 p2782
 S'4:50 pm'
 p2783
-ssI547
+ssL547L
 (dp2784
 S'city'
 p2785
@@ -10922,7 +10922,7 @@ sS'moviename'
 p2799
 S'zootopia'
 p2800
-ssI548
+ssL548L
 (dp2801
 g2785
 g2786
@@ -10941,7 +10941,7 @@ sg2797
 g2798
 sg2799
 g2800
-ssI549
+ssL549L
 (dp2803
 g2785
 g2786
@@ -10960,7 +10960,7 @@ S'comedies'
 p2804
 sg2799
 g2800
-ssI550
+ssL550L
 (dp2805
 g2785
 g2786
@@ -10978,7 +10978,7 @@ sg2797
 g2804
 sg2799
 g2800
-ssI551
+ssL551L
 (dp2806
 g2785
 g2786
@@ -10997,7 +10997,7 @@ g2798
 sg2799
 S'Whiskey Tango Foxtrot'
 p2807
-ssI552
+ssL552L
 (dp2808
 S'city'
 p2809
@@ -11031,7 +11031,7 @@ sS'moviename'
 p2823
 S'deadpool'
 p2824
-ssI553
+ssL553L
 (dp2825
 g2809
 g2810
@@ -11050,7 +11050,7 @@ sg2821
 g2822
 sg2823
 g2824
-ssI554
+ssL554L
 (dp2827
 g2809
 g2810
@@ -11069,7 +11069,7 @@ sg2821
 g2822
 sg2823
 g2824
-ssI555
+ssL555L
 (dp2829
 g2809
 g2810
@@ -11087,7 +11087,7 @@ sg2821
 g2822
 sg2823
 g2824
-ssI556
+ssL556L
 (dp2830
 g2809
 g2810
@@ -11106,7 +11106,7 @@ sg2821
 g2822
 sg2823
 g2824
-ssI557
+ssL557L
 (dp2832
 S'city'
 p2833
@@ -11136,7 +11136,7 @@ sS'moviename'
 p2845
 S'eddie the eagle'
 p2846
-ssI558
+ssL558L
 (dp2847
 g2833
 g2834
@@ -11153,7 +11153,7 @@ sg2843
 g2844
 sg2845
 g2846
-ssI559
+ssL559L
 (dp2849
 g2833
 g2834
@@ -11170,7 +11170,7 @@ g2844
 sg2845
 S'race and risen'
 p2850
-ssI560
+ssL560L
 (dp2851
 g2833
 g2834
@@ -11186,7 +11186,7 @@ sg2843
 g2844
 sg2845
 g2850
-ssI561
+ssL561L
 (dp2852
 S'city'
 p2853
@@ -11212,7 +11212,7 @@ sS'moviename'
 p2863
 S'deadpool'
 p2864
-ssI562
+ssL562L
 (dp2865
 g2853
 g2854
@@ -11227,7 +11227,7 @@ sg2861
 g2862
 sg2863
 g2864
-ssI563
+ssL563L
 (dp2867
 g2853
 g2854
@@ -11242,7 +11242,7 @@ sg2861
 g2862
 sg2863
 g2864
-ssI564
+ssL564L
 (dp2869
 S'city'
 p2870
@@ -11280,7 +11280,7 @@ sS'moviename'
 p2886
 S'london has fallen'
 p2887
-ssI565
+ssL565L
 (dp2888
 g2870
 g2871
@@ -11301,7 +11301,7 @@ sg2884
 g2885
 sg2886
 g2887
-ssI566
+ssL566L
 (dp2890
 g2870
 g2871
@@ -11322,7 +11322,7 @@ sg2884
 g2885
 sg2886
 g2887
-ssI567
+ssL567L
 (dp2892
 g2870
 g2871
@@ -11342,7 +11342,7 @@ sg2884
 g2885
 sg2886
 g2887
-ssI568
+ssL568L
 (dp2893
 g2870
 g2871
@@ -11363,7 +11363,7 @@ sg2884
 g2885
 sg2886
 g2887
-ssI569
+ssL569L
 (dp2895
 S'city'
 p2896
@@ -11409,7 +11409,7 @@ sS'moviename'
 p2916
 S'zootopia'
 p2917
-ssI570
+ssL570L
 (dp2918
 g2896
 S'hoover'
@@ -11434,7 +11434,7 @@ sg2914
 g2915
 sg2916
 g2917
-ssI571
+ssL571L
 (dp2920
 g2896
 g2897
@@ -11459,7 +11459,7 @@ sg2914
 g2915
 sg2916
 g2917
-ssI572
+ssL572L
 (dp2922
 g2896
 g2919
@@ -11483,7 +11483,7 @@ sg2914
 g2915
 sg2916
 g2917
-ssI573
+ssL573L
 (dp2923
 g2896
 g2897
@@ -11508,7 +11508,7 @@ sg2914
 g2915
 sg2916
 g2917
-ssI574
+ssL574L
 (dp2925
 S'city'
 p2926
@@ -11542,7 +11542,7 @@ sS'moviename'
 p2940
 S'london has fallen'
 p2941
-ssI575
+ssL575L
 (dp2942
 g2926
 g2927
@@ -11561,7 +11561,7 @@ sg2938
 g2939
 sg2940
 g2941
-ssI576
+ssL576L
 (dp2944
 g2926
 g2927
@@ -11580,7 +11580,7 @@ g2939
 sg2940
 S'gods of egypt'
 p2945
-ssI577
+ssL577L
 (dp2946
 g2926
 g2927
@@ -11598,7 +11598,7 @@ sg2938
 g2939
 sg2940
 g2945
-ssI578
+ssL578L
 (dp2947
 g2926
 g2927
@@ -11617,7 +11617,7 @@ g2939
 sg2940
 S'deadpool'
 p2948
-ssI579
+ssL579L
 (dp2949
 S'date'
 p2950
@@ -11639,7 +11639,7 @@ sS'starttime'
 p2958
 S'8:45 pm'
 p2959
-ssI580
+ssL580L
 (dp2960
 S'city'
 p2961
@@ -11677,7 +11677,7 @@ sS'moviename'
 p2977
 S'zoolander 2'
 p2978
-ssI581
+ssL581L
 (dp2979
 g2961
 g2962
@@ -11698,7 +11698,7 @@ sg2975
 g2976
 sg2977
 g2978
-ssI582
+ssL582L
 (dp2981
 g2961
 g2962
@@ -11719,7 +11719,7 @@ sg2975
 g2976
 sg2977
 g2978
-ssI583
+ssL583L
 (dp2983
 g2961
 g2962
@@ -11739,7 +11739,7 @@ sg2975
 g2976
 sg2977
 g2978
-ssI584
+ssL584L
 (dp2984
 g2961
 g2962
@@ -11760,7 +11760,7 @@ sg2975
 g2976
 sg2977
 g2978
-ssI585
+ssL585L
 (dp2986
 S'theater'
 p2987
@@ -11786,7 +11786,7 @@ sS'moviename'
 p2997
 S'deadpool'
 p2998
-ssI586
+ssL586L
 (dp2999
 g2987
 g2988
@@ -11801,7 +11801,7 @@ sg2995
 g2996
 sg2997
 g2998
-ssI587
+ssL587L
 (dp3001
 S'city'
 p3002
@@ -11842,7 +11842,7 @@ sS'moviename'
 p3019
 S'zootopia'
 p3020
-ssI588
+ssL588L
 (dp3021
 g3002
 g3003
@@ -11865,7 +11865,7 @@ sg3017
 g3018
 sg3019
 g3020
-ssI589
+ssL589L
 (dp3023
 g3002
 g3003
@@ -11888,7 +11888,7 @@ sg3017
 g3018
 sg3019
 g3020
-ssI590
+ssL590L
 (dp3025
 g3002
 g3003
@@ -11910,7 +11910,7 @@ sg3017
 g3018
 sg3019
 g3020
-ssI591
+ssL591L
 (dp3026
 g3002
 g3003
@@ -11933,7 +11933,7 @@ g3018
 sg3019
 S'Whiskey Tango Foxtrot'
 p3027
-ssI592
+ssL592L
 (dp3028
 S'city'
 p3029
@@ -11959,7 +11959,7 @@ sS'moviename'
 p3039
 S'zootopia'
 p3040
-ssI593
+ssL593L
 (dp3041
 g3029
 g3030
@@ -11974,7 +11974,7 @@ sg3037
 g3038
 sg3039
 g3040
-ssI594
+ssL594L
 (dp3043
 g3029
 g3030
@@ -11989,7 +11989,7 @@ sg3037
 g3038
 sg3039
 g3040
-ssI595
+ssL595L
 (dp3045
 g3029
 g3030
@@ -12003,7 +12003,7 @@ sg3037
 g3038
 sg3039
 g3040
-ssI596
+ssL596L
 (dp3046
 g3029
 g3030
@@ -12018,7 +12018,7 @@ sg3037
 g3038
 sg3039
 g3040
-ssI597
+ssL597L
 (dp3048
 S'city'
 p3049
@@ -12048,7 +12048,7 @@ sS'moviename'
 p3061
 S'deadpool'
 p3062
-ssI598
+ssL598L
 (dp3063
 g3049
 g3050
@@ -12065,7 +12065,7 @@ sg3059
 g3060
 sg3061
 g3062
-ssI599
+ssL599L
 (dp3065
 g3049
 g3050
@@ -12082,7 +12082,7 @@ sg3059
 g3060
 sg3061
 g3062
-ssI600
+ssL600L
 (dp3067
 g3049
 g3050
@@ -12099,7 +12099,7 @@ sg3059
 g3060
 sg3061
 g3062
-ssI601
+ssL601L
 (dp3069
 g3049
 g3050
@@ -12115,7 +12115,7 @@ sg3059
 g3060
 sg3061
 g3062
-ssI602
+ssL602L
 (dp3070
 S'city'
 p3071
@@ -12137,7 +12137,7 @@ sS'starttime'
 p3079
 S'sonnest'
 p3080
-ssI603
+ssL603L
 (dp3081
 g3071
 g3072
@@ -12150,7 +12150,7 @@ g3078
 sg3079
 S'9:00pm'
 p3082
-ssI604
+ssL604L
 (dp3083
 S'city'
 p3084
@@ -12176,7 +12176,7 @@ sS'moviename'
 p3094
 S'zootopia'
 p3095
-ssI605
+ssL605L
 (dp3096
 g3084
 g3085
@@ -12191,7 +12191,7 @@ sg3092
 g3093
 sg3094
 g3095
-ssI606
+ssL606L
 (dp3098
 g3084
 g3085
@@ -12206,7 +12206,7 @@ sg3092
 g3093
 sg3094
 g3095
-ssI607
+ssL607L
 (dp3100
 g3084
 g3085
@@ -12220,7 +12220,7 @@ sg3092
 g3093
 sg3094
 g3095
-ssI608
+ssL608L
 (dp3101
 g3084
 g3085
@@ -12235,7 +12235,7 @@ sg3092
 g3093
 sg3094
 g3095
-ssI609
+ssL609L
 (dp3103
 S'city'
 p3104
@@ -12265,7 +12265,7 @@ sS'moviename'
 p3116
 S'zoolander 2'
 p3117
-ssI610
+ssL610L
 (dp3118
 g3104
 S'waynesboro'
@@ -12282,7 +12282,7 @@ sg3114
 g3115
 sg3116
 g3117
-ssI611
+ssL611L
 (dp3120
 g3104
 S'norfolk'
@@ -12299,7 +12299,7 @@ sg3114
 g3115
 sg3116
 g3117
-ssI612
+ssL612L
 (dp3122
 g3104
 g3105
@@ -12316,7 +12316,7 @@ sg3114
 g3115
 sg3116
 g3117
-ssI613
+ssL613L
 (dp3124
 g3104
 g3119
@@ -12332,7 +12332,7 @@ sg3114
 g3115
 sg3116
 g3117
-ssI614
+ssL614L
 (dp3125
 S'city'
 p3126
@@ -12362,7 +12362,7 @@ sS'moviename'
 p3138
 S'creed'
 p3139
-ssI615
+ssL615L
 (dp3140
 g3126
 g3127
@@ -12379,7 +12379,7 @@ sg3136
 g3137
 sg3138
 g3139
-ssI616
+ssL616L
 (dp3142
 g3126
 g3127
@@ -12396,7 +12396,7 @@ sg3136
 g3137
 sg3138
 g3139
-ssI617
+ssL617L
 (dp3144
 g3126
 g3127
@@ -12413,7 +12413,7 @@ sg3136
 g3137
 sg3138
 g3139
-ssI618
+ssL618L
 (dp3146
 g3126
 g3127
@@ -12430,7 +12430,7 @@ sg3136
 g3137
 sg3138
 g3139
-ssI619
+ssL619L
 (dp3148
 S'city'
 p3149
@@ -12460,7 +12460,7 @@ sS'moviename'
 p3161
 S'zootopia'
 p3162
-ssI620
+ssL620L
 (dp3163
 g3149
 g3150
@@ -12477,7 +12477,7 @@ sg3159
 g3160
 sg3161
 g3162
-ssI621
+ssL621L
 (dp3165
 g3149
 g3150
@@ -12494,7 +12494,7 @@ sg3159
 g3160
 sg3161
 g3162
-ssI622
+ssL622L
 (dp3167
 g3149
 g3150
@@ -12510,7 +12510,7 @@ sg3159
 g3160
 sg3161
 g3162
-ssI623
+ssL623L
 (dp3168
 g3149
 g3150
@@ -12527,7 +12527,7 @@ sg3159
 g3160
 sg3161
 g3162
-ssI624
+ssL624L
 (dp3170
 S'city'
 p3171
@@ -12553,7 +12553,7 @@ sS'moviename'
 p3181
 S'spotlight'
 p3182
-ssI625
+ssL625L
 (dp3183
 S'theater'
 p3184
@@ -12582,7 +12582,7 @@ sS'moviename'
 p3195
 S'zootopia'
 p3196
-ssI626
+ssL626L
 (dp3197
 g3184
 S'Whiskey Tango Foxtrot'
@@ -12599,7 +12599,7 @@ sg3193
 g3194
 sg3195
 g3196
-ssI627
+ssL627L
 (dp3199
 g3184
 S'mall of georgia'
@@ -12616,7 +12616,7 @@ sg3193
 g3194
 sg3195
 g3196
-ssI628
+ssL628L
 (dp3201
 g3184
 g3185
@@ -12633,7 +12633,7 @@ sg3193
 g3194
 sg3195
 g3196
-ssI629
+ssL629L
 (dp3203
 g3184
 g3198
@@ -12649,7 +12649,7 @@ sg3193
 g3194
 sg3195
 g3196
-ssI630
+ssL630L
 (dp3204
 S'date'
 p3205
@@ -12662,7 +12662,7 @@ sS'moviename'
 p3208
 S'avengers'
 p3209
-ssI631
+ssL631L
 (dp3210
 g3205
 g3206
@@ -12671,7 +12671,7 @@ S'finding dory'
 p3211
 sg3208
 g3209
-ssI632
+ssL632L
 (dp3212
 g3205
 g3206
@@ -12680,7 +12680,7 @@ S''
 sg3208
 S'finding dory'
 p3213
-ssI633
+ssL633L
 (dp3214
 g3205
 g3206
@@ -12688,7 +12688,7 @@ sg3207
 g3211
 sg3208
 g3213
-ssI634
+ssL634L
 (dp3215
 S'date'
 p3216
@@ -12710,7 +12710,7 @@ sS'starttime'
 p3224
 S'9:00 pm'
 p3225
-ssI635
+ssL635L
 (dp3226
 S'date'
 p3227
@@ -12732,7 +12732,7 @@ sS'starttime'
 p3235
 S'8:45 pm'
 p3236
-ssI636
+ssL636L
 (dp3237
 g3227
 g3228
@@ -12745,7 +12745,7 @@ g3234
 sg3235
 S'8:45'
 p3238
-ssI637
+ssL637L
 (dp3239
 S'city'
 p3240
@@ -12771,7 +12771,7 @@ sS'moviename'
 p3250
 S'zootopia'
 p3251
-ssI638
+ssL638L
 (dp3252
 g3240
 g3241
@@ -12786,7 +12786,7 @@ sg3248
 g3249
 sg3250
 g3251
-ssI639
+ssL639L
 (dp3254
 g3240
 g3241
@@ -12801,7 +12801,7 @@ sg3248
 g3249
 sg3250
 g3251
-ssI640
+ssL640L
 (dp3256
 g3240
 g3241
@@ -12815,7 +12815,7 @@ sg3248
 g3249
 sg3250
 g3251
-ssI641
+ssL641L
 (dp3257
 S'city'
 p3258
@@ -12845,7 +12845,7 @@ sS'moviename'
 p3270
 S'deadpool'
 p3271
-ssI642
+ssL642L
 (dp3272
 g3258
 S'bellevue'
@@ -12862,7 +12862,7 @@ sg3268
 g3269
 sg3270
 g3271
-ssI643
+ssL643L
 (dp3274
 g3258
 g3259
@@ -12879,7 +12879,7 @@ sg3268
 g3269
 sg3270
 g3271
-ssI644
+ssL644L
 (dp3276
 g3258
 g3273
@@ -12895,7 +12895,7 @@ sg3268
 g3269
 sg3270
 g3271
-ssI645
+ssL645L
 (dp3277
 g3258
 g3259
@@ -12912,7 +12912,7 @@ sg3268
 g3269
 sg3270
 g3271
-ssI646
+ssL646L
 (dp3279
 S'city'
 p3280
@@ -12938,7 +12938,7 @@ sS'moviename'
 p3290
 S'deadpool'
 p3291
-ssI647
+ssL647L
 (dp3292
 g3280
 g3281
@@ -12953,7 +12953,7 @@ sg3288
 g3289
 sg3290
 g3291
-ssI648
+ssL648L
 (dp3294
 g3280
 g3281
@@ -12968,7 +12968,7 @@ sg3288
 g3289
 sg3290
 g3291
-ssI649
+ssL649L
 (dp3296
 g3280
 g3281
@@ -12983,7 +12983,7 @@ sg3288
 g3289
 sg3290
 g3291
-ssI650
+ssL650L
 (dp3298
 g3280
 g3281
@@ -12997,7 +12997,7 @@ sg3288
 g3289
 sg3290
 g3291
-ssI651
+ssL651L
 (dp3299
 S'city'
 p3300
@@ -13031,7 +13031,7 @@ sS'genre'
 p3314
 S'thriller science fiction'
 p3315
-ssI652
+ssL652L
 (dp3316
 g3300
 S'carbondale'
@@ -13050,7 +13050,7 @@ sg3312
 g3313
 sg3314
 g3315
-ssI653
+ssL653L
 (dp3318
 g3300
 S'Du Quoin'
@@ -13069,7 +13069,7 @@ sg3312
 g3313
 sg3314
 g3315
-ssI654
+ssL654L
 (dp3320
 g3300
 g3301
@@ -13088,7 +13088,7 @@ sg3312
 g3313
 sg3314
 g3315
-ssI655
+ssL655L
 (dp3322
 g3300
 g3317
@@ -13106,7 +13106,7 @@ sg3312
 g3313
 sg3314
 g3315
-ssI656
+ssL656L
 (dp3323
 S'city'
 p3324
@@ -13132,7 +13132,7 @@ sS'moviename'
 p3334
 S'whiskey tango foxtrot'
 p3335
-ssI657
+ssL657L
 (dp3336
 g3324
 S'altoona'
@@ -13147,7 +13147,7 @@ sg3332
 g3333
 sg3334
 g3335
-ssI658
+ssL658L
 (dp3338
 g3324
 g3325
@@ -13162,7 +13162,7 @@ sg3332
 g3333
 sg3334
 g3335
-ssI659
+ssL659L
 (dp3340
 g3324
 g3337
@@ -13176,7 +13176,7 @@ sg3332
 g3333
 sg3334
 g3335
-ssI660
+ssL660L
 (dp3341
 g3324
 g3325
@@ -13191,7 +13191,7 @@ sg3332
 g3333
 sg3334
 g3335
-ssI661
+ssL661L
 (dp3343
 S'theater_chain'
 p3344
@@ -13213,7 +13213,7 @@ sS'starttime'
 p3352
 S'7:00 pm'
 p3353
-ssI662
+ssL662L
 (dp3354
 S'date'
 p3355
@@ -13235,7 +13235,7 @@ sS'starttime'
 p3363
 S'8:45 pm'
 p3364
-ssI663
+ssL663L
 (dp3365
 S'city'
 p3366
@@ -13261,7 +13261,7 @@ sS'moviename'
 p3376
 S'star wars'
 p3377
-ssI664
+ssL664L
 (dp3378
 g3366
 g3367
@@ -13276,7 +13276,7 @@ sg3374
 g3375
 sg3376
 g3377
-ssI665
+ssL665L
 (dp3380
 g3366
 g3367
@@ -13291,7 +13291,7 @@ sg3374
 g3375
 sg3376
 g3377
-ssI666
+ssL666L
 (dp3382
 g3366
 g3367
@@ -13306,7 +13306,7 @@ sg3374
 g3375
 sg3376
 g3377
-ssI667
+ssL667L
 (dp3384
 g3366
 g3367
@@ -13321,7 +13321,7 @@ sg3374
 g3375
 sg3376
 g3377
-ssI668
+ssL668L
 (dp3386
 S'city'
 p3387
@@ -13363,7 +13363,7 @@ sS'moviename'
 p3405
 S'zoolander 2'
 p3406
-ssI669
+ssL669L
 (dp3407
 g3387
 g3388
@@ -13386,7 +13386,7 @@ sg3403
 g3404
 sg3405
 g3406
-ssI670
+ssL670L
 (dp3409
 g3387
 g3388
@@ -13409,7 +13409,7 @@ sg3403
 g3404
 sg3405
 g3406
-ssI671
+ssL671L
 (dp3411
 g3387
 g3388
@@ -13431,7 +13431,7 @@ sg3403
 g3404
 sg3405
 g3406
-ssI672
+ssL672L
 (dp3412
 g3387
 g3388
@@ -13454,7 +13454,7 @@ sg3403
 g3404
 sg3405
 g3406
-ssI673
+ssL673L
 (dp3414
 S'city'
 p3415
@@ -13484,7 +13484,7 @@ sS'moviename'
 p3427
 S'deadpool'
 p3428
-ssI674
+ssL674L
 (dp3429
 g3415
 g3416
@@ -13501,7 +13501,7 @@ sg3425
 g3426
 sg3427
 g3428
-ssI675
+ssL675L
 (dp3431
 g3415
 g3416
@@ -13518,7 +13518,7 @@ sg3425
 g3426
 sg3427
 g3428
-ssI676
+ssL676L
 (dp3433
 g3415
 g3416
@@ -13535,7 +13535,7 @@ sg3425
 g3426
 sg3427
 g3428
-ssI677
+ssL677L
 (dp3435
 g3415
 g3416
@@ -13552,13 +13552,13 @@ sg3425
 g3426
 sg3427
 g3428
-ssI678
+ssL678L
 (dp3437
 S'date'
 p3438
 S'weekend'
 p3439
-ssI679
+ssL679L
 (dp3440
 S'city'
 p3441
@@ -13592,7 +13592,7 @@ sS'moviename'
 p3455
 S'kung fu panda 3'
 p3456
-ssI680
+ssL680L
 (dp3457
 g3441
 g3442
@@ -13611,7 +13611,7 @@ sg3453
 g3454
 sg3455
 g3456
-ssI681
+ssL681L
 (dp3459
 g3441
 g3442
@@ -13630,7 +13630,7 @@ sg3453
 g3454
 sg3455
 g3456
-ssI682
+ssL682L
 (dp3461
 g3441
 g3442
@@ -13648,7 +13648,7 @@ sg3453
 g3454
 sg3455
 g3456
-ssI683
+ssL683L
 (dp3462
 g3441
 g3442
@@ -13667,7 +13667,7 @@ sg3453
 g3454
 sg3455
 g3456
-ssI684
+ssL684L
 (dp3464
 S'date'
 p3465
@@ -13689,7 +13689,7 @@ sS'starttime'
 p3473
 S'around noon'
 p3474
-ssI685
+ssL685L
 (dp3475
 g3465
 g3466
@@ -13702,7 +13702,7 @@ g3472
 sg3473
 S'1:00pm'
 p3476
-ssI686
+ssL686L
 (dp3477
 S'city'
 p3478
@@ -13728,7 +13728,7 @@ sS'moviename'
 p3488
 S'london has fallen'
 p3489
-ssI687
+ssL687L
 (dp3490
 g3478
 g3479
@@ -13743,7 +13743,7 @@ sg3486
 g3487
 sg3488
 g3489
-ssI688
+ssL688L
 (dp3492
 g3478
 g3479
@@ -13758,7 +13758,7 @@ sg3486
 g3487
 sg3488
 g3489
-ssI689
+ssL689L
 (dp3494
 S'date'
 p3495
@@ -13780,7 +13780,7 @@ sS'starttime'
 p3503
 S'9:00 pm'
 p3504
-ssI690
+ssL690L
 (dp3505
 S'city'
 p3506
@@ -13810,7 +13810,7 @@ sS'moviename'
 p3518
 S'zootopia'
 p3519
-ssI691
+ssL691L
 (dp3520
 g3506
 g3507
@@ -13827,7 +13827,7 @@ sg3516
 g3517
 sg3518
 g3519
-ssI692
+ssL692L
 (dp3522
 g3506
 g3507
@@ -13844,7 +13844,7 @@ S'3/11'
 p3523
 sg3518
 g3519
-ssI693
+ssL693L
 (dp3524
 g3506
 g3507
@@ -13860,7 +13860,7 @@ sg3516
 g3523
 sg3518
 g3519
-ssI694
+ssL694L
 (dp3525
 g3506
 g3507
@@ -13877,7 +13877,7 @@ g3517
 sg3518
 S'gods of egypt'
 p3526
-ssI695
+ssL695L
 (dp3527
 S'city'
 p3528
@@ -13903,7 +13903,7 @@ sS'moviename'
 p3538
 S'spotlight'
 p3539
-ssI696
+ssL696L
 (dp3540
 g3528
 g3529
@@ -13918,7 +13918,7 @@ sg3536
 g3537
 sg3538
 g3539
-ssI697
+ssL697L
 (dp3542
 g3528
 g3529
@@ -13933,7 +13933,7 @@ sg3536
 g3537
 sg3538
 g3539
-ssI698
+ssL698L
 (dp3544
 S'date'
 p3545
@@ -13955,7 +13955,7 @@ sS'starttime'
 p3553
 S'8:05'
 p3554
-ssI699
+ssL699L
 (dp3555
 g3545
 S'tomorrow'
@@ -13968,7 +13968,7 @@ sg3551
 g3552
 sg3553
 g3554
-ssI700
+ssL700L
 (dp3557
 g3545
 S'friday'
@@ -13981,7 +13981,7 @@ sg3551
 g3552
 sg3553
 g3554
-ssI701
+ssL701L
 (dp3559
 g3545
 g3546
@@ -13994,7 +13994,7 @@ S'pacific theater'
 p3560
 sg3553
 g3554
-ssI702
+ssL702L
 (dp3561
 g3545
 g3556
@@ -14006,7 +14006,7 @@ sg3551
 g3560
 sg3553
 g3554
-ssI703
+ssL703L
 (dp3562
 S'theater'
 p3563
@@ -14036,7 +14036,7 @@ sS'moviename'
 p3575
 S'the witch'
 p3576
-ssI704
+ssL704L
 (dp3577
 g3563
 S'amc theaters puente hills'
@@ -14053,7 +14053,7 @@ sg3573
 g3574
 sg3575
 g3576
-ssI705
+ssL705L
 (dp3579
 g3563
 g3564
@@ -14070,7 +14070,7 @@ sg3573
 g3574
 sg3575
 g3576
-ssI706
+ssL706L
 (dp3581
 g3563
 g3578
@@ -14086,7 +14086,7 @@ sg3573
 g3574
 sg3575
 g3576
-ssI707
+ssL707L
 (dp3582
 g3563
 g3564
@@ -14103,7 +14103,7 @@ sg3573
 g3574
 sg3575
 g3576
-ssI708
+ssL708L
 (dp3584
 S'city'
 p3585
@@ -14129,7 +14129,7 @@ sS'moviename'
 p3595
 S'deadpool'
 p3596
-ssI709
+ssL709L
 (dp3597
 g3585
 g3586
@@ -14144,7 +14144,7 @@ sg3593
 g3594
 sg3595
 g3596
-ssI710
+ssL710L
 (dp3599
 g3585
 g3586
@@ -14159,7 +14159,7 @@ sg3593
 g3594
 sg3595
 g3596
-ssI711
+ssL711L
 (dp3601
 g3585
 g3586
@@ -14173,7 +14173,7 @@ sg3593
 g3594
 sg3595
 g3596
-ssI712
+ssL712L
 (dp3602
 g3585
 g3586
@@ -14188,7 +14188,7 @@ sg3593
 g3594
 sg3595
 g3596
-ssI713
+ssL713L
 (dp3604
 S'city'
 p3605
@@ -14226,7 +14226,7 @@ sS'moviename'
 p3621
 S'star wars'
 p3622
-ssI714
+ssL714L
 (dp3623
 g3605
 g3606
@@ -14247,7 +14247,7 @@ sg3619
 g3620
 sg3621
 g3622
-ssI715
+ssL715L
 (dp3625
 g3605
 g3606
@@ -14268,7 +14268,7 @@ sg3619
 g3620
 sg3621
 g3622
-ssI716
+ssL716L
 (dp3627
 g3605
 g3606
@@ -14288,7 +14288,7 @@ sg3619
 g3620
 sg3621
 g3622
-ssI717
+ssL717L
 (dp3628
 g3605
 g3606
@@ -14309,7 +14309,7 @@ sg3619
 g3620
 sg3621
 g3622
-ssI718
+ssL718L
 (dp3630
 S'city'
 p3631
@@ -14343,7 +14343,7 @@ sS'moviename'
 p3645
 S'kung fu panda 3'
 p3646
-ssI719
+ssL719L
 (dp3647
 g3631
 S'bellevue'
@@ -14362,7 +14362,7 @@ sg3643
 g3644
 sg3645
 g3646
-ssI720
+ssL720L
 (dp3649
 g3631
 g3632
@@ -14381,7 +14381,7 @@ sg3643
 g3644
 sg3645
 g3646
-ssI721
+ssL721L
 (dp3651
 g3631
 g3648
@@ -14399,7 +14399,7 @@ sg3643
 g3644
 sg3645
 g3646
-ssI722
+ssL722L
 (dp3652
 g3631
 g3632
@@ -14418,7 +14418,7 @@ sg3643
 g3644
 sg3645
 g3646
-ssI723
+ssL723L
 (dp3654
 S'date'
 p3655
@@ -14440,7 +14440,7 @@ sS'starttime'
 p3663
 S'9:30 pm'
 p3664
-ssI724
+ssL724L
 (dp3665
 S'city'
 p3666
@@ -14458,7 +14458,7 @@ sS'starttime'
 p3672
 S'from noon to 4pm'
 p3673
-ssI725
+ssL725L
 (dp3674
 g3666
 g3667
@@ -14469,7 +14469,7 @@ g3671
 sg3672
 S'8:30pm'
 p3675
-ssI726
+ssL726L
 (dp3676
 g3666
 g3667
@@ -14480,7 +14480,7 @@ g3671
 sg3672
 S'11:00pm'
 p3677
-ssI727
+ssL727L
 (dp3678
 g3666
 g3667
@@ -14491,7 +14491,7 @@ g3671
 sg3672
 S'11pm'
 p3679
-ssI728
+ssL728L
 (dp3680
 S'date'
 p3681
@@ -14509,7 +14509,7 @@ sS'starttime'
 p3687
 S'afternoon'
 p3688
-ssI729
+ssL729L
 (dp3689
 S'city'
 p3690
@@ -14543,7 +14543,7 @@ sS'moviename'
 p3704
 S'deadpool'
 p3705
-ssI730
+ssL730L
 (dp3706
 g3690
 g3691
@@ -14562,7 +14562,7 @@ sg3702
 g3703
 sg3704
 g3705
-ssI731
+ssL731L
 (dp3708
 g3690
 g3691
@@ -14581,7 +14581,7 @@ sg3702
 g3703
 sg3704
 g3705
-ssI732
+ssL732L
 (dp3710
 g3690
 g3691
@@ -14599,7 +14599,7 @@ sg3702
 g3703
 sg3704
 g3705
-ssI733
+ssL733L
 (dp3711
 g3690
 g3691
@@ -14618,7 +14618,7 @@ sg3702
 g3703
 sg3704
 g3705
-ssI734
+ssL734L
 (dp3713
 S'city'
 p3714
@@ -14652,7 +14652,7 @@ sS'moviename'
 p3728
 S'zootopia'
 p3729
-ssI735
+ssL735L
 (dp3730
 g3714
 g3715
@@ -14671,7 +14671,7 @@ sg3726
 g3727
 sg3728
 g3729
-ssI736
+ssL736L
 (dp3732
 g3714
 g3715
@@ -14690,7 +14690,7 @@ sg3726
 g3727
 sg3728
 g3729
-ssI737
+ssL737L
 (dp3734
 g3714
 g3715
@@ -14708,7 +14708,7 @@ sg3726
 g3727
 sg3728
 g3729
-ssI738
+ssL738L
 (dp3735
 g3714
 g3715
@@ -14727,7 +14727,7 @@ sg3726
 g3727
 sg3728
 g3729
-ssI739
+ssL739L
 (dp3737
 S'city'
 p3738
@@ -14753,7 +14753,7 @@ sS'moviename'
 p3748
 S'kung fu panda 3'
 p3749
-ssI740
+ssL740L
 (dp3750
 g3738
 g3739
@@ -14768,7 +14768,7 @@ sg3746
 g3747
 sg3748
 g3749
-ssI741
+ssL741L
 (dp3752
 g3738
 g3739
@@ -14783,7 +14783,7 @@ sg3746
 g3747
 sg3748
 g3749
-ssI742
+ssL742L
 (dp3754
 g3738
 g3739
@@ -14798,7 +14798,7 @@ sg3746
 g3747
 sg3748
 g3749
-ssI743
+ssL743L
 (dp3756
 g3738
 g3739
@@ -14812,7 +14812,7 @@ sg3746
 g3747
 sg3748
 g3749
-ssI744
+ssL744L
 (dp3757
 S'city'
 p3758
@@ -14838,7 +14838,7 @@ sS'moviename'
 p3768
 S'zootopia'
 p3769
-ssI745
+ssL745L
 (dp3770
 S'city'
 p3771
@@ -14876,7 +14876,7 @@ sS'moviename'
 p3787
 S'zootopia'
 p3788
-ssI746
+ssL746L
 (dp3789
 g3771
 g3772
@@ -14897,7 +14897,7 @@ sg3785
 g3786
 sg3787
 g3788
-ssI747
+ssL747L
 (dp3791
 g3771
 g3772
@@ -14918,7 +14918,7 @@ S'comedies'
 p3792
 sg3787
 g3788
-ssI748
+ssL748L
 (dp3793
 g3771
 g3772
@@ -14938,7 +14938,7 @@ sg3785
 g3792
 sg3787
 g3788
-ssI749
+ssL749L
 (dp3794
 g3771
 g3772
@@ -14959,7 +14959,7 @@ g3786
 sg3787
 S'Whiskey Tango Foxtrot'
 p3795
-ssI750
+ssL750L
 (dp3796
 S'date'
 p3797
@@ -14981,7 +14981,7 @@ sS'starttime'
 p3805
 S'9:00 pm'
 p3806
-ssI751
+ssL751L
 (dp3807
 S'city'
 p3808
@@ -15026,7 +15026,7 @@ sS'moviename'
 p3827
 S'zootopia'
 p3828
-ssI752
+ssL752L
 (dp3829
 g3808
 S'st louis'
@@ -15051,7 +15051,7 @@ sg3825
 g3826
 sg3827
 g3828
-ssI753
+ssL753L
 (dp3831
 g3808
 S'bellevue'
@@ -15076,7 +15076,7 @@ sg3825
 g3826
 sg3827
 g3828
-ssI754
+ssL754L
 (dp3833
 g3808
 g3809
@@ -15101,7 +15101,7 @@ sg3825
 g3826
 sg3827
 g3828
-ssI755
+ssL755L
 (dp3835
 g3808
 g3830
@@ -15125,7 +15125,7 @@ sg3825
 g3826
 sg3827
 g3828
-ssI756
+ssL756L
 (dp3836
 S'city'
 p3837
@@ -15163,7 +15163,7 @@ sS'moviename'
 p3853
 S'the witch'
 p3854
-ssI757
+ssL757L
 (dp3855
 g3837
 g3838
@@ -15184,7 +15184,7 @@ sg3851
 g3852
 sg3853
 g3854
-ssI758
+ssL758L
 (dp3857
 g3837
 g3838
@@ -15205,7 +15205,7 @@ sg3851
 g3852
 sg3853
 g3854
-ssI759
+ssL759L
 (dp3859
 g3837
 g3838
@@ -15225,7 +15225,7 @@ sg3851
 g3852
 sg3853
 g3854
-ssI760
+ssL760L
 (dp3860
 S'date'
 p3861
@@ -15247,7 +15247,7 @@ sS'starttime'
 p3869
 S'10:00 pm'
 p3870
-ssI761
+ssL761L
 (dp3871
 S'theater'
 p3872
@@ -15285,7 +15285,7 @@ sS'moviename'
 p3888
 S'zootopia'
 p3889
-ssI762
+ssL762L
 (dp3890
 g3872
 g3873
@@ -15306,7 +15306,7 @@ sg3886
 g3887
 sg3888
 g3889
-ssI763
+ssL763L
 (dp3892
 g3872
 g3873
@@ -15327,7 +15327,7 @@ sg3886
 g3887
 sg3888
 g3889
-ssI764
+ssL764L
 (dp3894
 g3872
 S'mesa grand'
@@ -15348,7 +15348,7 @@ sg3886
 g3887
 sg3888
 g3889
-ssI765
+ssL765L
 (dp3896
 g3872
 g3895
@@ -15368,7 +15368,7 @@ sg3886
 g3887
 sg3888
 g3889
-ssI766
+ssL766L
 (dp3897
 S'city'
 p3898
@@ -15410,7 +15410,7 @@ sS'moviename'
 p3916
 S'the big short'
 p3917
-ssI767
+ssL767L
 (dp3918
 g3898
 g3899
@@ -15433,7 +15433,7 @@ sg3914
 g3915
 sg3916
 g3917
-ssI768
+ssL768L
 (dp3920
 g3898
 g3899
@@ -15456,7 +15456,7 @@ sg3914
 g3915
 sg3916
 g3917
-ssI769
+ssL769L
 (dp3922
 g3898
 g3899
@@ -15478,7 +15478,7 @@ sg3914
 g3915
 sg3916
 g3917
-ssI770
+ssL770L
 (dp3923
 S'date'
 p3924
@@ -15500,7 +15500,7 @@ sS'starttime'
 p3932
 S'9:10 pm'
 p3933
-ssI771
+ssL771L
 (dp3934
 S'city'
 p3935
@@ -15542,7 +15542,7 @@ sS'moviename'
 p3953
 S'the big short'
 p3954
-ssI772
+ssL772L
 (dp3955
 g3935
 S'seattle'
@@ -15565,7 +15565,7 @@ sg3951
 g3952
 sg3953
 g3954
-ssI773
+ssL773L
 (dp3957
 g3935
 g3936
@@ -15588,7 +15588,7 @@ sg3951
 g3952
 sg3953
 g3954
-ssI774
+ssL774L
 (dp3959
 g3935
 g3956
@@ -15610,7 +15610,7 @@ sg3951
 g3952
 sg3953
 g3954
-ssI775
+ssL775L
 (dp3960
 g3935
 g3936
@@ -15633,7 +15633,7 @@ sg3951
 g3952
 sg3953
 g3954
-ssI776
+ssL776L
 (dp3962
 S'city'
 p3963
@@ -15659,7 +15659,7 @@ sS'moviename'
 p3973
 S'deadpool'
 p3974
-ssI777
+ssL777L
 (dp3975
 g3963
 g3964
@@ -15674,7 +15674,7 @@ sg3971
 g3972
 sg3973
 g3974
-ssI778
+ssL778L
 (dp3977
 S'date'
 p3978
@@ -15692,7 +15692,7 @@ sS'starttime'
 p3984
 S'night'
 p3985
-ssI779
+ssL779L
 (dp3986
 g3978
 S'friday'
@@ -15703,7 +15703,7 @@ sg3982
 g3983
 sg3984
 g3985
-ssI780
+ssL780L
 (dp3988
 g3978
 S'this weekend'
@@ -15714,7 +15714,7 @@ sg3982
 g3983
 sg3984
 g3985
-ssI781
+ssL781L
 (dp3990
 g3978
 S'earlier day'
@@ -15725,7 +15725,7 @@ sg3982
 g3983
 sg3984
 g3985
-ssI782
+ssL782L
 (dp3992
 g3978
 S'thursday'
@@ -15736,7 +15736,7 @@ sg3982
 g3983
 sg3984
 g3985
-ssI783
+ssL783L
 (dp3994
 S'date'
 p3995
@@ -15758,7 +15758,7 @@ sS'starttime'
 p4003
 S'8pm'
 p4004
-ssI784
+ssL784L
 (dp4005
 g3995
 g3996
@@ -15771,7 +15771,7 @@ S'amc sunset place 24'
 p4006
 sg4003
 g4004
-ssI785
+ssL785L
 (dp4007
 g3995
 g3996
@@ -15784,7 +15784,7 @@ g4002
 sg4003
 S'7:40'
 p4008
-ssI786
+ssL786L
 (dp4009
 g3995
 g3996
@@ -15796,7 +15796,7 @@ sg4001
 g4006
 sg4003
 g4008
-ssI787
+ssL787L
 (dp4010
 g3995
 g3996
@@ -15809,7 +15809,7 @@ g4002
 sg4003
 S'6:00'
 p4011
-ssI788
+ssL788L
 (dp4012
 S'date'
 p4013
@@ -15831,7 +15831,7 @@ sS'starttime'
 p4021
 S'8:45 pm'
 p4022
-ssI789
+ssL789L
 (dp4023
 g4013
 g4014
@@ -15844,7 +15844,7 @@ S'the big short'
 p4024
 sg4021
 g4022
-ssI790
+ssL790L
 (dp4025
 S'city'
 p4026
@@ -15889,7 +15889,7 @@ sS'moviename'
 p4045
 S'zootopia'
 p4046
-ssI791
+ssL791L
 (dp4047
 g4026
 S'st louis'
@@ -15914,7 +15914,7 @@ sg4043
 g4044
 sg4045
 g4046
-ssI792
+ssL792L
 (dp4049
 g4026
 S'bellevue'
@@ -15939,7 +15939,7 @@ sg4043
 g4044
 sg4045
 g4046
-ssI793
+ssL793L
 (dp4051
 g4026
 g4027
@@ -15964,7 +15964,7 @@ sg4043
 g4044
 sg4045
 g4046
-ssI794
+ssL794L
 (dp4053
 g4026
 g4048
@@ -15988,7 +15988,7 @@ sg4043
 g4044
 sg4045
 g4046
-ssI795
+ssL795L
 (dp4054
 S'city'
 p4055
@@ -16022,7 +16022,7 @@ sS'moviename'
 p4069
 S'the forest'
 p4070
-ssI796
+ssL796L
 (dp4071
 g4055
 g4056
@@ -16041,7 +16041,7 @@ sg4067
 g4068
 sg4069
 g4070
-ssI797
+ssL797L
 (dp4073
 g4055
 g4056
@@ -16060,7 +16060,7 @@ sg4067
 g4068
 sg4069
 g4070
-ssI798
+ssL798L
 (dp4075
 g4055
 g4056
@@ -16079,7 +16079,7 @@ sg4067
 g4068
 sg4069
 g4070
-ssI799
+ssL799L
 (dp4077
 g4055
 g4056
@@ -16098,7 +16098,7 @@ sg4067
 g4068
 sg4069
 g4070
-ssI800
+ssL800L
 (dp4079
 S'city'
 p4080
@@ -16140,7 +16140,7 @@ sS'moviename'
 p4098
 S'how to be single'
 p4099
-ssI801
+ssL801L
 (dp4100
 g4080
 S'sappington'
@@ -16163,7 +16163,7 @@ sg4096
 g4097
 sg4098
 g4099
-ssI802
+ssL802L
 (dp4102
 g4080
 g4081
@@ -16186,7 +16186,7 @@ sg4096
 g4097
 sg4098
 g4099
-ssI803
+ssL803L
 (dp4104
 g4080
 g4101
@@ -16208,7 +16208,7 @@ sg4096
 g4097
 sg4098
 g4099
-ssI804
+ssL804L
 (dp4105
 g4080
 g4081
@@ -16231,7 +16231,7 @@ sg4096
 g4097
 sg4098
 g4099
-ssI805
+ssL805L
 (dp4107
 S'city'
 p4108
@@ -16269,7 +16269,7 @@ sS'moviename'
 p4124
 S'zootopia'
 p4125
-ssI806
+ssL806L
 (dp4126
 g4108
 S'bellevue'
@@ -16290,7 +16290,7 @@ sg4122
 g4123
 sg4124
 g4125
-ssI807
+ssL807L
 (dp4128
 g4108
 g4109
@@ -16311,7 +16311,7 @@ sg4122
 g4123
 sg4124
 g4125
-ssI808
+ssL808L
 (dp4130
 g4108
 g4127
@@ -16331,7 +16331,7 @@ sg4122
 g4123
 sg4124
 g4125
-ssI809
+ssL809L
 (dp4131
 g4108
 g4109
@@ -16352,7 +16352,7 @@ sg4122
 g4123
 sg4124
 g4125
-ssI810
+ssL810L
 (dp4133
 S'date'
 p4134
@@ -16374,7 +16374,7 @@ sS'starttime'
 p4142
 S'9:30 pm'
 p4143
-ssI811
+ssL811L
 (dp4144
 S'city'
 p4145
@@ -16400,7 +16400,7 @@ sS'moviename'
 p4155
 S'zootopia'
 p4156
-ssI812
+ssL812L
 (dp4157
 S'city'
 p4158
@@ -16430,7 +16430,7 @@ sS'moviename'
 p4170
 S'london has fallen'
 p4171
-ssI813
+ssL813L
 (dp4172
 g4158
 g4159
@@ -16447,7 +16447,7 @@ sg4168
 g4169
 sg4170
 g4171
-ssI814
+ssL814L
 (dp4174
 g4158
 g4159
@@ -16464,7 +16464,7 @@ sg4168
 g4169
 sg4170
 g4171
-ssI815
+ssL815L
 (dp4176
 g4158
 g4159
@@ -16481,7 +16481,7 @@ sg4168
 g4169
 sg4170
 g4171
-ssI816
+ssL816L
 (dp4178
 g4158
 g4159
@@ -16498,7 +16498,7 @@ sg4168
 g4169
 sg4170
 g4171
-ssI817
+ssL817L
 (dp4180
 S'moviename'
 p4181
@@ -16520,7 +16520,7 @@ sS'starttime'
 p4189
 S'1:50'
 p4190
-ssI818
+ssL818L
 (dp4191
 g4181
 g4182
@@ -16533,7 +16533,7 @@ sg4187
 g4188
 sg4189
 g4190
-ssI819
+ssL819L
 (dp4193
 g4181
 g4182
@@ -16546,7 +16546,7 @@ sg4187
 g4188
 sg4189
 g4190
-ssI820
+ssL820L
 (dp4195
 g4181
 g4182
@@ -16558,7 +16558,7 @@ sg4187
 g4188
 sg4189
 g4190
-ssI821
+ssL821L
 (dp4196
 g4181
 g4182
@@ -16571,7 +16571,7 @@ g4188
 sg4189
 S' 4:30'
 p4197
-ssI822
+ssL822L
 (dp4198
 S'city'
 p4199
@@ -16613,7 +16613,7 @@ sS'moviename'
 p4217
 S'zootopia'
 p4218
-ssI823
+ssL823L
 (dp4219
 g4199
 g4200
@@ -16636,7 +16636,7 @@ sg4215
 g4216
 sg4217
 g4218
-ssI824
+ssL824L
 (dp4221
 g4199
 g4200
@@ -16659,7 +16659,7 @@ sg4215
 g4216
 sg4217
 g4218
-ssI825
+ssL825L
 (dp4223
 g4199
 g4200
@@ -16682,7 +16682,7 @@ sg4215
 g4216
 sg4217
 g4218
-ssI826
+ssL826L
 (dp4225
 g4199
 g4200
@@ -16704,7 +16704,7 @@ sg4215
 g4216
 sg4217
 g4218
-ssI827
+ssL827L
 (dp4226
 S'city'
 p4227
@@ -16734,7 +16734,7 @@ sS'moviename'
 p4239
 S'london has fallen'
 p4240
-ssI828
+ssL828L
 (dp4241
 g4227
 g4228
@@ -16751,7 +16751,7 @@ sg4237
 g4238
 sg4239
 g4240
-ssI829
+ssL829L
 (dp4243
 g4227
 g4228
@@ -16768,7 +16768,7 @@ sg4237
 g4238
 sg4239
 g4240
-ssI830
+ssL830L
 (dp4245
 g4227
 g4228
@@ -16784,7 +16784,7 @@ sg4237
 g4238
 sg4239
 g4240
-ssI831
+ssL831L
 (dp4246
 S'city'
 p4247
@@ -16810,7 +16810,7 @@ sS'moviename'
 p4257
 S'spotlight'
 p4258
-ssI832
+ssL832L
 (dp4259
 S'city'
 p4260
@@ -16852,7 +16852,7 @@ sS'moviename'
 p4278
 S'deadpool'
 p4279
-ssI833
+ssL833L
 (dp4280
 g4260
 g4261
@@ -16875,7 +16875,7 @@ sg4276
 g4277
 sg4278
 g4279
-ssI834
+ssL834L
 (dp4282
 g4260
 g4261
@@ -16898,7 +16898,7 @@ sg4276
 g4277
 sg4278
 g4279
-ssI835
+ssL835L
 (dp4284
 g4260
 g4261
@@ -16920,7 +16920,7 @@ sg4276
 g4277
 sg4278
 g4279
-ssI836
+ssL836L
 (dp4285
 g4260
 g4261
@@ -16943,7 +16943,7 @@ sg4276
 g4277
 sg4278
 g4279
-ssI837
+ssL837L
 (dp4287
 S'city'
 p4288
@@ -16981,7 +16981,7 @@ sS'moviename'
 p4304
 S'the perfect match'
 p4305
-ssI838
+ssL838L
 (dp4306
 g4288
 g4289
@@ -17002,7 +17002,7 @@ sg4302
 g4303
 sg4304
 g4305
-ssI839
+ssL839L
 (dp4308
 g4288
 g4289
@@ -17023,7 +17023,7 @@ sg4302
 g4303
 sg4304
 g4305
-ssI840
+ssL840L
 (dp4310
 g4288
 g4289
@@ -17043,7 +17043,7 @@ sg4302
 g4303
 sg4304
 g4305
-ssI841
+ssL841L
 (dp4311
 g4288
 g4289
@@ -17063,7 +17063,7 @@ sg4302
 g4303
 sg4304
 g4305
-ssI842
+ssL842L
 (dp4312
 S'city'
 p4313
@@ -17101,7 +17101,7 @@ sS'moviename'
 p4329
 S'star wars the force awakens'
 p4330
-ssI843
+ssL843L
 (dp4331
 g4313
 S'portland'
@@ -17122,7 +17122,7 @@ sg4327
 g4328
 sg4329
 g4330
-ssI844
+ssL844L
 (dp4333
 g4313
 g4314
@@ -17143,7 +17143,7 @@ sg4327
 g4328
 sg4329
 g4330
-ssI845
+ssL845L
 (dp4335
 g4313
 g4332
@@ -17163,7 +17163,7 @@ sg4327
 g4328
 sg4329
 g4330
-ssI846
+ssL846L
 (dp4336
 g4313
 g4314
@@ -17184,7 +17184,7 @@ sg4327
 g4328
 sg4329
 g4330
-ssI847
+ssL847L
 (dp4338
 S'date'
 p4339
@@ -17206,7 +17206,7 @@ sS'starttime'
 p4347
 S'4:50 pm'
 p4348
-ssI848
+ssL848L
 (dp4349
 S'city'
 p4350
@@ -17232,7 +17232,7 @@ sS'moviename'
 p4360
 S'race'
 p4361
-ssI849
+ssL849L
 (dp4362
 S'date'
 p4363
@@ -17242,7 +17242,7 @@ sS'other'
 p4365
 S'29 movies'
 p4366
-ssI850
+ssL850L
 (dp4367
 S'date'
 p4368
@@ -17264,7 +17264,7 @@ sS'starttime'
 p4376
 S'9:30 pm'
 p4377
-ssI851
+ssL851L
 (dp4378
 S'date'
 p4379
@@ -17286,7 +17286,7 @@ sS'starttime'
 p4387
 S'9:30 pm'
 p4388
-ssI852
+ssL852L
 (dp4389
 S'city'
 p4390
@@ -17312,7 +17312,7 @@ sS'moviename'
 p4400
 S'deadpool'
 p4401
-ssI853
+ssL853L
 (dp4402
 g4390
 g4391
@@ -17327,7 +17327,7 @@ sg4398
 g4399
 sg4400
 g4401
-ssI854
+ssL854L
 (dp4404
 S'city'
 p4405
@@ -17353,7 +17353,7 @@ sS'moviename'
 p4415
 S'deadpool'
 p4416
-ssI855
+ssL855L
 (dp4417
 g4405
 S'bellevue'
@@ -17368,7 +17368,7 @@ sg4413
 g4414
 sg4415
 g4416
-ssI856
+ssL856L
 (dp4419
 g4405
 g4406
@@ -17383,7 +17383,7 @@ sg4413
 g4414
 sg4415
 g4416
-ssI857
+ssL857L
 (dp4421
 g4405
 g4418
@@ -17397,7 +17397,7 @@ sg4413
 g4414
 sg4415
 g4416
-ssI858
+ssL858L
 (dp4422
 g4405
 g4406
@@ -17412,7 +17412,7 @@ sg4413
 g4414
 sg4415
 g4416
-ssI859
+ssL859L
 (dp4424
 S'city'
 p4425
@@ -17438,7 +17438,7 @@ sS'moviename'
 p4435
 S'deadpool'
 p4436
-ssI860
+ssL860L
 (dp4437
 g4425
 g4426
@@ -17453,7 +17453,7 @@ sg4433
 g4434
 sg4435
 g4436
-ssI861
+ssL861L
 (dp4439
 g4425
 g4426
@@ -17468,7 +17468,7 @@ sg4433
 g4434
 sg4435
 g4436
-ssI862
+ssL862L
 (dp4441
 g4425
 g4426
@@ -17482,7 +17482,7 @@ sg4433
 g4434
 sg4435
 g4436
-ssI863
+ssL863L
 (dp4442
 g4425
 g4426
@@ -17497,7 +17497,7 @@ sg4433
 g4434
 sg4435
 g4436
-ssI864
+ssL864L
 (dp4444
 S'date'
 p4445
@@ -17519,7 +17519,7 @@ sS'zip'
 p4453
 S'94952'
 p4454
-ssI865
+ssL865L
 (dp4455
 g4445
 g4446
@@ -17532,7 +17532,7 @@ S'4:20pm'
 p4456
 sg4453
 g4454
-ssI866
+ssL866L
 (dp4457
 g4445
 g4446
@@ -17545,7 +17545,7 @@ S'6:55pm'
 p4458
 sg4453
 g4454
-ssI867
+ssL867L
 (dp4459
 g4445
 g4446
@@ -17558,7 +17558,7 @@ S'4:20'
 p4460
 sg4453
 g4454
-ssI868
+ssL868L
 (dp4461
 S'city'
 p4462
@@ -17588,7 +17588,7 @@ sS'moviename'
 p4474
 S'london has fallen'
 p4475
-ssI869
+ssL869L
 (dp4476
 g4462
 g4463
@@ -17605,7 +17605,7 @@ sg4472
 g4473
 sg4474
 g4475
-ssI870
+ssL870L
 (dp4478
 g4462
 g4463
@@ -17622,7 +17622,7 @@ S'3/13'
 p4479
 sg4474
 g4475
-ssI871
+ssL871L
 (dp4480
 g4462
 g4463
@@ -17638,7 +17638,7 @@ sg4472
 g4479
 sg4474
 g4475
-ssI872
+ssL872L
 (dp4481
 S'city'
 p4482
@@ -17668,7 +17668,7 @@ sS'moviename'
 p4494
 S'zootopia'
 p4495
-ssI873
+ssL873L
 (dp4496
 g4482
 g4483
@@ -17685,7 +17685,7 @@ sg4492
 g4493
 sg4494
 g4495
-ssI874
+ssL874L
 (dp4498
 g4482
 g4483
@@ -17702,7 +17702,7 @@ sg4492
 g4493
 sg4494
 g4495
-ssI875
+ssL875L
 (dp4500
 g4482
 g4483
@@ -17719,7 +17719,7 @@ sg4492
 g4493
 sg4494
 g4495
-ssI876
+ssL876L
 (dp4502
 g4482
 g4483
@@ -17735,7 +17735,7 @@ sg4492
 g4493
 sg4494
 g4495
-ssI877
+ssL877L
 (dp4503
 S'distanceconstraints'
 p4504
@@ -17749,7 +17749,7 @@ sS'theater'
 p4508
 S'big picture'
 p4509
-ssI878
+ssL878L
 (dp4510
 g4504
 g4505
@@ -17758,7 +17758,7 @@ S'I can order beer in'
 p4511
 sg4508
 g4509
-ssI879
+ssL879L
 (dp4512
 g4504
 g4505
@@ -17767,7 +17767,7 @@ g4507
 sg4508
 S'cinerama'
 p4513
-ssI880
+ssL880L
 (dp4514
 g4504
 g4505
@@ -17775,7 +17775,7 @@ sg4506
 g4511
 sg4508
 g4513
-ssI881
+ssL881L
 (dp4515
 g4504
 g4505
@@ -17784,7 +17784,7 @@ g4507
 sg4508
 S'central cinema'
 p4516
-ssI882
+ssL882L
 (dp4517
 S'city'
 p4518
@@ -17814,7 +17814,7 @@ sS'moviename'
 p4530
 S'zootopia'
 p4531
-ssI883
+ssL883L
 (dp4532
 g4518
 g4519
@@ -17831,7 +17831,7 @@ sg4528
 g4529
 sg4530
 g4531
-ssI884
+ssL884L
 (dp4534
 g4518
 g4519
@@ -17848,7 +17848,7 @@ S'comedy'
 p4535
 sg4530
 g4531
-ssI885
+ssL885L
 (dp4536
 g4518
 g4519
@@ -17864,7 +17864,7 @@ sg4528
 g4535
 sg4530
 g4531
-ssI886
+ssL886L
 (dp4537
 S'city'
 p4538
@@ -17890,7 +17890,7 @@ sS'moviename'
 p4548
 S'deadpool'
 p4549
-ssI887
+ssL887L
 (dp4550
 g4538
 g4539
@@ -17905,7 +17905,7 @@ sg4546
 g4547
 sg4548
 g4549
-ssI888
+ssL888L
 (dp4552
 g4538
 g4539
@@ -17920,7 +17920,7 @@ sg4546
 g4547
 sg4548
 g4549
-ssI889
+ssL889L
 (dp4554
 g4538
 g4539
@@ -17935,7 +17935,7 @@ S'friday'
 p4555
 sg4548
 g4549
-ssI890
+ssL890L
 (dp4556
 g4538
 g4539
@@ -17949,7 +17949,7 @@ sg4546
 g4555
 sg4548
 g4549
-ssI891
+ssL891L
 (dp4557
 S'city'
 p4558
@@ -17975,7 +17975,7 @@ sS'moviename'
 p4568
 S'zootopia'
 p4569
-ssI892
+ssL892L
 (dp4570
 g4558
 g4559
@@ -17990,7 +17990,7 @@ sg4566
 g4567
 sg4568
 g4569
-ssI893
+ssL893L
 (dp4572
 g4558
 g4559
@@ -18005,7 +18005,7 @@ sg4566
 g4567
 sg4568
 g4569
-ssI894
+ssL894L
 (dp4574
 g4558
 g4559
@@ -18020,7 +18020,7 @@ sg4566
 g4567
 sg4568
 g4569
-ssI895
+ssL895L
 (dp4576
 g4558
 g4559
@@ -18034,7 +18034,7 @@ sg4566
 g4567
 sg4568
 g4569
-ssI896
+ssL896L
 (dp4577
 S'city'
 p4578
@@ -18079,7 +18079,7 @@ sS'moviename'
 p4597
 S'how to be single'
 p4598
-ssI897
+ssL897L
 (dp4599
 g4578
 g4579
@@ -18104,7 +18104,7 @@ sg4595
 g4596
 sg4597
 g4598
-ssI898
+ssL898L
 (dp4601
 g4578
 g4579
@@ -18129,7 +18129,7 @@ sg4595
 g4596
 sg4597
 g4598
-ssI899
+ssL899L
 (dp4603
 g4578
 g4579
@@ -18153,7 +18153,7 @@ sg4595
 g4596
 sg4597
 g4598
-ssI900
+ssL900L
 (dp4604
 g4578
 g4579
@@ -18178,7 +18178,7 @@ sg4595
 g4596
 sg4597
 g4598
-ssI901
+ssL901L
 (dp4606
 S'city'
 p4607
@@ -18204,7 +18204,7 @@ sS'moviename'
 p4617
 S'10 cloverfield lane'
 p4618
-ssI902
+ssL902L
 (dp4619
 g4607
 g4608
@@ -18219,7 +18219,7 @@ sg4615
 g4616
 sg4617
 g4618
-ssI903
+ssL903L
 (dp4621
 g4607
 g4608
@@ -18234,7 +18234,7 @@ sg4615
 g4616
 sg4617
 g4618
-ssI904
+ssL904L
 (dp4623
 g4607
 g4608
@@ -18249,7 +18249,7 @@ sg4615
 g4616
 sg4617
 g4618
-ssI905
+ssL905L
 (dp4625
 g4607
 g4608
@@ -18264,7 +18264,7 @@ sg4615
 g4616
 sg4617
 g4618
-ssI906
+ssL906L
 (dp4627
 S'city'
 p4628
@@ -18294,7 +18294,7 @@ sS'moviename'
 p4640
 S'Whiskey Tango Foxtrot'
 p4641
-ssI907
+ssL907L
 (dp4642
 g4628
 S'Houma'
@@ -18311,7 +18311,7 @@ sg4638
 g4639
 sg4640
 g4641
-ssI908
+ssL908L
 (dp4644
 g4628
 g4629
@@ -18328,7 +18328,7 @@ sg4638
 g4639
 sg4640
 g4641
-ssI909
+ssL909L
 (dp4646
 g4628
 g4643
@@ -18344,7 +18344,7 @@ sg4638
 g4639
 sg4640
 g4641
-ssI910
+ssL910L
 (dp4647
 g4628
 g4629
@@ -18361,7 +18361,7 @@ sg4638
 g4639
 sg4640
 g4641
-ssI911
+ssL911L
 (dp4649
 S'city'
 p4650
@@ -18387,7 +18387,7 @@ sS'moviename'
 p4660
 S'10 cloverfield lane'
 p4661
-ssI912
+ssL912L
 (dp4662
 g4650
 g4651
@@ -18402,7 +18402,7 @@ sg4658
 g4659
 sg4660
 g4661
-ssI913
+ssL913L
 (dp4664
 g4650
 g4651
@@ -18417,7 +18417,7 @@ sg4658
 g4659
 sg4660
 g4661
-ssI914
+ssL914L
 (dp4666
 g4650
 g4651
@@ -18432,7 +18432,7 @@ sg4658
 g4659
 sg4660
 g4661
-ssI915
+ssL915L
 (dp4668
 g4650
 g4651
@@ -18447,7 +18447,7 @@ sg4658
 g4659
 sg4660
 g4661
-ssI916
+ssL916L
 (dp4670
 S'city'
 p4671
@@ -18485,7 +18485,7 @@ sS'moviename'
 p4687
 S'zoolander 2'
 p4688
-ssI917
+ssL917L
 (dp4689
 g4671
 S'shiloh'
@@ -18506,7 +18506,7 @@ sg4685
 g4686
 sg4687
 g4688
-ssI918
+ssL918L
 (dp4691
 g4671
 S'belleville'
@@ -18527,7 +18527,7 @@ sg4685
 g4686
 sg4687
 g4688
-ssI919
+ssL919L
 (dp4693
 g4671
 S"o'fallon"
@@ -18548,7 +18548,7 @@ sg4685
 g4686
 sg4687
 g4688
-ssI920
+ssL920L
 (dp4695
 g4671
 S'fairview heights'
@@ -18569,7 +18569,7 @@ sg4685
 g4686
 sg4687
 g4688
-ssI921
+ssL921L
 (dp4697
 S'moviename'
 p4698
@@ -18583,7 +18583,7 @@ sS'starttime'
 p4702
 S'between 8-10 pm'
 p4703
-ssI922
+ssL922L
 (dp4704
 S'date'
 p4705
@@ -18605,7 +18605,7 @@ sS'starttime'
 p4713
 S'9:25 pm'
 p4714
-ssI923
+ssL923L
 (dp4715
 S'city'
 p4716
@@ -18635,7 +18635,7 @@ sS'moviename'
 p4728
 S'deadpool'
 p4729
-ssI924
+ssL924L
 (dp4730
 g4716
 g4717
@@ -18652,7 +18652,7 @@ sg4726
 g4727
 sg4728
 g4729
-ssI925
+ssL925L
 (dp4732
 g4716
 g4717
@@ -18669,7 +18669,7 @@ sg4726
 g4727
 sg4728
 g4729
-ssI926
+ssL926L
 (dp4734
 g4716
 g4717
@@ -18686,7 +18686,7 @@ sg4726
 g4727
 sg4728
 g4729
-ssI927
+ssL927L
 (dp4736
 g4716
 g4717
@@ -18702,7 +18702,7 @@ sg4726
 g4727
 sg4728
 g4729
-ssI928
+ssL928L
 (dp4737
 S'date'
 p4738
@@ -18720,7 +18720,7 @@ sS'starttime'
 p4744
 S'4:50 pm'
 p4745
-ssI929
+ssL929L
 (dp4746
 S'date'
 p4747
@@ -18742,7 +18742,7 @@ sS'city'
 p4755
 S'las vegas'
 p4756
-ssI930
+ssL930L
 (dp4757
 g4747
 g4748
@@ -18755,7 +18755,7 @@ S'2:40pm'
 p4758
 sg4755
 g4756
-ssI931
+ssL931L
 (dp4759
 g4747
 g4748
@@ -18768,7 +18768,7 @@ S'5:20pm'
 p4760
 sg4755
 g4756
-ssI932
+ssL932L
 (dp4761
 g4747
 g4748
@@ -18781,7 +18781,7 @@ S'8:05pm'
 p4762
 sg4755
 g4756
-ssI933
+ssL933L
 (dp4763
 g4747
 g4748
@@ -18794,7 +18794,7 @@ S'10:35pm'
 p4764
 sg4755
 g4756
-ssI934
+ssL934L
 (dp4765
 S'genre'
 p4766
@@ -18812,7 +18812,7 @@ sS'moviename'
 p4772
 S'the other side of the door'
 p4773
-ssI935
+ssL935L
 (dp4774
 g4766
 g4767
@@ -18823,7 +18823,7 @@ g4771
 sg4772
 S'the witch'
 p4775
-ssI936
+ssL936L
 (dp4776
 S'city'
 p4777
@@ -18849,7 +18849,7 @@ sS'moviename'
 p4787
 S'zootopia'
 p4788
-ssI937
+ssL937L
 (dp4789
 g4777
 g4778
@@ -18864,7 +18864,7 @@ sg4785
 g4786
 sg4787
 g4788
-ssI938
+ssL938L
 (dp4791
 g4777
 g4778
@@ -18879,7 +18879,7 @@ sg4785
 g4786
 sg4787
 g4788
-ssI939
+ssL939L
 (dp4793
 g4777
 g4778
@@ -18893,7 +18893,7 @@ sg4785
 g4786
 sg4787
 g4788
-ssI940
+ssL940L
 (dp4794
 g4777
 g4778
@@ -18908,7 +18908,7 @@ sg4785
 g4786
 sg4787
 g4788
-ssI941
+ssL941L
 (dp4796
 S'city'
 p4797
@@ -18946,7 +18946,7 @@ sS'genre'
 p4813
 S'thriller science fiction'
 p4814
-ssI942
+ssL942L
 (dp4815
 g4797
 S'carbondale'
@@ -18967,7 +18967,7 @@ sg4811
 g4812
 sg4813
 g4814
-ssI943
+ssL943L
 (dp4817
 g4797
 g4798
@@ -18988,7 +18988,7 @@ sg4811
 g4812
 sg4813
 g4814
-ssI944
+ssL944L
 (dp4819
 g4797
 g4816
@@ -19008,7 +19008,7 @@ sg4811
 g4812
 sg4813
 g4814
-ssI945
+ssL945L
 (dp4820
 g4797
 g4798
@@ -19029,7 +19029,7 @@ sg4811
 g4812
 sg4813
 g4814
-ssI946
+ssL946L
 (dp4822
 S'date'
 p4823
@@ -19051,7 +19051,7 @@ sS'starttime'
 p4831
 S'7:15pm'
 p4832
-ssI947
+ssL947L
 (dp4833
 g4823
 g4824
@@ -19064,7 +19064,7 @@ sg4829
 g4830
 sg4831
 g4832
-ssI948
+ssL948L
 (dp4835
 g4823
 g4824
@@ -19077,7 +19077,7 @@ g4830
 sg4831
 S'7:15'
 p4836
-ssI949
+ssL949L
 (dp4837
 g4823
 g4824
@@ -19089,7 +19089,7 @@ sg4829
 g4830
 sg4831
 g4836
-ssI950
+ssL950L
 (dp4838
 S'city'
 p4839
@@ -19115,7 +19115,7 @@ sS'moviename'
 p4849
 S'hail caesar'
 p4850
-ssI951
+ssL951L
 (dp4851
 S'date'
 p4852
@@ -19133,7 +19133,7 @@ sS'starttime'
 p4858
 S'night'
 p4859
-ssI952
+ssL952L
 (dp4860
 S'date'
 p4861
@@ -19155,7 +19155,7 @@ sS'starttime'
 p4869
 S'10:00 pm'
 p4870
-ssI953
+ssL953L
 (dp4871
 S'date'
 p4872
@@ -19177,7 +19177,7 @@ sS'video_format'
 p4880
 S'2d'
 p4881
-ssI954
+ssL954L
 (dp4882
 g4872
 S'tomorrow'
@@ -19190,7 +19190,7 @@ sg4878
 g4879
 sg4880
 g4881
-ssI955
+ssL955L
 (dp4884
 g4872
 g4873
@@ -19203,7 +19203,7 @@ S'6pm'
 p4885
 sg4880
 g4881
-ssI956
+ssL956L
 (dp4886
 g4872
 g4883
@@ -19215,7 +19215,7 @@ sg4878
 g4885
 sg4880
 g4881
-ssI957
+ssL957L
 (dp4887
 g4872
 g4873
@@ -19228,7 +19228,7 @@ S'9:01pm'
 p4888
 sg4880
 g4881
-ssI958
+ssL958L
 (dp4889
 S'city'
 p4890
@@ -19254,7 +19254,7 @@ sS'moviename'
 p4900
 S'race'
 p4901
-ssI959
+ssL959L
 (dp4902
 S'city'
 p4903
@@ -19280,7 +19280,7 @@ sS'moviename'
 p4913
 S'london has fallen'
 p4914
-ssI960
+ssL960L
 (dp4915
 g4903
 g4904
@@ -19295,7 +19295,7 @@ sg4911
 g4912
 sg4913
 g4914
-ssI961
+ssL961L
 (dp4917
 S'city'
 p4918
@@ -19305,14 +19305,14 @@ sS'other'
 p4920
 S'restaurants'
 p4921
-ssI962
+ssL962L
 (dp4922
 g4918
 g4919
 sg4920
 S'book movie tickets'
 p4923
-ssI963
+ssL963L
 (dp4924
 S'city'
 p4925
@@ -19350,7 +19350,7 @@ sS'moviename'
 p4941
 S'gods of egypt'
 p4942
-ssI964
+ssL964L
 (dp4943
 g4925
 g4926
@@ -19371,7 +19371,7 @@ sg4939
 g4940
 sg4941
 g4942
-ssI965
+ssL965L
 (dp4945
 g4925
 g4926
@@ -19392,7 +19392,7 @@ sg4939
 g4940
 sg4941
 g4942
-ssI966
+ssL966L
 (dp4947
 g4925
 g4926
@@ -19413,7 +19413,7 @@ sg4939
 g4940
 sg4941
 g4942
-ssI967
+ssL967L
 (dp4949
 g4925
 g4926
@@ -19434,7 +19434,7 @@ sg4939
 g4940
 sg4941
 g4942
-ssI968
+ssL968L
 (dp4951
 S'city'
 p4952
@@ -19468,7 +19468,7 @@ sS'moviename'
 p4966
 S'london has fallen'
 p4967
-ssI969
+ssL969L
 (dp4968
 g4952
 g4953
@@ -19487,7 +19487,7 @@ sg4964
 g4965
 sg4966
 g4967
-ssI970
+ssL970L
 (dp4970
 g4952
 g4953
@@ -19506,7 +19506,7 @@ sg4964
 g4965
 sg4966
 g4967
-ssI971
+ssL971L
 (dp4972
 g4952
 g4953
@@ -19524,7 +19524,7 @@ sg4964
 g4965
 sg4966
 g4967
-ssI972
+ssL972L
 (dp4973
 g4952
 g4953
@@ -19543,7 +19543,7 @@ sg4964
 g4965
 sg4966
 g4967
-ssI973
+ssL973L
 (dp4975
 S'date'
 p4976
@@ -19565,7 +19565,7 @@ sS'starttime'
 p4984
 S'7:15 pm'
 p4985
-ssI974
+ssL974L
 (dp4986
 S'date'
 p4987
@@ -19587,7 +19587,7 @@ sS'starttime'
 p4995
 S'7:10 pm'
 p4996
-ssI975
+ssL975L
 (dp4997
 S'city'
 p4998
@@ -19625,7 +19625,7 @@ sS'moviename'
 p5014
 S'the witch'
 p5015
-ssI976
+ssL976L
 (dp5016
 g4998
 g4999
@@ -19646,7 +19646,7 @@ sg5012
 g5013
 sg5014
 g5015
-ssI977
+ssL977L
 (dp5018
 g4998
 g4999
@@ -19667,7 +19667,7 @@ sg5012
 g5013
 sg5014
 g5015
-ssI978
+ssL978L
 (dp5020
 g4998
 g4999
@@ -19687,7 +19687,7 @@ sg5012
 g5013
 sg5014
 g5015
-ssI979
+ssL979L
 (dp5021
 g4998
 g4999
@@ -19708,7 +19708,7 @@ sg5012
 g5013
 sg5014
 g5015
-ssI980
+ssL980L
 (dp5023
 S'city'
 p5024
@@ -19746,7 +19746,7 @@ sS'moviename'
 p5040
 S'zootopia'
 p5041
-ssI981
+ssL981L
 (dp5042
 g5024
 S'bellevue'
@@ -19767,7 +19767,7 @@ sg5038
 g5039
 sg5040
 g5041
-ssI982
+ssL982L
 (dp5044
 g5024
 g5025
@@ -19788,7 +19788,7 @@ sg5038
 g5039
 sg5040
 g5041
-ssI983
+ssL983L
 (dp5046
 g5024
 g5043
@@ -19808,7 +19808,7 @@ sg5038
 g5039
 sg5040
 g5041
-ssI984
+ssL984L
 (dp5047
 g5024
 g5025
@@ -19829,7 +19829,7 @@ sg5038
 g5039
 sg5040
 g5041
-ssI985
+ssL985L
 (dp5049
 S'city'
 p5050
@@ -19855,7 +19855,7 @@ sS'moviename'
 p5060
 S'zootopia'
 p5061
-ssI986
+ssL986L
 (dp5062
 g5050
 g5051
@@ -19870,7 +19870,7 @@ sg5058
 g5059
 sg5060
 g5061
-ssI987
+ssL987L
 (dp5064
 g5050
 g5051
@@ -19885,7 +19885,7 @@ sg5058
 g5059
 sg5060
 g5061
-ssI988
+ssL988L
 (dp5066
 g5050
 g5051
@@ -19900,7 +19900,7 @@ sg5058
 g5059
 sg5060
 g5061
-ssI989
+ssL989L
 (dp5068
 g5050
 g5051
@@ -19914,7 +19914,7 @@ sg5058
 g5059
 sg5060
 g5061
-ssI990
+ssL990L
 (dp5069
 S'date'
 p5070

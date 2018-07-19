@@ -47,7 +47,7 @@ class nlu:
     def load_nlu_model(self, model_path):
         """ load the trained NLU model """
 
-        model_params = pickle.load(open(model_path))
+        model_params = pickle.load(open(model_path, 'rb'), encoding='latin-1')
         # model_params = pickle.load(open(model_path, 'rb'))
     
         hidden_size = model_params['model']['Wd'].shape[0]
