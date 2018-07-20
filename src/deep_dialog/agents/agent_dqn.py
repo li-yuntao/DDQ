@@ -261,11 +261,11 @@ class AgentDQN(Agent):
         """Sample batch size examples from experience buffer and convert it to torch readable format"""
         # type: (int, ) -> Transition
 
-        batch = [random.choice(self.running_expereince_pool) for i in xrange(batch_size)]
+        batch = [random.choice(self.running_expereince_pool) for i in range(batch_size)]
         np_batch = []
         for x in range(len(Transition._fields)):
             v = []
-            for i in xrange(batch_size):
+            for i in range(batch_size):
                 v.append(batch[i][x])
             np_batch.append(np.vstack(v))
 
@@ -279,7 +279,7 @@ class AgentDQN(Agent):
         self.running_expereince_pool = list(self.experience_replay_pool) + list(self.experience_replay_pool_from_model)
 
         for iter_batch in range(num_batches):
-            for iter in range(len(self.running_expereince_pool) / (batch_size)):
+            for iter in range(len(self.running_expereince_pool) // (batch_size)):
                 self.optimizer.zero_grad()
                 batch = self.sample_from_buffer(batch_size)
 

@@ -55,7 +55,7 @@ class nlg:
         
         # remove I do not care slot in task(complete)
         if dia_act['diaact'] == 'inform' and 'taskcomplete' in dia_act['inform_slots'].keys() and dia_act['inform_slots']['taskcomplete'] != dialog_config.NO_VALUE_MATCH:
-            inform_slot_set = dia_act['inform_slots'].keys()
+            inform_slot_set = list(dia_act['inform_slots'].keys())
             for slot in inform_slot_set:
                 if dia_act['inform_slots'][slot] == dialog_config.I_DO_NOT_CARE: del dia_act['inform_slots'][slot]
         
@@ -184,11 +184,12 @@ class nlg:
         """ Load some pre-defined Dia_Act&NL Pairs from file """
         
         self.diaact_nl_pairs = json.load(open(path, 'rb'))
-        
+        '''
         for key in self.diaact_nl_pairs['dia_acts'].keys():
             for ele in self.diaact_nl_pairs['dia_acts'][key]:
                 ele['nl']['usr'] = ele['nl']['usr'].encode('utf-8') # encode issue
                 ele['nl']['agt'] = ele['nl']['agt'].encode('utf-8') # encode issue
+        '''
 
 
 def main(params):

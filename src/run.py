@@ -159,7 +159,7 @@ for u_goal_id, u_goal in enumerate(all_goal_set):
 # end split goal set
 
 movie_kb_path = params['movie_kb_path']
-movie_kb = pickle.load(open(movie_kb_path, 'rb'), encoding='bytes')
+movie_kb = pickle.load(open(movie_kb_path, 'rb'))
 
 act_set = text_to_dict(params['act_set'])
 slot_set = text_to_dict(params['slot_set'])
@@ -453,7 +453,7 @@ def run_episodes(count, status):
     grounded_for_model = params['grounded']
     simulation_epoch_size = planning_steps + 1
 
-    if agt == 9 and params['trained_model_path'] is not None and warm_start == 1:
+    if agt == 9 and params['trained_model_path'] is None and warm_start == 1:
         print('warm_start starting ...')
         warm_start_simulation()
         print('warm_start finished, start RL training ...')
@@ -478,7 +478,7 @@ def run_episodes(count, status):
                 cumulative_turns += dialog_manager.state_tracker.turn_count
 
         # simulation
-        if agt == 9 and params['trained_model_path'] is not None:
+        if agt == 9 and params['trained_model_path'] is None:
             agent.predict_mode = True
             world_model.predict_mode = True
             simulation_epoch_for_training(simulation_epoch_size, grounded_for_model)

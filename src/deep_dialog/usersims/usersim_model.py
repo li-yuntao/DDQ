@@ -78,11 +78,11 @@ class ModelBasedSimulator(UserSimulator):
     def _sample_action(self):
         """ randomly sample a start action based on user goal """
 
-        self.state['diaact'] = random.choice(dialog_config.start_dia_acts.keys())
+        self.state['diaact'] = random.choice(list(dialog_config.start_dia_acts.keys()))
 
         # "sample" informed slots
         if len(self.goal['inform_slots']) > 0:
-            known_slot = random.choice(self.goal['inform_slots'].keys())
+            known_slot = random.choice(list(self.goal['inform_slots'].keys()))
             self.state['inform_slots'][known_slot] = self.goal['inform_slots'][known_slot]
 
             if 'moviename' in self.goal['inform_slots'].keys():  # 'moviename' must appear in the first user turn
@@ -144,12 +144,12 @@ class ModelBasedSimulator(UserSimulator):
     def sample_from_buffer(self, batch_size):
         """Sample batch size examples from experience buffer and convert it to torch readable format"""
 
-        batch = [random.choice(self.training_examples) for i in xrange(batch_size)]
+        batch = [random.choice(self.training_examples) for i in range(batch_size)]
         np_batch = []
 
         for x in range(len(Transition._fields)):
             v = []
-            for i in xrange(batch_size):
+            for i in range(batch_size):
                 v.append(batch[i][x])
             np_batch.append(np.vstack(v))
 
@@ -164,7 +164,7 @@ class ModelBasedSimulator(UserSimulator):
         """
         self.total_loss = 0
         for iter_batch in range(num_batches):
-            for iter in range(len(self.training_examples) / (batch_size)):
+            for iter in range(len(self.training_examples) // (batch_size)):
                 self.optimizer.zero_grad()
 
                 batch = self.sample_from_buffer(batch_size)
@@ -251,7 +251,7 @@ class ModelBasedSimulator(UserSimulator):
 
         if action['diaact'] == 'inform':
             if len(action['inform_slots'].keys()) > 0:
-                slots = action['inform_slots'].keys()[0]
+                slots = list(action['inform_slots'].keys())[0]
                 if slots in self.sample_goal['inform_slots'].keys():
                     action['inform_slots'][slots] = self.sample_goal['inform_slots'][slots]
                 else:

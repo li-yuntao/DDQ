@@ -246,7 +246,7 @@ class RuleSimulator(UserSimulator):
         self.episode_over = True
         self.dialog_status = dialog_config.SUCCESS_DIALOG
 
-        request_slot_set = copy.deepcopy(self.state['request_slots'].keys())
+        request_slot_set = copy.deepcopy(set(self.state['request_slots'].keys()))
         if 'ticket' in request_slot_set:
             request_slot_set.remove('ticket')
         rest_slot_set = copy.deepcopy(self.state['rest_slots'])
@@ -274,7 +274,7 @@ class RuleSimulator(UserSimulator):
         """ Response for Request (System Action) """
         
         if len(system_action['request_slots'].keys()) > 0:
-            slot = system_action['request_slots'].keys()[0] # only one slot
+            slot = list(system_action['request_slots'].keys())[0] # only one slot
             if slot in self.goal['inform_slots'].keys(): # request slot in user's constraints  #and slot not in self.state['request_slots'].keys():
                 self.state['inform_slots'][slot] = self.goal['inform_slots'][slot]
                 self.state['diaact'] = "inform"
