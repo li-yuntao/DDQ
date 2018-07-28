@@ -81,7 +81,7 @@ class StateTracker:
         """ Get the state representatons to send to agent """
         #state = {'user_action': self.history_dictionaries[-1], 'current_slots': self.current_slots, 'kb_results': self.kb_results_for_state()}
         state = {'user_action': self.history_dictionaries[-1], 'current_slots': self.current_slots, #'kb_results': self.kb_results_for_state(), 
-                 'kb_results_dict':self.kb_helper.database_results_for_agent(self.current_slots), 'turn': self.turn_count, 'history': self.history_dictionaries, 
+                 'kb_results_dict': self.kb_helper.database_results_for_agent(self.current_slots), 'turn': self.turn_count, 'history': self.history_dictionaries,
                  'agent_action': self.history_dictionaries[-2] if len(self.history_dictionaries) > 1 else None}
         return copy.deepcopy(state)
 

@@ -167,7 +167,7 @@ slot_set = text_to_dict(params['slot_set'])
 ################################################################################
 # a movie dictionary for user simulator - slot:possible values
 ################################################################################
-movie_dictionary = pickle.load(open(dict_path, 'rb'), encoding='bytes')
+movie_dictionary = pickle.load(open(dict_path, 'rb'))
 
 dialog_config.run_mode = params['run_mode']
 dialog_config.auto_suggest = params['auto_suggest']
@@ -526,7 +526,7 @@ def run_episodes(count, status):
     status['successes'] += successes
     status['count'] += count
 
-    if agt == 9 and params['trained_model_path'] is not None:
+    if agt == 9 and params['trained_model_path'] is None:
         save_model(params['write_model_dir'], agt, float(successes) / count, best_model['model'], best_res['epoch'],
                    count)
         save_performance_records(params['write_model_dir'], agt, performance_records)

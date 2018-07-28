@@ -968,1149 +968,1149 @@ S'ryan reynolds'
 p483
 aS'tina fey'
 p484
-asS'date'
+asS'theater_chain'
 p485
 (lp486
-S'tomorrow'
+S'regal meridian'
 p487
-aS'this weekend'
+aS'amc'
 p488
-aS'saturday'
+aS'amc loews stony brook 17'
 p489
-aS'tonight'
+aS'amc hamilton 24'
 p490
-aS'today'
+aS'amc pacific place 11'
 p491
-aS'friday'
+aS'regency'
 p492
-aS'3/11'
+aS'amc loews waterfront 22'
 p493
-aS'now'
+aS'century'
 p494
-aS'tomorrow afternoon'
+aS'amc star john r 15'
 p495
-aS'march 12'
+aS'amc star southfield'
 p496
-aS'friday march 11'
+aS'amc lowes oak tree 6'
 p497
-aS'Friday'
+aS'amc loews oak tree 6'
 p498
-aS'tuesday'
+aS'amc showplace carbondale 8'
 p499
-aS'next friday'
+aS'century eastport 16'
 p500
-aS'3/12'
+aS'amc theater'
 p501
-aS'weekend'
+aS'amc ahwatukee 24'
 p502
-aS'3/10'
+aS' amc mesa grand 24'
 p503
-aS'march 24th'
+aS'amc showplace carbondale'
 p504
-aS'openingnight'
-p505
-aS' a different day'
-p506
-aS'tomorrow evening'
-p507
-aS'thursday'
-p508
-aS'next saturday'
-p509
-aS'March 12th'
-p510
-aS'Tuesday the 8th'
-p511
-aS'3/8'
-p512
-aS'last weekend'
-p513
-aS'this week'
-p514
-aS'wednesday'
-p515
-aS'tomorrow night'
-p516
-aS'3/9/2016'
-p517
-aS'03\\/15\\/2016'
-p518
-aS'3/15'
-p519
-aS'march 12th'
-p520
-aS'3/9'
-p521
-aS'this evening'
-p522
-aS'this friday'
-p523
-aS'next sunday'
-p524
-aS'3/13'
-p525
-aS'9th'
-p526
-aS'this time'
-p527
-aS'11th'
-p528
-aS'that night'
-p529
-aS'march 11th'
-p530
-aS'21-mar'
-p531
-aS'march 25 2016'
-p532
-aS'Saturday'
-p533
-aS'coming saturday'
-p534
-aS'current'
-p535
-aS'this saturday'
-p536
-aS'march 15th'
-p537
-aS'march 9'
-p538
-aS'march 10 2016'
-p539
-aS'june 17 2016'
-p540
-aS'Friday the 11th'
-p541
-aS'another night'
-p542
-aS'3/10/2016'
-p543
-aS'friday evening'
-p544
-aS'7th'
-p545
-aS'that date'
-p546
-aS'sunday'
-p547
-aS'earlier day'
-p548
-aS'mar 12'
-p549
-aS'Saturday night'
-p550
-aS'this date'
-p551
-aS'Tuesday'
-p552
-aS'friday11th'
-p553
-aS'Friday the 10th'
-p554
-aS'any day this week'
-p555
-aS'tomrrow'
-p556
 asS'state'
-p557
-(lp558
+p505
+(lp506
 S'nj'
-p559
+p507
 aS'washington'
-p560
+p508
 aS'wa'
-p561
+p509
 aS'al'
-p562
+p510
 aS'oregon'
-p563
+p511
 aS'mi'
-p564
+p512
 aS'iowa'
-p565
+p513
 aS'pennsylvania'
-p566
+p514
 aS'california'
-p567
+p515
 aS'ma'
-p568
+p516
 aS'illinois'
-p569
+p517
 aS'ny'
-p570
+p518
 aS'fl'
-p571
+p519
 aS'ca'
-p572
+p520
 aS'tn'
-p573
+p521
 aS'florida'
-p574
+p522
 aS'il'
-p575
+p523
 aS'pa'
-p576
+p524
 aS'ga'
-p577
+p525
 aS'mn'
-p578
+p526
 aS'OR'
-p579
+p527
 aS'north carolina'
-p580
+p528
 aS'mo'
-p581
+p529
 aS'alabama'
-p582
+p530
 aS'louisiana'
-p583
+p531
 aS'WA'
-p584
+p532
 aS'NY'
-p585
+p533
 aS'virginia'
-p586
+p534
 aS'texas'
-p587
+p535
 aS'ne'
-p588
+p536
 aS'georgia'
-p589
+p537
 aS'va'
-p590
+p538
 aS'IA'
-p591
+p539
 aS'maryland'
-p592
+p540
 aS'nc'
-p593
+p541
 aS'or'
-p594
+p542
 aS'michigan'
-p595
+p543
 aS'la'
-p596
+p544
 aS'LA'
-p597
+p545
 aS'nv'
-p598
+p546
 asS'other'
-p599
-(lp600
+p547
+(lp548
 S'not available'
-p601
+p549
 aS'movie assistant number'
-p602
+p550
 aS'movie booking service'
-p603
+p551
 aS'search theater'
-p604
+p552
 aS'cannot book'
-p605
+p553
 aS'servicing tickets'
-p606
+p554
 aS'rotten tomatoes'
-p607
+p555
 aS'pub serves good burgers'
-p608
+p556
 aS'serves seafood'
-p609
+p557
 aS'date'
-p610
+p558
 aS'scary'
-p611
+p559
 aS'restaurant'
-p612
+p560
 aS'beer'
-p613
+p561
 aS'mexican restaurant'
-p614
+p562
 aS'best restaurant'
-p615
+p563
 aS'japanese restaurant'
-p616
+p564
 aS"that's odd"
-p617
+p565
 aS'crossed'
-p618
+p566
 aS'little late'
-p619
+p567
 aS'pub'
-p620
+p568
 aS'number 1'
-p621
+p569
 aS'switch cities'
-p622
+p570
 aS'name'
-p623
+p571
 aS'unable to book movies'
-p624
+p572
 aS'I cannot understand your reply'
-p625
+p573
 aS'purchase tickets'
-p626
+p574
 aS'look up date'
-p627
+p575
 aS'increased functionality'
-p628
+p576
 aS'functionality'
-p629
+p577
 aS'Master User'
-p630
+p578
 aS'master user'
-p631
+p579
 aS'two'
-p632
+p580
 aS'another preference'
-p633
+p581
 aS'no'
-p634
+p582
 aS'check again'
-p635
+p583
 aS'new release'
-p636
+p584
 aS'new releases'
-p637
+p585
 aS'place that serves seafood'
-p638
+p586
 aS'favorite part'
-p639
+p587
 aS'worth watching'
-p640
+p588
 aS'subtitiles'
-p641
+p589
 aS'subtitles'
-p642
+p590
 aS'many many theaters'
-p643
+p591
 aS'different selection of movies'
-p644
+p592
 aS'search for a theater'
-p645
+p593
 aS'latest showing'
-p646
+p594
 aS'Italian restaurant'
-p647
+p595
 aS'restaurant booking service'
-p648
+p596
 aS'online ticketing'
-p649
+p597
 aS"I can't remember"
-p650
+p598
 aS"can't think of"
-p651
+p599
 aS'search theaters'
-p652
+p600
 aS'cheapest'
-p653
+p601
 aS'do not know'
-p654
+p602
 aS'date night'
-p655
+p603
 aS'disney'
-p656
+p604
 aS'search by movie or movie theater'
-p657
+p605
 aS'indian restaurant'
-p658
+p606
 aS' movie purchasing service'
-p659
+p607
 aS'movie ticket buying service'
-p660
+p608
 aS'early in the day'
-p661
+p609
 aS'safeco field'
-p662
+p610
 aS'many'
-p663
+p611
 aS'pizza place'
-p664
+p612
 aS'restaurant reservations'
-p665
+p613
 aS'pizza restaurant'
-p666
+p614
 aS'restaurant service'
-p667
+p615
 aS'laughable'
-p668
+p616
 aS'english and chinese subtitles'
-p669
+p617
 aS'matinee'
-p670
+p618
 aS' matinee'
-p671
+p619
 aS'good restaurant'
-p672
+p620
 aS'currently'
-p673
+p621
 aS'george on the riverwak'
-p674
+p622
 aS'purchase'
-p675
+p623
 aS'odd'
-p676
+p624
 aS'got crossed'
-p677
+p625
 aS'29 movies'
-p678
+p626
 aS'I can bring my cat to'
-p679
+p627
 aS'I can order beer in'
-p680
+p628
 aS"don't know"
-p681
+p629
 aS'closed'
-p682
+p630
 aS'serve alcohol'
-p683
+p631
 aS"I don't know"
-p684
+p632
 aS"I'm not from around here"
-p685
+p633
 aS'restaurants'
-p686
+p634
 aS'book movie tickets'
-p687
+p635
 aS'before dinner'
-p688
+p636
 asS'mpaa_rating'
-p689
-(lp690
+p637
+(lp638
 S'pg'
-p691
+p639
 aS'rated pg'
-p692
+p640
 aS'pg13'
-p693
+p641
 aS'best'
-p694
+p642
 aS'appropriate for the whole family'
-p695
+p643
 aS'r'
 asS'starttime'
-p696
-(lp697
+p644
+(lp645
 S'10:30am'
-p698
+p646
 aS'11:10am'
-p699
+p647
 aS'1:10pm'
-p700
+p648
 aS'1:50pm'
-p701
+p649
 aS'3:45pm'
-p702
+p650
 aS'4:30pm'
-p703
+p651
 aS'5:20pm'
-p704
+p652
 aS'6:30pm'
-p705
+p653
 aS'7:15pm'
-p706
+p654
 aS'9:10pm'
-p707
+p655
 aS'10:30pm'
-p708
+p656
 aS'12:30pm'
-p709
+p657
 aS'9:30pm'
-p710
+p658
 aS'9:30'
-p711
+p659
 aS'8:40pm'
-p712
+p660
 aS'7:00pm'
-p713
+p661
 aS'9:50pm'
-p714
+p662
 aS'none'
-p715
+p663
 aS'before 4pm'
-p716
+p664
 aS'12:00'
-p717
+p665
 aS'1:10'
-p718
+p666
 aS'2:40'
-p719
+p667
 aS'3:50'
-p720
+p668
 aS'around 2pm'
-p721
+p669
 aS'1:30'
-p722
+p670
 aS'4:00'
-p723
+p671
 aS'night'
-p724
+p672
 aS'11:05am'
-p725
+p673
 aS'1:45pm'
-p726
+p674
 aS'7:20 pm'
-p727
+p675
 aS'4:35pm'
-p728
+p676
 aS'10pm'
-p729
+p677
 aS'10 pm'
-p730
+p678
 aS'latest showing'
-p731
+p679
 aS'9:00 pm'
-p732
+p680
 aS'around 6pm'
-p733
+p681
 aS'7:20'
-p734
+p682
 aS'9:10 pm'
-p735
+p683
 aS'8:45 pm'
-p736
+p684
 aS'8:45'
-p737
+p685
 aS'9:50 pm'
-p738
+p686
 aS'around 3 pm'
-p739
+p687
 aS'12pm'
-p740
+p688
 aS'9:30 pm'
-p741
+p689
 aS'6pm'
-p742
+p690
 aS'9:01pm'
-p743
+p691
 aS'5:30pm'
-p744
+p692
 aS'8:00pm'
-p745
+p693
 aS'10:40pm'
-p746
+p694
 aS'2:30pm'
-p747
+p695
 aS'5:10pm'
-p748
+p696
 aS'10:00pm'
-p749
+p697
 aS'7:15 pm'
-p750
+p698
 aS'7pm'
-p751
+p699
 aS'around 7pm'
-p752
+p700
 aS'earliest showing'
-p753
+p701
 aS'12:45pm'
-p754
+p702
 aS'1:15pm'
-p755
+p703
 aS'12:45'
-p756
+p704
 aS'12:35pm'
-p757
+p705
 aS' 4:05pm'
-p758
+p706
 aS' 7:05pm'
-p759
+p707
 aS' 9:55pm'
-p760
+p708
 aS'7:05 pm'
-p761
+p709
 aS'after dinner'
-p762
+p710
 aS'after 7:30pm'
-p763
+p711
 aS'10:50pm'
-p764
+p712
 aS'7:50pm'
-p765
+p713
 aS'10:20pm'
-p766
+p714
 aS'8pm'
-p767
+p715
 aS'8:20'
-p768
+p716
 aS'8:15pm'
-p769
+p717
 aS'between 9 and 10'
-p770
+p718
 aS'10:20'
-p771
+p719
 aS'after 7pm'
-p772
+p720
 aS'4:40 pm'
-p773
+p721
 aS'before dinner'
-p774
+p722
 aS'7:10 pm'
-p775
+p723
 aS'betwenn 8-10 pm'
-p776
+p724
 aS'4 pm'
-p777
+p725
 aS'4:20'
-p778
+p726
 aS'4:20pm'
-p779
+p727
 aS'from noon to 4pm'
-p780
+p728
 aS'8:30pm'
-p781
+p729
 aS'11:00pm'
-p782
+p730
 aS'11pm'
-p783
+p731
 aS' Matinee'
-p784
+p732
 aS'4pm to 7pm'
-p785
+p733
 aS'6:55pm'
-p786
+p734
 aS'11:50am'
-p787
+p735
 aS'5:10'
-p788
+p736
 aS'7:50'
-p789
+p737
 aS'10:25'
-p790
+p738
 aS'2:30'
-p791
+p739
 aS'9:25 pm'
-p792
+p740
 aS'2:35 pm'
-p793
+p741
 aS'2:35'
-p794
+p742
 aS'afternoon'
-p795
+p743
 aS'10:00am'
-p796
+p744
 aS'3:30pm'
-p797
+p745
 aS'6:15pm'
-p798
+p746
 aS'9:00pm'
-p799
+p747
 aS'3:30'
-p800
+p748
 aS'11:30am'
-p801
+p749
 aS'1:05pm'
-p802
+p750
 aS'2:35pm'
-p803
+p751
 aS'4:10pm'
-p804
+p752
 aS'5:40pm'
-p805
+p753
 aS'7:05pm'
-p806
+p754
 aS'8:35pm'
-p807
+p755
 aS'9:55pm'
-p808
+p756
 aS'10:05am'
-p809
+p757
 aS'11:00am'
-p810
+p758
 aS'2:00pm'
-p811
+p759
 aS'4:05pm'
-p812
+p760
 aS'4:50pm'
-p813
+p761
 aS'6:45pm'
-p814
+p762
 aS'7:45pm'
-p815
+p763
 aS'10:45am'
-p816
+p764
 aS'11:15am'
-p817
+p765
 aS'1:00pm'
-p818
+p766
 aS'2:15pm'
-p819
+p767
 aS'4:00pm'
-p820
+p768
 aS'4:45pm'
-p821
+p769
 aS'5:15pm'
-p822
+p770
 aS'7:30pm'
-p823
+p771
 aS'morning'
-p824
+p772
 aS'7:00 pm'
-p825
+p773
 aS'12:15pm'
-p826
+p774
 aS'3:00pm'
-p827
+p775
 aS'5:45pm'
-p828
+p776
 aS'10:00 pm'
-p829
+p777
 aS'4:50 pm'
-p830
+p778
 aS'7:05'
-p831
+p779
 aS'around 4pm'
-p832
+p780
 aS'4 PM'
-p833
+p781
 aS'8:00 pm'
-p834
+p782
 aS'8:40'
-p835
+p783
 aS'8:00'
-p836
+p784
 aS'8'
 aS'5pm'
-p837
+p785
 aS'5:00 pm'
-p838
+p786
 aS'around 8 pm'
-p839
+p787
 aS'1:30pm'
-p840
+p788
 aS'4pm'
-p841
+p789
 aS'130pm'
-p842
+p790
 aS'closest to noon'
-p843
+p791
 aS'late showing'
-p844
+p792
 aS'anytime after 7pm'
-p845
+p793
 aS'4:10&&7:00&&9:50pm'
-p846
+p794
 aS'4:40&&7:30&&10:20'
-p847
+p795
 aS'2pm'
-p848
+p796
 aS'2:20 pm'
-p849
+p797
 aS'11:45am'
-p850
+p798
 aS'around 9pm'
-p851
+p799
 aS'9pm'
-p852
+p800
 aS'8:25pm'
-p853
+p801
 aS'9:05pm'
-p854
+p802
 aS'9:05'
-p855
+p803
 aS'9:45pm'
-p856
+p804
 aS'around 7 pm'
-p857
+p805
 aS'8:45pm'
-p858
+p806
 aS'5:25pm'
-p859
+p807
 aS'5:25'
-p860
+p808
 aS'317'
-p861
+p809
 aS'10:25pm'
-p862
+p810
 aS'9:55'
-p863
+p811
 aS'6:25'
-p864
+p812
 aS' 9:00 pm'
-p865
+p813
 aS'7:55pm'
-p866
+p814
 aS'10:45pm'
-p867
+p815
 aS'11:55pm'
-p868
+p816
 aS'10:10am'
-p869
+p817
 aS'1:25pm'
-p870
+p818
 aS'2:20pm'
-p871
+p819
 aS'3:50pm'
-p872
+p820
 aS'7:10pm'
-p873
+p821
 aS'9:35pm'
-p874
+p822
 aS'11:10pm'
-p875
+p823
 aS'12:05am'
-p876
+p824
 aS'7:30'
-p877
+p825
 aS'7:00'
-p878
+p826
 aS'around 6 pm'
-p879
+p827
 aS'5:20'
-p880
+p828
 aS'6:30'
-p881
+p829
 aS'4:10'
-p882
+p830
 aS'4:40'
-p883
+p831
 aS'10:15pm'
-p884
+p832
 aS'10:15'
-p885
+p833
 aS'12:05pm'
-p886
+p834
 aS'6:25pm'
-p887
+p835
 aS'after 5 pm'
-p888
+p836
 aS'930pm'
-p889
+p837
 aS'640pm'
-p890
+p838
 aS'night around 8pm'
-p891
+p839
 aS"8 o'clock"
-p892
+p840
 aS'9:20 pm'
-p893
+p841
 aS'9:20'
-p894
+p842
 aS'12:20pm'
-p895
+p843
 aS'3:40pm'
-p896
+p844
 aS'6:50pm'
-p897
+p845
 aS'8:40pm tonight'
-p898
+p846
 aS'around 8pm'
-p899
+p847
 aS'9:10'
-p900
+p848
 aS'605pm'
-p901
+p849
 aS'6 pm'
-p902
+p850
 aS'2:20PM'
-p903
+p851
 aS'2:20'
-p904
+p852
 aS'between noon and 4pm'
-p905
+p853
 aS'early'
-p906
+p854
 aS'10:35'
-p907
+p855
 aS'11:40 am'
-p908
+p856
 aS'between 2 and 4pm'
-p909
+p857
 aS'6:55'
-p910
+p858
 aS'6:10pm'
-p911
+p859
 aS'7:20pm'
-p912
+p860
 aS'7:25pm'
-p913
+p861
 aS'9:20pm'
-p914
+p862
 aS'2 pm'
-p915
+p863
 aS'soonest'
-p916
+p864
 aS'12:40pm'
-p917
+p865
 aS'3:40'
-p918
+p866
 aS'6:50'
-p919
+p867
 aS'10:00'
-p920
+p868
 aS'10 o clock'
-p921
+p869
 aS'5:00pm'
-p922
+p870
 aS'7:40pm'
-p923
+p871
 aS'740'
-p924
+p872
 aS'10 cloverfield lane'
-p925
+p873
 aS' 6:30pm'
-p926
+p874
 aS' 9:10pm'
-p927
+p875
 aS' 11:55pm'
-p928
+p876
 aS'roughly every hour'
-p929
+p877
 aS'9:45 pm'
-p930
+p878
 aS'7'
 aS'4:40pm'
-p931
+p879
 aS'matinee'
-p932
+p880
 aS'evening'
-p933
+p881
 aS'8:20 pm'
-p934
+p882
 aS'tonight'
-p935
+p883
 aS'7:30 pm'
-p936
+p884
 aS'8:15 pm'
-p937
+p885
 aS'8:15am'
-p938
+p886
 aS'after 6 pm'
-p939
+p887
 aS'6:45'
-p940
+p888
 aS' around 7pm'
-p941
+p889
 aS'4:25 pm'
-p942
+p890
 aS'7:15'
-p943
+p891
 aS'7:10'
-p944
+p892
 aS'10:05'
-p945
+p893
 aS'7:25 pm'
-p946
+p894
 aS'pm'
-p947
+p895
 aS'any time'
-p948
+p896
 aS'12:20'
-p949
+p897
 aS'later in the evening'
-p950
+p898
 aS'12:00pm'
-p951
+p899
 aS'between 5pm and 6pm'
-p952
+p900
 aS'between 5 and 6pm'
-p953
+p901
 aS'around noon'
-p954
+p902
 aS'soonest upcoming showing'
-p955
+p903
 aS'6:05'
-p956
+p904
 aS'7:25'
-p957
+p905
 aS'1:35 pm'
-p958
+p906
 aS'4:30'
-p959
+p907
 aS'around 5pm'
-p960
+p908
 aS'2:00 pm'
-p961
+p909
 aS'1:35pm'
-p962
+p910
 aS'9:25pm'
-p963
+p911
 aS'8:10PM'
-p964
+p912
 aS'evening around 6pm'
-p965
+p913
 aS'6:30 pm'
-p966
+p914
 aS'5:50'
-p967
+p915
 aS'6:40 pm'
-p968
+p916
 aS'a lot'
-p969
+p917
 aS'sonnest'
-p970
+p918
 aS'705pm'
-p971
+p919
 aS'635pm'
-p972
+p920
 aS'6:35'
-p973
+p921
 aS'1:15'
-p974
+p922
 aS'7 pm'
-p975
+p923
 aS'6:40pm'
-p976
+p924
 aS'anytime after 6pm'
-p977
+p925
 aS'between 8 and 10 pm'
-p978
+p926
 aS'8 pm'
-p979
+p927
 aS'6:00pm'
-p980
+p928
 aS'11:40pm'
-p981
+p929
 aS'1:30 pm'
-p982
+p930
 aS'3:20pm'
-p983
+p931
 aS'8:05'
-p984
+p932
 aS'11:40'
-p985
+p933
 aS'between 8 and 9pm'
-p986
+p934
 aS'9:25'
-p987
+p935
 aS'after 7 pm'
-p988
+p936
 aS'5:50pm'
-p989
+p937
 aS'2:25pm'
-p990
+p938
 aS'2:25'
-p991
+p939
 aS'between say 4pm and 7pm'
-p992
+p940
 aS'evening around 7'
-p993
+p941
 aS' 10:30'
-p994
+p942
 aS'the next'
-p995
+p943
 aS'the next showing'
-p996
+p944
 aS'2:05 pm'
-p997
+p945
 aS'7:40'
-p998
+p946
 aS'6:00'
-p999
+p947
 aS'8:30'
-p1000
+p948
 aS'between 4pm and 7pm'
-p1001
+p949
 aS'730pm'
-p1002
+p950
 aS'early afternoon'
-p1003
+p951
 aS' 7:40pm'
-p1004
+p952
 aS' 10:10pm'
-p1005
+p953
 aS'1:50'
-p1006
+p954
 aS' 4:30'
-p1007
+p955
 aS' 7:10'
-p1008
+p956
 aS' 9:50'
-p1009
+p957
 aS'2:40pm'
-p1010
+p958
 aS'kinky there'
-p1011
+p959
 aS'7:35 pm'
-p1012
+p960
 aS'7:35'
-p1013
+p961
 aS'midnight'
-p1014
+p962
 aS'late'
-p1015
+p963
 aS'from 4pm to 7pm'
-p1016
+p964
 aS'1:55'
-p1017
+p965
 aS'4:25'
-p1018
+p966
 aS'anytime'
-p1019
+p967
 aS'once or twice every hour'
-p1020
+p968
 aS'340pm'
-p1021
+p969
 aS' 425pm'
-p1022
+p970
 aS'4:25pm'
-p1023
+p971
 aS'425pm'
-p1024
+p972
 aS'9'
 aS'10'
-p1025
+p973
 aS'some time close to that'
-p1026
+p974
 aS'11:20am'
-p1027
+p975
 aS'between 8-10 pm'
-p1028
+p976
 aS'8:05pm'
-p1029
+p977
 aS'10:35pm'
-p1030
+p978
 aS'after 6pm'
-p1031
+p979
 aS'11:20'
-p1032
+p980
 aS'12:35'
-p1033
+p981
 aS'right now'
-p1034
+p982
 aS'1:55pm'
-p1035
+p983
 aS'10:05pm'
-p1036
+p984
 aS'10:05 pm'
+p985
+asS'date'
+p986
+(lp987
+S'tomorrow'
+p988
+aS'this weekend'
+p989
+aS'saturday'
+p990
+aS'tonight'
+p991
+aS'today'
+p992
+aS'friday'
+p993
+aS'3/11'
+p994
+aS'now'
+p995
+aS'tomorrow afternoon'
+p996
+aS'march 12'
+p997
+aS'friday march 11'
+p998
+aS'Friday'
+p999
+aS'tuesday'
+p1000
+aS'next friday'
+p1001
+aS'3/12'
+p1002
+aS'weekend'
+p1003
+aS'3/10'
+p1004
+aS'march 24th'
+p1005
+aS'openingnight'
+p1006
+aS' a different day'
+p1007
+aS'tomorrow evening'
+p1008
+aS'thursday'
+p1009
+aS'next saturday'
+p1010
+aS'March 12th'
+p1011
+aS'Tuesday the 8th'
+p1012
+aS'3/8'
+p1013
+aS'last weekend'
+p1014
+aS'this week'
+p1015
+aS'wednesday'
+p1016
+aS'tomorrow night'
+p1017
+aS'3/9/2016'
+p1018
+aS'03\\/15\\/2016'
+p1019
+aS'3/15'
+p1020
+aS'march 12th'
+p1021
+aS'3/9'
+p1022
+aS'this evening'
+p1023
+aS'this friday'
+p1024
+aS'next sunday'
+p1025
+aS'3/13'
+p1026
+aS'9th'
+p1027
+aS'this time'
+p1028
+aS'11th'
+p1029
+aS'that night'
+p1030
+aS'march 11th'
+p1031
+aS'21-mar'
+p1032
+aS'march 25 2016'
+p1033
+aS'Saturday'
+p1034
+aS'coming saturday'
+p1035
+aS'current'
+p1036
+aS'this saturday'
 p1037
-asS'theater_chain'
+aS'march 15th'
 p1038
-(lp1039
-S'regal meridian'
+aS'march 9'
+p1039
+aS'march 10 2016'
 p1040
-aS'amc'
+aS'june 17 2016'
 p1041
-aS'amc loews stony brook 17'
+aS'Friday the 11th'
 p1042
-aS'amc hamilton 24'
+aS'another night'
 p1043
-aS'amc pacific place 11'
+aS'3/10/2016'
 p1044
-aS'regency'
+aS'friday evening'
 p1045
-aS'amc loews waterfront 22'
+aS'7th'
 p1046
-aS'century'
+aS'that date'
 p1047
-aS'amc star john r 15'
+aS'sunday'
 p1048
-aS'amc star southfield'
+aS'earlier day'
 p1049
-aS'amc lowes oak tree 6'
+aS'mar 12'
 p1050
-aS'amc loews oak tree 6'
+aS'Saturday night'
 p1051
-aS'amc showplace carbondale 8'
+aS'this date'
 p1052
-aS'century eastport 16'
+aS'Tuesday'
 p1053
-aS'amc theater'
+aS'friday11th'
 p1054
-aS'amc ahwatukee 24'
+aS'Friday the 10th'
 p1055
-aS' amc mesa grand 24'
+aS'any day this week'
 p1056
-aS'amc showplace carbondale'
+aS'tomrrow'
 p1057
 asS'genre'
 p1058
